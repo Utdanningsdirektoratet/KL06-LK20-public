@@ -1,0 +1,852 @@
+{
+    "id": "3c03c709-4934-4012-9353-c14bfa8ff651",
+    "kode": "MAT1-05",
+    "uri": "http://test-psi.udir.no/kl06/MAT1-05",
+    "url-data": "http://test-data.udir.no/kl06/MAT1-05",
+    "tittel": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "Matematikk fellesfag"
+            }
+        ],
+        "forskrift": true
+    },
+    "grep-type": "http://test-psi.udir.no/ontologi/kl06/laereplan_lk20",
+    "status": "http://test-data.udir.no/kl06/status_publisert",
+    "sist-endret": null,
+    "om-faget-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Om faget"
+                }
+            ],
+            "forskrift": true
+        },
+        "fagets-relevans": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Fagets relevans"
+                    }
+                ],
+                "forskrift": true
+            },
+            "beskrivelse": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Å lære matematikk handlar om å utforske mønster og strukturere verda rundt seg. Den globale utviklinga krev samarbeid og kreativitet slik at elevane kan meistre å finne løysingar på problem og ta reflekterte avgjerder for eiga livsmeistring, eit trygt demokrati og ei berekraftig framtid/utvikling. For den enkelte eleven: Å lære matematikk er å utvikle kompetanse i å finne løysingar, vurdere og argumentere for eigne idear og kommunisere med matematiske symbol og matematisk språk.Å lære matematikk kan fremje livsmeistringa til eleven ved sjølvtillit og meistring i å bruke matematikk i ulike samanhengar. Samfunns - og arbeidslivsperspektiv: Å lære matematikk gir høve til å forstå naturen og samfunnet.Det gir grunnlag for å delta i avgjerdsprosessar i samfunnet og i den teknologiske utviklinga."
+                    }
+                ],
+                "forskrift": true
+            },
+            "forklaring": [
+                {
+                    "spraak": "default",
+                    "verdi": "Forklaring på fagets relevans"
+                }
+            ]
+        },
+        "kjerneelementer-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Kjerneelementer i faget"
+                    }
+                ],
+                "forskrift": true
+            },
+            "kjerneelementer": [
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "Default",
+                                "verdi": "Utforsking og problemløysing"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "Default",
+                                "verdi": "Dette kjerneelementet er det viktigaste for faget og for høvet til djupnelæring. Dei andre kjerneelementa må sjåast i samanheng med dette. Utforsking handlar om at elevane leiter etter mønster og finn samanhengar. Det må leggjast meir vekt på ulike strategiar og framgangsmåtar enn på sjølve løysingane. Problemløysing handlar om at elevane utviklar løysingsmetodar på eit problem dei ikkje kjenner frå før. Algoritmisk tenking er viktig i prosessen med å utvikle strategiar og framgangsmåtar og inneber å kunne bryte ned eit problem i delproblem som kan løysast systematisk. Viktig innhald vil vere å kunne stille matematiske spørsmål og formulere matematiske problemstillingar, identifisere problem, vere uthaldande, utvikle og kunne velje effektive problemløysingsstrategiar og utforske og løyse problem ved hjelp av programmering. Elevane må få høve til å vere nysgjerrige, også på fagstoff som dei ikkje elles møter av matematikk på trinnet sitt."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring"
+                        }
+                    ],
+                    "referanse": {
+                        "kode": "KE1",
+                        "uri": "http://test-psi.udir.no/kl06/KE1",
+                        "url-data": "http://test-data.udir.no/kl06/KE1",
+                        "tittel": "Utforsking og problemløysing"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "Default",
+                                "verdi": "Modellering og bruk"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "Default",
+                                "verdi": "Elevane skal ha innsikt i korleis matematikk blir brukt i dagleglivet, samfunnslivet og innanfor vitskap og teknologi. Det inneber å ta ei problemstilling frå verkelegheita, formulere henne om til ein matematisk modell og tolke modellen i lys av den opphavlege situasjonen. Elevane bør få innsikt i korleis modellar kan brukast i nye situasjonar. Viktig kompetanse vil vere å kunne omsetje til eit matematisk språk, bruke matematiske modellar og tolke løysingar, vurdere gyldigheitsområdet og avgrensingane til ein modell, utvikle kritisk tenking og vurdere når det er formålstenleg å bruke programmering til å utforske matematiske modellar. Funksjonar, måling og statistikk vil vere viktige innhaldselement."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "forklaring..."
+                        }
+                    ],
+                    "referanse": {
+                        "kode": "KE2",
+                        "uri": "http://test-psi.udir.no/kl06/KE2",
+                        "url-data": "http://test-data.udir.no/kl06/KE2",
+                        "tittel": "Modellering og bruk"
+                    }
+                }
+            ]
+        },
+        "verdigrunnlaget-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Fagspesifikk tekst om hvordan verdigrunnlaget synliggjøres i faget"
+                    }
+                ],
+                "forskrift": true
+            },
+            "beskrivelse": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "<h2>Motivasjon og meistring</h2> <p>Motivasjon og meistring er viktig i alle fag, men kanskje særleg i matematikk for å leggje til rette for matematikkglede.Det er derfor viktig at elevane opplever at dei får nok tid til å meistre den grunnleggjande talforståinga, og at dei får høve til å utvikle forståing for sentrale matematiske omgrep gjennom heile skuleløpet.Vidare er det nødvendig at elevane opplever motivasjon og meistring for å leggje til rette for djupnelæring.Elevane må få oppleve at matematikk er spennande og kreativt og få tid til å tenkje, reflektere, resonnere og stille spørsmål.Det er viktig med trygge læringsmiljø der det er greitt å undre seg, prøve, feile og prøve igjen, og der ein utforskar feil for å lære betre.</p> <h2>Relevans</h2> <p>For å auke relevansen til matematikkfaget må det leggjast opp til arbeid med realistiske data og situasjonar.Dette kan ein mellom anna oppnå ved å bruke konkretar, eigne målingar, digitale verktøy og programmering.Elevane må få utforske matematikk i kvardagen og sjå at matematikk blir brukt både i arbeidslivet og i andre daglege situasjonar.</p> <h2>Skaparglede, engasjement og utforskartrong</h2> <p>Det er viktig å la elevane få undre seg, vere kreative og oppdage matematikken og la dei få innblikk i korleis matematikken har utvikla seg i takt med at menneska har vore nysgjerrige og utforskande.Kjerneelementa legg derfor vekt på tenkjemåtar og metodar, det vil seie at ein må setje prosessen, ikkje berre resultatet, i fokus.</p> <h2>Kritisk tenking</h2> <p>Matematikk er viktig for utviklinga av kritisk tenking, og elevane skal lære å vere kritiske og analytiske til informasjon.Elevane skal få innblikk i korleis matematikk påverkar forståinga av sosiale, politiske og økonomiske situasjonar, og korleis matematikkunnskap er viktig når ein skal vere ein aktiv samfunnsdeltakar.Det er viktig å kunne reflektere over matematikken og stille seg kritisk og open til korleis han blir brukt.Algoritmar som er baserte på statistikk, styrer i dag ein stor del av kvardagen vår, og det er viktig å kunne vurdere dette med eit kritisk blikk og forstå korleis det påverkar oss.</p> <p>Å lære å lære</h2> <p>Det å lære å lære heng tett saman med djupnelæring. For å kunne utvikle forståing i matematikk må elevane reflektere over det dei lærer, og setje det i samanheng med det dei kan frå før. Utforsking og refleksjon må derfor få ein større plass i dette faget. Elevane må få høve til å utvikle eit språk for læring som dei nyttar saman med medelevane og læraren.Forsking viser at det å arbeide systematisk med å utforske feil som eit utgangspunkt for å lære meir og betre er spesielt effektivt i matematikk, og det vil òg bidra til å setje prosessen snarare enn produktet i fokus.</p>"
+                    }
+                ],
+                "forskrift": true
+            },
+            "forklaring": [
+                {
+                    "spraak": "default",
+                    "verdi": "Forklarende tekst..."
+                }
+            ]
+        },
+        "tverrfaglige-temaer-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Tverrfaglige temaer i faget"
+                    }
+                ],
+                "forskrift": true
+            },
+            "tverrfaglige-tema": [
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Folkehelse og livsmestring"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Folkehelse og livsmestring er tatt med i dette faget pga..."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring for hvorfor en har med Folkehelse og livsmestring"
+                        }
+                    ],
+                    "referanse": {
+                        "kode": "tverrfaglig_tema_folkehelse_og_livsmestring",
+                        "uri": "http://test-psi.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
+                        "url-data": "http://test-data.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
+                        "tittel": "Folkehelse og livsmestring"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Demokrati og medborgarskap"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Demokrati og medborgarskap er tatt med i dette faget pga..."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring for hvorfor en har med Demokrati og medborgarskap"
+                        }
+                    ],
+                    "referanse": {
+                        "kode": "tverrfaglig_tema_folkehelse_og_livsmestring",
+                        "uri": "http://test-psi.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
+                        "url-data": "http://test-data.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
+                        "tittel": "Demokrati og medborgarskap"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Bærekraftig utvikling"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Bærekraftig utvikling er tatt med i dette faget pga..."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring for hvorfor en har med Bærekraftig utvikling"
+                        }
+                    ],
+                    "referanse": {
+                        "kode": "tverrfaglig_tema_baerekraftig_utvikling",
+                        "uri": "http://test-psi.udir.no/kl06/tverrfaglig_tema_baerekraftig_utvikling",
+                        "url-data": "http://test-data.udir.no/kl06/tverrfaglig_tema_baerekraftig_utvikling",
+                        "tittel": "Bærekraftig utvikling"
+                    }
+                }
+            ]
+        },
+        "grunnleggende-ferdigheter-i-faget": {
+            "overskrift": {
+                "tekst": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Grunnleggende ferdigheter i faget"
+                    }
+                ],
+                "forskrift": true
+            },
+            "grunnleggende-ferdigheter": [
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Digitale ferdigheter"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Digitale ferdigheiter i matematikkfaget handlar om å kunne innhente relevant informasjon, behandle data, nytte digitale ressursar for å løyse, forstå og vurdere matematiske problem og samanhengar, presentere matematisk innhald og kommunisere.Gjennom dynamisk programvare kan elevane utvikle forståing for samanhengen mellom dei ulike delane av faget.Gjennom bruk av rekneark kan elevane behandle større mengder informasjon og utleie og presentere samanhengar.Gjennom programmering kan elevane vere meir kreative i tilnærminga til problemstillingar og få høve til å utforske samanhengar som det ikkje har vore mogleg å utforske før. Utviklinga går frå bruk av programvare og applikasjonar til å forstå matematiske omgrep og samanhengar til stadig meir avansert bruk av programmering som hjelpemiddel i både utforsking, løysing og presentasjon av komplekse matematiske problem."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring av grunnleggende ferdighet Digitale ferdigheter"
+                        }
+                    ],
+                    "referanse": {
+                        "kode": "grunnleggende_ferdighet_digitale_ferdigheter",
+                        "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_digitale_ferdigheter",
+                        "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_digitale_ferdigheter",
+                        "tittel": "Digitale ferdigheter"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Muntlige ferdigheter"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Munnlege ferdigheiter i matematikkfaget handlar om å kommunisere med, i og om matematikk. Omgrepa til elevane utviklar seg frå eit uformelt språk til presis fagterminologi. Elevar med andre morsmål enn norsk må få støtte til å byggje bru mellom matematiske omgrep på morsmålet og på norsk. For å kunne lære matematikk er det avgjerande at elevane utviklar eit matematisk språk med presise omgrep. Elevane viser denne kompetansen ved å bruke dei rette omgrepa i rett samanheng og ved å utnytte desse samanhengane der det er relevant. Samtalar, formulering av spørsmål, diskusjon, argumentasjon og refleksjon mellom elevane og mellom elevane og læraren bidreg til djupnelæring. Elevane må òg argumentere for at eigne løysingar og framgangsmåtar er haldbare. Ved å lytte til resonnementa til medelevane kan elevane oppnå ny innsikt. Utviklinga går frå å forklare ein tankegang og lytte til andre sine idear for å forstå til å diskutere matematiske framgangsmåtar og argumentere for eit matematisk resonnement.Utviklinga av munnlege resonnement og forklaringar av tankegang er viktig for djupnelæringa i matematikk."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring av grunnleggende ferdighet Muntlige ferdigheter"
+                        }
+                    ],
+                    "referanse": {
+                        "kode": "grunnleggende_ferdighet_muntlige_ferdigheter",
+                        "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_muntlige_ferdigheter",
+                        "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_muntlige_ferdigheter",
+                        "tittel": "Muntlige ferdigheter"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne lese"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å lese i matematikkfaget inneber at elevane må tolke og identifisere matematiske problem i tekstar der det matematiske innhaldet blir uttrykt på varierte måtar. Tekstane kan innehalde ulike uttrykksformer som skal tolkast, til dømes symbol, figurar, teikningar, grafiske framstillingar, tabellar og diagram. Å lese i matematikkfaget inneber òg å kunne tolke ein geometrisk figur eller eit diagram utan at det nødvendigvis inngår i ein skriftleg tekst. Elevane må forstå samanhengen mellom dei ulike uttrykksformene. Elevane må òg lære å trekkje ut informasjon frå ein multimodal tekst, leite etter mønster og oppdage samanhengar i innhaldet. Å lese i matematikkfaget inneber dessutan at elevane må kunne følgje og vurdere eit verbalspråkleg, matematisk resonnement og avgjere om løysinga er gyldig. Utviklinga går frå å forstå enkle matematiske representasjonar til å sjå samanhengar i stadig meir komplekse og abstrakte samansette matematiske tekstar og bruke innhaldet til å utvikle eigne strategiar og framgangsmåtar. Det er derfor viktig at elevane møter gode modelltekstar på sitt nivå i undervisninga."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring av grunnleggende ferdighet Å kunne lese"
+                        }
+                    ],
+                    "referanse": {
+                        "kode": "grunnleggende_ferdighet_lese",
+                        "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_lese",
+                        "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_lese",
+                        "tittel": "Å kunne lese"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne regne"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å rekne i matematikkfaget inneber å bruke symbolspråk og matematiske omgrep, framgangsmåtar og strategiar til problemløysing og utforsking som tek utgangspunkt i både praktiske, daglegdagse situasjonar og i matematiske problem. Eit viktig element er å vurdere om løysinga er logisk og formålstenleg. Utviklinga går frå grunnleggjande talforståing og det å kjenne igjen og løyse problem ut frå enkle situasjonar til å analysere og løyse ulike komplekse problem ved hjelp av eit variert utval strategiar og metodar. Det inneber at elevane i aukande grad bruker ulike hjelpemiddel i berekningar, modellering og kommunikasjon. Matematikkfaget har eit særskilt ansvar for innlæringa av denne grunnleggjande ferdigheita."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring av grunnleggende ferdighet Å kunne regne"
+                        }
+                    ],
+                    "referanse": {
+                        "kode": "grunnleggende_ferdighet_regne",
+                        "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_regne",
+                        "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_regne",
+                        "tittel": "Å kunne regne"
+                    }
+                },
+                {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å kunne skrive"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Å skrive i matematikkfaget inneber at elevane kan illustrere og systematisere opplysningar ved hjelp av ulike uttrykksformer. Symbol, figurar, teikningar, grafiske framstillingar, tabellar og diagram hjelper elevane til å utvikle varierte strategiar og framgangsmåtar for å uttrykkje løysingane sine. Skriving i matematikk er ein reiskap både for å utvikle eigne tankar og eiga læring og for å presentere tankegangen og resonnementa på ein forståeleg måte i kommunikasjon med andre. Utviklinga går frå å skrive enkle matematiske representasjonar og forklaringar til å komme med stadig meir komplekse resonnement for å løyse problem og grunngi løysingane."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring av grunnleggende ferdighet Å kunne skrive"
+                        }
+                    ],
+                    "referanse": {
+                        "kode": "grunnleggende_ferdighet_skrive",
+                        "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_skrive",
+                        "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_skrive",
+                        "tittel": "Å kunne skrive"
+                    }
+                }
+            ]
+        }
+    },
+    "kompetansemaal-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Kompetansemål"
+                }
+            ],
+            "forskrift": true
+        },
+        "kompetansemaalsett": [
+            {
+                "id": "129ca8c7-e839-4551-a2e2-9998f48f1f81",
+                "kode": "KMS1",
+                "uri": "http://test-psi.udir.no/kl06/KMS1",
+                "url-data": "http://test-data.udir.no/kl06/KMS1",
+                "tittel": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Etter 1. årstrinn"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "grep-type": "http://test-psi.udir.no/ontologi/kl06/kompetansemaalsett",
+                "forklaring": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Forklaring..."
+                    }
+                ],
+                "etter-fag": null,
+                "maal-for-kompetansemaalene-overskrift": null,
+                "kompetansemaal": [
+                    {
+                        "rekkefoelge": 1,
+                        "tilknyttede-tverrfaglige-tema": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "forklaring..."
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "tverrfaglig_tema_folkehelse_og_livsmestring",
+                                    "uri": "http://test-psi.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
+                                    "url-data": "http://test-data.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
+                                    "tittel": "Folkehelse og livsmestring"
+                                }
+                            }
+                        ],
+                        "tilknyttede-kjerneelementer": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "forklaring..."
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "KE1",
+                                    "uri": "http://test-psi.udir.no/kl06/KE1",
+                                    "url-data": "http://test-data.udir.no/kl06/KE1",
+                                    "tittel": "Utforsking og problemløysing"
+                                }
+                            }
+                        ],
+                        "tilknyttede-grunnleggende-ferdigheter": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "forklaring..."
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "grunnleggende_ferdighet_digitale_ferdigheter",
+                                    "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_digitale_ferdigheter",
+                                    "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_digitale_ferdigheter",
+                                    "tittel": "Digitale ferdigheter"
+                                }
+                            }
+                        ],
+                        "tilknyttede-verb": [],
+                        "bygger-paa": [],
+                        "tilknyttede-kompetansemaal-i-annen-plan": [],
+                        "tilknyttede-kjerneelement-i-annen-plan": [],
+                        "samme-som": [],
+                        "kode": "K1",
+                        "uri": "http://test-psi.udir.no/kl06/K1",
+                        "url-data": "http://test-data.udir.no/kl06/K1",
+                        "tittel": {
+                            "tekst": [
+                                {
+                                    "spraak": "default",
+                                    "verdi": "ordne og sortere gjenstandar ut frå ulike eigenskapar og diskutere om dette kan gjerast på fleire måtar"
+                                }
+                            ],
+                            "forskrift": true
+                        },
+                        "forklaring": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Forklaring..."
+                            }
+                        ]
+                    },
+                    {
+                        "rekkefoelge": 2,
+                        "tilknyttede-tverrfaglige-tema": [],
+                        "tilknyttede-kjerneelementer": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "forklaring..."
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "KE2",
+                                    "uri": "http://test-psi.udir.no/kl06/KE2",
+                                    "url-data": "http://test-data.udir.no/kl06/KE2",
+                                    "tittel": "Modellering og bruk"
+                                }
+                            }
+                        ],
+                        "tilknyttede-grunnleggende-ferdigheter": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "forklaring..."
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": null,
+                                    "uri": null,
+                                    "url-data": null,
+                                    "tittel": "Muntlige ferdigheter"
+                                }
+                            }
+                        ],
+                        "tilknyttede-verb": [],
+                        "bygger-paa": [],
+                        "tilknyttede-kompetansemaal-i-annen-plan": [],
+                        "tilknyttede-kjerneelement-i-annen-plan": [],
+                        "samme-som": [],
+                        "kode": "K2",
+                        "uri": "http://test-psi.udir.no/kl06/K2",
+                        "url-data": "http://test-data.udir.no/kl06/K2",
+                        "tittel": {
+                            "tekst": [
+                                {
+                                    "spraak": "default",
+                                    "verdi": "leike og eksperimentere med ulike typar teljing i praktiske situasjonar"
+                                }
+                            ],
+                            "forskrift": true
+                        },
+                        "forklaring": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Forklaring..."
+                            }
+                        ]
+                    }
+                ],
+                "fagspesifikk-omtale-om-vurdering": {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Fagspesifikk omtale av vurdering i fag"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Den fagspesifikke teksten om vurdering er ikkje klar til denne innspelsrunden."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring..."
+                        }
+                    ]
+                },
+                "rekkefoelge": 0,
+                "etter-aarstrinn": null,
+                "benyttes-paa-aarstrinn": null
+            },
+            {
+                "id": "d0a1d4fd-cb72-4608-8269-39270144364b",
+                "kode": "KMS2",
+                "uri": "http://test-psi.udir.no/kl06/KMS2",
+                "url-data": "http://test-data.udir.no/kl06/KMS2",
+                "tittel": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Etter 2. årstrinn"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "grep-type": "http://test-psi.udir.no/ontologi/kl06/kompetansemaalsett",
+                "forklaring": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Forklaring..."
+                    }
+                ],
+                "etter-fag": null,
+                "maal-for-kompetansemaalene-overskrift": null,
+                "kompetansemaal": [
+                    {
+                        "rekkefoelge": 1,
+                        "tilknyttede-tverrfaglige-tema": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "forklaring..."
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "tverrfaglig_tema_folkehelse_og_livsmestring",
+                                    "uri": "http://test-psi.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
+                                    "url-data": "http://test-data.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
+                                    "tittel": "Folkehelse og livsmestring"
+                                }
+                            }
+                        ],
+                        "tilknyttede-kjerneelementer": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "forklaring..."
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "KE1",
+                                    "uri": "http://test-psi.udir.no/kl06/KE1",
+                                    "url-data": "http://test-data.udir.no/kl06/KE1",
+                                    "tittel": "Utforsking og problemløysing"
+                                }
+                            }
+                        ],
+                        "tilknyttede-grunnleggende-ferdigheter": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "forklaring..."
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "grunnleggende_ferdighet_digitale_ferdigheter",
+                                    "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_digitale_ferdigheter",
+                                    "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_digitale_ferdigheter",
+                                    "tittel": "Digitale ferdigheter"
+                                }
+                            }
+                        ],
+                        "tilknyttede-verb": [],
+                        "bygger-paa": [],
+                        "tilknyttede-kompetansemaal-i-annen-plan": [],
+                        "tilknyttede-kjerneelement-i-annen-plan": [],
+                        "samme-som": [],
+                        "kode": "K3",
+                        "uri": "http://test-psi.udir.no/kl06/K3",
+                        "url-data": "http://test-data.udir.no/kl06/K3",
+                        "tittel": {
+                            "tekst": [
+                                {
+                                    "spraak": "default",
+                                    "verdi": "leike og eksperimentere med ulike typar teljing i praktiske situasjonar og beskrive mønster i teljinga"
+                                }
+                            ],
+                            "forskrift": true
+                        },
+                        "forklaring": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Forklaring..."
+                            }
+                        ]
+                    },
+                    {
+                        "rekkefoelge": 2,
+                        "tilknyttede-tverrfaglige-tema": [],
+                        "tilknyttede-kjerneelementer": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "forklaring..."
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "KE2",
+                                    "uri": "http://test-psi.udir.no/kl06/KE2",
+                                    "url-data": "http://test-data.udir.no/kl06/KE2",
+                                    "tittel": "Modellering og bruk"
+                                }
+                            }
+                        ],
+                        "tilknyttede-grunnleggende-ferdigheter": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "forklaring..."
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": null,
+                                    "uri": null,
+                                    "url-data": null,
+                                    "tittel": "Muntlige ferdigheter"
+                                }
+                            }
+                        ],
+                        "tilknyttede-verb": [],
+                        "bygger-paa": [],
+                        "tilknyttede-kompetansemaal-i-annen-plan": [],
+                        "tilknyttede-kjerneelement-i-annen-plan": [],
+                        "samme-som": [],
+                        "kode": "K4",
+                        "uri": "http://test-psi.udir.no/kl06/K4",
+                        "url-data": "http://test-data.udir.no/kl06/K4",
+                        "tittel": {
+                            "tekst": [
+                                {
+                                    "spraak": "default",
+                                    "verdi": "utforske og samtale om relasjonar mellom tal"
+                                }
+                            ],
+                            "forskrift": true
+                        },
+                        "forklaring": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Forklaring..."
+                            }
+                        ]
+                    }
+                ],
+                "fagspesifikk-omtale-om-vurdering": {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Fagspesifikk omtale av vurdering i fag"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Eleven viser kompetanse i matematikk gjennom å utforske mønster i leik og snakke om samanhengar og eigenskapar. Eleven kan bruke tal og mengder i ulike situasjonar og kan representere tal og mengder på varierte måtar. Eleven kan bruke den matematiske kompetansen sin i problemløysing og daglegliv og kan reflektere over sine eigne framgangsmåtar."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring..."
+                        }
+                    ]
+                },
+                "rekkefoelge": 0,
+                "etter-aarstrinn": null,
+                "benyttes-paa-aarstrinn": null
+            }
+        ]
+    },
+    "vurdering-kapittel": null,
+    "fastsettelsesinformasjon": {
+        "fastsatt-dato": null,
+        "fastsettelsestekst": null,
+        "fastsatt-spraak": null,
+        "fastsatt-dato-overskrift": null
+    },
+    "fagtype": null,
+    "tilgjengelige-spraak": null,
+    "opplaeringsnivaa": null,
+    "gyldighetsperiode": {
+        "gyldig-fra": {
+            "overskrift": null,
+            "dato": null
+        },
+        "gyldig-til": {
+            "overskrift": null,
+            "dato": null
+        }
+    },
+    "erstatter": null,
+    "erstattes-av": null,
+    "siste-eksamen": null
+}
