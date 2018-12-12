@@ -14,7 +14,7 @@
     },
     "grep-type": "http://test-psi.udir.no/ontologi/kl06/laereplan_lk20",
     "status": "http://test-data.udir.no/kl06/status_publisert",
-    "sist-endret": null,
+    "sist-endret": "2018-12-12T13:16:05.228885",
     "om-faget-kapittel": {
         "overskrift": {
             "tekst": [
@@ -142,7 +142,7 @@
                 "tekst": [
                     {
                         "spraak": "default",
-                        "verdi": "<h2>Motivasjon og meistring</h2> <p>Motivasjon og meistring er viktig i alle fag, men kanskje særleg i matematikk for å leggje til rette for matematikkglede.Det er derfor viktig at elevane opplever at dei får nok tid til å meistre den grunnleggjande talforståinga, og at dei får høve til å utvikle forståing for sentrale matematiske omgrep gjennom heile skuleløpet.Vidare er det nødvendig at elevane opplever motivasjon og meistring for å leggje til rette for djupnelæring.Elevane må få oppleve at matematikk er spennande og kreativt og få tid til å tenkje, reflektere, resonnere og stille spørsmål.Det er viktig med trygge læringsmiljø der det er greitt å undre seg, prøve, feile og prøve igjen, og der ein utforskar feil for å lære betre.</p> <h2>Relevans</h2> <p>For å auke relevansen til matematikkfaget må det leggjast opp til arbeid med realistiske data og situasjonar.Dette kan ein mellom anna oppnå ved å bruke konkretar, eigne målingar, digitale verktøy og programmering.Elevane må få utforske matematikk i kvardagen og sjå at matematikk blir brukt både i arbeidslivet og i andre daglege situasjonar.</p> <h2>Skaparglede, engasjement og utforskartrong</h2> <p>Det er viktig å la elevane få undre seg, vere kreative og oppdage matematikken og la dei få innblikk i korleis matematikken har utvikla seg i takt med at menneska har vore nysgjerrige og utforskande.Kjerneelementa legg derfor vekt på tenkjemåtar og metodar, det vil seie at ein må setje prosessen, ikkje berre resultatet, i fokus.</p> <h2>Kritisk tenking</h2> <p>Matematikk er viktig for utviklinga av kritisk tenking, og elevane skal lære å vere kritiske og analytiske til informasjon.Elevane skal få innblikk i korleis matematikk påverkar forståinga av sosiale, politiske og økonomiske situasjonar, og korleis matematikkunnskap er viktig når ein skal vere ein aktiv samfunnsdeltakar.Det er viktig å kunne reflektere over matematikken og stille seg kritisk og open til korleis han blir brukt.Algoritmar som er baserte på statistikk, styrer i dag ein stor del av kvardagen vår, og det er viktig å kunne vurdere dette med eit kritisk blikk og forstå korleis det påverkar oss.</p> <p>Å lære å lære</h2> <p>Det å lære å lære heng tett saman med djupnelæring. For å kunne utvikle forståing i matematikk må elevane reflektere over det dei lærer, og setje det i samanheng med det dei kan frå før. Utforsking og refleksjon må derfor få ein større plass i dette faget. Elevane må få høve til å utvikle eit språk for læring som dei nyttar saman med medelevane og læraren.Forsking viser at det å arbeide systematisk med å utforske feil som eit utgangspunkt for å lære meir og betre er spesielt effektivt i matematikk, og det vil òg bidra til å setje prosessen snarare enn produktet i fokus.</p>"
+                        "verdi": "Motivasjon og meistring er viktig i alle fag, men kanskje særleg i matematikk for å leggje til rette for matematikkglede. Det er derfor viktig at elevane opplever at dei får nok tid til å meistre den grunnleggjande talforståinga, og at dei får høve til å utvikle forståing for sentrale matematiske omgrep gjennom heile skuleløpet. Vidare er det nødvendig at elevane opplever motivasjon og meistring for å leggje til rette for djupnelæring. Elevane må få oppleve at matematikk er spennande og kreativt og få tid til å tenkje, reflektere, resonnere og stille spørsmål. Det er viktig med trygge læringsmiljø der det er greitt å undre seg, prøve, feile og prøve igjen, og der ein utforskar feil for å lære betre. For å auke relevansen til matematikkfaget må det leggjast opp til arbeid med realistiske data og situasjonar. Dette kan ein mellom anna oppnå ved å bruke konkretar, eigne målingar, digitale verktøy og programmering. Elevane må få utforske matematikk i kvardagen og sjå at matematikk blir brukt både i arbeidslivet og i andre daglege situasjonar. Det er viktig å la elevane få undre seg, vere kreative og oppdage matematikken og la dei få innblikk i korleis matematikken har utvikla seg i takt med at menneska har vore nysgjerrige og utforskande. Kjerneelementa legg derfor vekt på tenkjemåtar og metodar, det vil seie at ein må setje prosessen, ikkje berre resultatet, i fokus. Matematikk er viktig for utviklinga av kritisk tenking, og elevane skal lære å vere kritiske og analytiske til informasjon. Elevane skal få innblikk i korleis matematikk påverkar forståinga av sosiale, politiske og økonomiske situasjonar, og korleis matematikkunnskap er viktig når ein skal vere ein aktiv samfunnsdeltakar. Det er viktig å kunne reflektere over matematikken og stille seg kritisk og open til korleis han blir brukt. Algoritmar som er baserte på statistikk, styrer i dag ein stor del av kvardagen vår, og det er viktig å kunne vurdere dette med eit kritisk blikk og forstå korleis det påverkar oss. Det å lære å lære heng tett saman med djupnelæring. For å kunne utvikle forståing i matematikk må elevane reflektere over det dei lærer, og setje det i samanheng med det dei kan frå før. Utforsking og refleksjon må derfor få ein større plass i dette faget. Elevane må få høve til å utvikle eit språk for læring som dei nyttar saman med medelevane og læraren. Forsking viser at det å arbeide systematisk med å utforske feil som eit utgangspunkt for å lære meir og betre er spesielt effektivt i matematikk, og det vil òg bidra til å setje prosessen snarare enn produktet i fokus."
                     }
                 ],
                 "forskrift": true
@@ -164,7 +164,7 @@
                 ],
                 "forskrift": true
             },
-            "tverrfaglige-tema": [
+            "tverrfaglige-temaer": [
                 {
                     "overskrift": {
                         "tekst": [
@@ -191,9 +191,9 @@
                         }
                     ],
                     "referanse": {
-                        "kode": "tverrfaglig_tema_folkehelse_og_livsmestring",
-                        "uri": "http://test-psi.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
-                        "url-data": "http://test-data.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
+                        "kode": "TT1",
+                        "uri": "http://test-psi.udir.no/kl06/TT1",
+                        "url-data": "http://test-data.udir.no/kl06/TT1",
                         "tittel": "Folkehelse og livsmestring"
                     }
                 },
@@ -223,9 +223,9 @@
                         }
                     ],
                     "referanse": {
-                        "kode": "tverrfaglig_tema_folkehelse_og_livsmestring",
-                        "uri": "http://test-psi.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
-                        "url-data": "http://test-data.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
+                        "kode": "TT2",
+                        "uri": "http://test-psi.udir.no/kl06/TT2",
+                        "url-data": "http://test-data.udir.no/kl06/TT2",
                         "tittel": "Demokrati og medborgarskap"
                     }
                 },
@@ -255,9 +255,9 @@
                         }
                     ],
                     "referanse": {
-                        "kode": "tverrfaglig_tema_baerekraftig_utvikling",
-                        "uri": "http://test-psi.udir.no/kl06/tverrfaglig_tema_baerekraftig_utvikling",
-                        "url-data": "http://test-data.udir.no/kl06/tverrfaglig_tema_baerekraftig_utvikling",
+                        "kode": "TT3",
+                        "uri": "http://test-psi.udir.no/kl06/TT3",
+                        "url-data": "http://test-data.udir.no/kl06/TT3",
                         "tittel": "Bærekraftig utvikling"
                     }
                 }
@@ -300,9 +300,9 @@
                         }
                     ],
                     "referanse": {
-                        "kode": "grunnleggende_ferdighet_digitale_ferdigheter",
-                        "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_digitale_ferdigheter",
-                        "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_digitale_ferdigheter",
+                        "kode": "GF1",
+                        "uri": "http://test-psi.udir.no/kl06/GF1",
+                        "url-data": "http://test-data.udir.no/kl06/GF1",
                         "tittel": "Digitale ferdigheter"
                     }
                 },
@@ -332,9 +332,9 @@
                         }
                     ],
                     "referanse": {
-                        "kode": "grunnleggende_ferdighet_muntlige_ferdigheter",
-                        "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_muntlige_ferdigheter",
-                        "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_muntlige_ferdigheter",
+                        "kode": "GF2",
+                        "uri": "http://test-psi.udir.no/kl06/GF2",
+                        "url-data": "http://test-data.udir.no/kl06/GF2",
                         "tittel": "Muntlige ferdigheter"
                     }
                 },
@@ -364,9 +364,9 @@
                         }
                     ],
                     "referanse": {
-                        "kode": "grunnleggende_ferdighet_lese",
-                        "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_lese",
-                        "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_lese",
+                        "kode": "GF3",
+                        "uri": "http://test-psi.udir.no/kl06/GF3",
+                        "url-data": "http://test-data.udir.no/kl06/GF3",
                         "tittel": "Å kunne lese"
                     }
                 },
@@ -396,9 +396,9 @@
                         }
                     ],
                     "referanse": {
-                        "kode": "grunnleggende_ferdighet_regne",
-                        "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_regne",
-                        "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_regne",
+                        "kode": "GF4",
+                        "uri": "http://test-psi.udir.no/kl06/GF4",
+                        "url-data": "http://test-data.udir.no/kl06/GF4",
                         "tittel": "Å kunne regne"
                     }
                 },
@@ -428,9 +428,9 @@
                         }
                     ],
                     "referanse": {
-                        "kode": "grunnleggende_ferdighet_skrive",
-                        "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_skrive",
-                        "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_skrive",
+                        "kode": "GF5",
+                        "uri": "http://test-psi.udir.no/kl06/GF5",
+                        "url-data": "http://test-data.udir.no/kl06/GF5",
                         "tittel": "Å kunne skrive"
                     }
                 }
@@ -469,8 +469,25 @@
                         "verdi": "Forklaring..."
                     }
                 ],
-                "etter-fag": null,
-                "maal-for-kompetansemaalene-overskrift": null,
+                "etter-fag": [
+                    {
+                        "gyldighet": {
+                            "gyldig-fra": "2020-08-01T00:00:00",
+                            "gyldig-til": "2025-08-01T00:00:00"
+                        },
+                        "status": "http://data.udir.no/kl06/status_publisert",
+                        "kode": "MAT1Z25",
+                        "uri": "http://psi.udir.no/kl06/MAT1Z25",
+                        "url-data": "http://data.udir.no/kl06/MAT1Z25",
+                        "tittel": "Matematikk 1. årstrinn"
+                    }
+                ],
+                "maal-for-kompetansemaalene-overskrift": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Mål for opplæringa er at eleven skal kunne"
+                    }
+                ],
                 "kompetansemaal": [
                     {
                         "rekkefoelge": 1,
@@ -483,9 +500,9 @@
                                     }
                                 ],
                                 "referanse": {
-                                    "kode": "tverrfaglig_tema_folkehelse_og_livsmestring",
-                                    "uri": "http://test-psi.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
-                                    "url-data": "http://test-data.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
+                                    "kode": "TT1",
+                                    "uri": "http://test-psi.udir.no/kl06/TT1",
+                                    "url-data": "http://test-data.udir.no/kl06/TT1",
                                     "tittel": "Folkehelse og livsmestring"
                                 }
                             }
@@ -515,9 +532,9 @@
                                     }
                                 ],
                                 "referanse": {
-                                    "kode": "grunnleggende_ferdighet_digitale_ferdigheter",
-                                    "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_digitale_ferdigheter",
-                                    "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_digitale_ferdigheter",
+                                    "kode": "GF1",
+                                    "uri": "http://test-psi.udir.no/kl06/GF1",
+                                    "url-data": "http://test-data.udir.no/kl06/GF1",
                                     "tittel": "Digitale ferdigheter"
                                 }
                             }
@@ -574,9 +591,9 @@
                                     }
                                 ],
                                 "referanse": {
-                                    "kode": null,
-                                    "uri": null,
-                                    "url-data": null,
+                                    "kode": "GF2",
+                                    "uri": "http://test-psi.udir.no/kl06/GF2",
+                                    "url-data": "http://test-data.udir.no/kl06/GF2",
                                     "tittel": "Muntlige ferdigheter"
                                 }
                             }
@@ -632,9 +649,23 @@
                         }
                     ]
                 },
-                "rekkefoelge": 0,
-                "etter-aarstrinn": null,
-                "benyttes-paa-aarstrinn": null
+                "rekkefoelge": 1,
+                "etter-aarstrinn": [
+                    {
+                        "kode": "aarstrinn1",
+                        "uri": "http://psi.udir.no/kl06/aarstrinn1",
+                        "url-data": "http://data.udir.no/kl06/aarstrinn1",
+                        "tittel": "Første årstrinn"
+                    }
+                ],
+                "benyttes-paa-aarstrinn": [
+                    {
+                        "kode": "aarstrinn1",
+                        "uri": "http://psi.udir.no/kl06/aarstrinn1",
+                        "url-data": "http://data.udir.no/kl06/aarstrinn1",
+                        "tittel": "Første årstrinn"
+                    }
+                ]
             },
             {
                 "id": "d0a1d4fd-cb72-4608-8269-39270144364b",
@@ -657,8 +688,25 @@
                         "verdi": "Forklaring..."
                     }
                 ],
-                "etter-fag": null,
-                "maal-for-kompetansemaalene-overskrift": null,
+                "etter-fag": [
+                    {
+                        "gyldighet": {
+                            "gyldig-fra": "2020-08-01T00:00:00",
+                            "gyldig-til": "2025-08-01T00:00:00"
+                        },
+                        "status": "http://data.udir.no/kl06/status_publisert",
+                        "kode": "MAT1Z26",
+                        "uri": "http://psi.udir.no/kl06/MAT1Z26",
+                        "url-data": "http://data.udir.no/kl06/MAT1Z26",
+                        "tittel": "Matematikk 2. årstrinn"
+                    }
+                ],
+                "maal-for-kompetansemaalene-overskrift": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Mål for opplæringa er at eleven skal kunne"
+                    }
+                ],
                 "kompetansemaal": [
                     {
                         "rekkefoelge": 1,
@@ -671,9 +719,9 @@
                                     }
                                 ],
                                 "referanse": {
-                                    "kode": "tverrfaglig_tema_folkehelse_og_livsmestring",
-                                    "uri": "http://test-psi.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
-                                    "url-data": "http://test-data.udir.no/kl06/tverrfaglig_tema_folkehelse_og_livsmestring",
+                                    "kode": "TT1",
+                                    "uri": "http://test-psi.udir.no/kl06/TT1",
+                                    "url-data": "http://test-data.udir.no/kl06/TT1",
                                     "tittel": "Folkehelse og livsmestring"
                                 }
                             }
@@ -703,9 +751,9 @@
                                     }
                                 ],
                                 "referanse": {
-                                    "kode": "grunnleggende_ferdighet_digitale_ferdigheter",
-                                    "uri": "http://test-psi.udir.no/kl06/grunnleggende_ferdighet_digitale_ferdigheter",
-                                    "url-data": "http://test-data.udir.no/kl06/grunnleggende_ferdighet_digitale_ferdigheter",
+                                    "kode": "GF1",
+                                    "uri": "http://test-psi.udir.no/kl06/GF1",
+                                    "url-data": "http://test-data.udir.no/kl06/GF1",
                                     "tittel": "Digitale ferdigheter"
                                 }
                             }
@@ -762,9 +810,9 @@
                                     }
                                 ],
                                 "referanse": {
-                                    "kode": null,
-                                    "uri": null,
-                                    "url-data": null,
+                                    "kode": "GF2",
+                                    "uri": "http://test-psi.udir.no/kl06/GF2",
+                                    "url-data": "http://test-data.udir.no/kl06/GF2",
                                     "tittel": "Muntlige ferdigheter"
                                 }
                             }
@@ -820,33 +868,143 @@
                         }
                     ]
                 },
-                "rekkefoelge": 0,
-                "etter-aarstrinn": null,
-                "benyttes-paa-aarstrinn": null
+                "rekkefoelge": 2,
+                "etter-aarstrinn": [
+                    {
+                        "kode": "aarstrinn2",
+                        "uri": "http://psi.udir.no/kl06/aarstrinn2",
+                        "url-data": "http://data.udir.no/kl06/aarstrinn2",
+                        "tittel": "Andre årstrinn"
+                    }
+                ],
+                "benyttes-paa-aarstrinn": [
+                    {
+                        "kode": "aarstrinn2",
+                        "uri": "http://psi.udir.no/kl06/aarstrinn2",
+                        "url-data": "http://data.udir.no/kl06/aarstrinn2",
+                        "tittel": "Andre årstrinn"
+                    }
+                ]
             }
         ]
     },
     "vurdering-kapittel": null,
     "fastsettelsesinformasjon": {
-        "fastsatt-dato": null,
-        "fastsettelsestekst": null,
-        "fastsatt-spraak": null,
-        "fastsatt-dato-overskrift": null
+        "fastsatt-dato": "2020-08-01T00:00:00",
+        "fastsettelsestekst": [
+            {
+                "spraak": "default",
+                "verdi": "Fastsett som forskrift av Kunnskapsdepartementet dd.mm.åååå"
+            }
+        ],
+        "fastsatt-spraak": {
+            "kode": "nno",
+            "uri": "http://psi.udir.no/kl06/nno",
+            "url-data": "http://data.udir.no/kl06/nno",
+            "tittel": "Nynorsk"
+        },
+        "fastsatt-dato-overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Fastsett"
+            }
+        ]
     },
-    "fagtype": null,
-    "tilgjengelige-spraak": null,
-    "opplaeringsnivaa": null,
+    "fagtype": {
+        "kode": "fagtype_fellesfag",
+        "uri": "http://test-psi.udir.no/kl06/fagtype_fellesfag",
+        "url-data": "http://test-data.udir.no/kl06/fagtype_fellesfag",
+        "tittel": "Fellesfag"
+    },
+    "tilgjengelige-spraak": [
+        {
+            "kode": "nob",
+            "uri": "http://test-psi.udir.no/kl06/nob",
+            "url-data": "http://test-data.udir.no/kl06/nob",
+            "tittel": "Bokmål"
+        },
+        {
+            "kode": "eng",
+            "uri": "http://test-psi.udir.no/kl06/eng",
+            "url-data": "http://test-data.udir.no/kl06/eng",
+            "tittel": "Engelsk"
+        },
+        {
+            "kode": "smj",
+            "uri": "http://test-psi.udir.no/kl06/smj",
+            "url-data": "http://test-data.udir.no/kl06/smj",
+            "tittel": "Lulesamisk"
+        },
+        {
+            "kode": "sme",
+            "uri": "http://test-psi.udir.no/kl06/sme",
+            "url-data": "http://test-data.udir.no/kl06/sme",
+            "tittel": "Nordsamisk"
+        },
+        {
+            "kode": "nno",
+            "uri": "http://test-psi.udir.no/kl06/nno",
+            "url-data": "http://test-data.udir.no/kl06/nno",
+            "tittel": "Nynorsk"
+        },
+        {
+            "kode": "sma",
+            "uri": "http://test-psi.udir.no/kl06/sma",
+            "url-data": "http://test-data.udir.no/kl06/sma",
+            "tittel": "Sørsamisk"
+        }
+    ],
+    "opplaeringsnivaa": [
+        {
+            "kode": "opplaeringsnivaa_grunnskole",
+            "uri": "http://test-psi.udir.no/kl06/opplaeringsnivaa_grunnskole",
+            "url-data": "http://test-data.udir.no/kl06/opplaeringsnivaa_grunnskole",
+            "tittel": "Grunnskole"
+        },
+        {
+            "kode": "opplaeringsnivaa_videregaaende",
+            "uri": "http://test-psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
+            "url-data": "http://test-data.udir.no/kl06/opplaeringsnivaa_videregaaende",
+            "tittel": "Videregående opplæring"
+        }
+    ],
     "gyldighetsperiode": {
         "gyldig-fra": {
-            "overskrift": null,
-            "dato": null
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder fra <>"
+                }
+            ],
+            "dato": "2020-08-01T00:00:00"
         },
         "gyldig-til": {
-            "overskrift": null,
-            "dato": null
+            "overskrift": [
+                {
+                    "spraak": "default",
+                    "verdi": "Gjelder til <>"
+                }
+            ],
+            "dato": "2025-08-01T00:00:00"
         }
     },
-    "erstatter": null,
-    "erstattes-av": null,
-    "siste-eksamen": null
+    "erstatter": [
+        {
+            "status": "http://test-data.udir.no/kl06/status_utgaatt",
+            "kode": "MAT1-04",
+            "uri": "http://test-psi.udir.no/kl06/MAT1-04",
+            "url-data": "http://test-data.udir.no/kl06/MAT1-04",
+            "tittel": "Læreplan i matematikk fellesfag"
+        }
+    ],
+    "erstattes-av": [
+        {
+            "status": "http://test-data.udir.no/kl06/status_publisert",
+            "kode": "MAT1-06",
+            "uri": "http://test-psi.udir.no/kl06/MAT1-06",
+            "url-data": "http://test-data.udir.no/kl06/MAT1-06",
+            "tittel": "Læreplan i matematikk fellesfag"
+        }
+    ],
+    "siste-eksamen": "2025-08-01T00:00:00"
 }
