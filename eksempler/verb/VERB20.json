@@ -1,0 +1,40 @@
+{
+    "id": "uuid:c42a4874-fe34-11e8-8eb2-f2801f1b9fd1",
+    "kode": "VERB20",
+    "uri": "http://psi.udir.no/kl06/VERB20",
+    "url-data": "http://data.udir.no/kl06/VERB20",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Tyde"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+    "status": "http://data.udir.no/kl06/status_publisert",
+    "sist-endret": "2018-12-11T09:14:20",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "Å tyde er å forklare eller gjøre greie for innholdet eller meningen med noe."
+        }
+    ],
+    "globalt-verb": false,
+    "tilhoerer-laereplan": {
+        "kode": "MAT1-05",
+        "uri": "http://psi.udir.no/kl06/MAT1-05",
+        "url-data": "http://data.udir.no/kl06/MAT1-05",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+        "status": "http://data.udir.no/kl06/status_publisert",
+        "tittel": "Matematikk fellesfag"
+    },
+    "kompetansemaal-referanser": [
+        {
+            "kode": "K4",
+            "uri": "http://psi.udir.no/kl06/K4",
+            "url-data": "http://data.udir.no/kl06/K4",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "tittel": "tyde og utforske mønster og tal"
+        }
+    ]
+}

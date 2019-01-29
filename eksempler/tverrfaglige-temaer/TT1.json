@@ -1,0 +1,36 @@
+{
+    "id": "uuid:c28b7650-0366-11e9-8eb2-f2801f1b9fd1",
+    "kode": "TT1",
+    "uri": "http://psi.udir.no/kl06/TT1",
+    "url-data": "http://data.udir.no/kl06/TT1",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Folkehelse og livsmestring"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+    "status": "http://data.udir.no/kl06/status_publisert",
+    "sist-endret": "2018-12-19T13:16:05.228885",
+    "lenke-til-beskrivelse": "https://www.udir.no/laring-og-trivsel/lareplanverket/overordnet-del/prinsipper-for-laring-utvikling-og-danning/tverrfaglige-temaer/folkehelse-og-livsmestring/",
+    "laereplan-referanser": [
+        {
+            "kode": "MAT1-05",
+            "uri": "http://psi.udir.no/kl06/MAT1-05",
+            "url-data": "http://data.udir.no/kl06/MAT1-05",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "tittel": "Matematikk fellesfag"
+        }
+    ],
+    "kompetansemaal-referanser": [
+        {
+            "kode": "K1",
+            "uri": "http://psi.udir.no/kl06/K1",
+            "url-data": "http://data.udir.no/kl06/K1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "tittel": "samanlikne ulike storleikar og mengder og uttrykkje dette gjennom eige språk og matematisk språk"
+        }
+    ]
+}

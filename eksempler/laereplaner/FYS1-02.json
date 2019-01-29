@@ -1,13 +1,13 @@
 {
-    "id": "uuid:3c03c709-4934-4012-9353-c14bfa8ff651",
-    "kode": "MAT1-05",
-    "uri": "http://psi.udir.no/kl06/MAT1-05",
-    "url-data": "http://data.udir.no/kl06/MAT1-05",
+    "id": "uuid:af2d1482-232e-11e9-ab14-d663bd873d93",
+    "kode": "FYS1-02",
+    "uri": "http://psi.udir.no/kl06/FYS1-02",
+    "url-data": "http://data.udir.no/kl06/FYS1-02",
     "tittel": {
         "tekst": [
             {
                 "spraak": "default",
-                "verdi": "Matematikk fellesfag"
+                "verdi": "Læreplan i fysikk - programfag i utdanningsprogram for studiespesialisering"
             }
         ],
         "forskrift": true
@@ -39,7 +39,7 @@
                 "tekst": [
                     {
                         "spraak": "default",
-                        "verdi": "Å lære matematikk handlar om å utforske mønster og strukturere verda rundt seg. Den globale utviklinga krev samarbeid og kreativitet slik at elevane kan meistre å finne løysingar på problem og ta reflekterte avgjerder for eiga livsmeistring, eit trygt demokrati og ei berekraftig framtid/utvikling. For den enkelte eleven: Å lære matematikk er å utvikle kompetanse i å finne løysingar, vurdere og argumentere for eigne idear og kommunisere med matematiske symbol og matematisk språk.Å lære matematikk kan fremje livsmeistringa til eleven ved sjølvtillit og meistring i å bruke matematikk i ulike samanhengar. Samfunns - og arbeidslivsperspektiv: Å lære matematikk gir høve til å forstå naturen og samfunnet.Det gir grunnlag for å delta i avgjerdsprosessar i samfunnet og i den teknologiske utviklinga."
+                        "verdi": "Menneskene har alltid undret seg over naturen og vært opptatt av å forstå den. Gjennom eksperimenter, observasjoner og teoretisk arbeid er fysikerne kommet langt i å finne grunnleggende prinsipper og lover som beskriver og forutsier fenomener i naturen og i universet. Programfaget fysikk skal bidra til forståelse av natur, teknologi og fenomener i dagliglivet. Det gir grunnlag for å bruke fagkunnskap i ulike sammenhenger, fra praktiske situasjoner i hverdagen til avgjørelser som påvirker samfunnsliv, natur og miljø. Programfaget fysikk gir innføring i fysikkens begreper, symboler og språk, og knytter teori og beregninger til observasjoner og praktisk laboratoriearbeid. Programfaget skal bidra til å vise fysikkfagets bruk av matematikk og hvordan matematikken brukes til å modellere virkeligheten. I tillegg skal programfaget gi innsikt i at fysikk er en del av kulturarven, og at faget må ses i et historisk perspektiv. Programfaget skal bidra til å øve opp kritisk holdning til undersøkelser og påstander og gi trening i å argumentere for løsninger på fysikkfaglige problemstillinger. Slik skal opplæringen styrke den enkeltes evne til å skille mellom vitenskapelig basert kunnskap og kunnskap som ikke er basert på vitenskapelige metoder. Programfaget skal gi forståelse av fysikkfaglige problemstillinger og av prosesser som fører til økt innsikt, noe som er et viktig grunnlag for flere studier i høyere utdanning og for livslang læring. Programfaget fysikk skal på den måten bidra til at samfunnet får tilført kvalifisert arbeidskraft, og fremme innovasjon og utvikling som kan komme næringsliv og samfunn til gode. Samtidig skal opplæringen legge vekt på de allmenndannende sidene ved fysikkfaget. Programfaget skal legge grunnlag for kreativitet, kritisk sans og metodeinnsikt i fysikkfaget. For å utvikle ferdigheter og kunnskap er det nødvendig å arbeide både praktisk og teoretisk i programfaget."
                     }
                 ],
                 "forskrift": true
@@ -67,7 +67,7 @@
                         "tekst": [
                             {
                                 "spraak": "Default",
-                                "verdi": "Utforsking og problemløysing"
+                                "verdi": "Klassisk fysikk"
                             }
                         ],
                         "forskrift": true
@@ -76,7 +76,7 @@
                         "tekst": [
                             {
                                 "spraak": "Default",
-                                "verdi": "Dette kjerneelementet er det viktigaste for faget og for høvet til djupnelæring. Dei andre kjerneelementa må sjåast i samanheng med dette. Utforsking handlar om at elevane leiter etter mønster og finn samanhengar. Det må leggjast meir vekt på ulike strategiar og framgangsmåtar enn på sjølve løysingane. Problemløysing handlar om at elevane utviklar løysingsmetodar på eit problem dei ikkje kjenner frå før. Algoritmisk tenking er viktig i prosessen med å utvikle strategiar og framgangsmåtar og inneber å kunne bryte ned eit problem i delproblem som kan løysast systematisk. Viktig innhald vil vere å kunne stille matematiske spørsmål og formulere matematiske problemstillingar, identifisere problem, vere uthaldande, utvikle og kunne velje effektive problemløysingsstrategiar og utforske og løyse problem ved hjelp av programmering. Elevane må få høve til å vere nysgjerrige, også på fagstoff som dei ikkje elles møter av matematikk på trinnet sitt."
+                                "verdi": "Kjerneelementet handler om de eldste og mest brukte fysikklovene, og hvordan de kommer til uttrykk innen mekanikk, elektrisitetslære og termofysikk. Et sentralt prinsipp er bevaring av energi i ulike prosesser. Videre dreier det seg om grunnleggende begreper som er nødvendige for å arbeide med bølgefenomener."
                             }
                         ],
                         "forskrift": true
@@ -84,15 +84,15 @@
                     "forklaring": [
                         {
                             "spraak": "default",
-                            "verdi": "Forklaring på utforsking og problemløysing"
+                            "verdi": "Forklaring på klassisk fysikk"
                         }
                     ],
                     "referanse": {
-                        "kode": "KE1",
-                        "uri": "http://psi.udir.no/kl06/KE1",
-                        "url-data": "http://data.udir.no/kl06/KE1",
+                        "kode": "KE90",
+                        "uri": "http://psi.udir.no/kl06/KE90",
+                        "url-data": "http://data.udir.no/kl06/KE90",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                        "tittel": "Utforsking og problemløysing"
+                        "tittel": "Klassisk fysikk"
                     }
                 },
                 {
@@ -100,7 +100,7 @@
                         "tekst": [
                             {
                                 "spraak": "Default",
-                                "verdi": "Modellering og bruk"
+                                "verdi": "Moderne fysikk"
                             }
                         ],
                         "forskrift": true
@@ -109,7 +109,7 @@
                         "tekst": [
                             {
                                 "spraak": "Default",
-                                "verdi": "Elevane skal ha innsikt i korleis matematikk blir brukt i dagleglivet, samfunnslivet og innanfor vitskap og teknologi. Det inneber å ta ei problemstilling frå verkelegheita, formulere henne om til ein matematisk modell og tolke modellen i lys av den opphavlege situasjonen. Elevane bør få innsikt i korleis modellar kan brukast i nye situasjonar. Viktig kompetanse vil vere å kunne omsetje til eit matematisk språk, bruke matematiske modellar og tolke løysingar, vurdere gyldigheitsområdet og avgrensingane til ein modell, utvikle kritisk tenking og vurdere når det er formålstenleg å bruke programmering til å utforske matematiske modellar. Funksjonar, måling og statistikk vil vere viktige innhaldselement."
+                                "verdi": "Kjerneelementet handler om byggesteinene i naturen og hvordan de settes sammen, fra mikrokosmos til makrokosmos. I tillegg dreier det seg om informasjon som kan leses ut av stråling i ulike sammenhenger, og hvordan den kan brukes til å lage modeller som kan beskrive verden."
                             }
                         ],
                         "forskrift": true
@@ -117,15 +117,15 @@
                     "forklaring": [
                         {
                             "spraak": "default",
-                            "verdi": "Forklaring på modellering og bruk"
+                            "verdi": "Forklaring på moderne fysikk"
                         }
                     ],
                     "referanse": {
-                        "kode": "KE2",
-                        "uri": "http://psi.udir.no/kl06/KE2",
-                        "url-data": "http://data.udir.no/kl06/KE2",
+                        "kode": "KE91",
+                        "uri": "http://psi.udir.no/kl06/KE91",
+                        "url-data": "http://data.udir.no/kl06/KE91",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                        "tittel": "Modellering og bruk"
+                        "tittel": "Moderne fysikk"
                     }
                 }
             ]
@@ -144,7 +144,7 @@
                 "tekst": [
                     {
                         "spraak": "default",
-                        "verdi": "Motivasjon og meistring er viktig i alle fag, men kanskje særleg i matematikk for å leggje til rette for matematikkglede. Det er derfor viktig at elevane opplever at dei får nok tid til å meistre den grunnleggjande talforståinga, og at dei får høve til å utvikle forståing for sentrale matematiske omgrep gjennom heile skuleløpet. Vidare er det nødvendig at elevane opplever motivasjon og meistring for å leggje til rette for djupnelæring. Elevane må få oppleve at matematikk er spennande og kreativt og få tid til å tenkje, reflektere, resonnere og stille spørsmål. Det er viktig med trygge læringsmiljø der det er greitt å undre seg, prøve, feile og prøve igjen, og der ein utforskar feil for å lære betre. For å auke relevansen til matematikkfaget må det leggjast opp til arbeid med realistiske data og situasjonar. Dette kan ein mellom anna oppnå ved å bruke konkretar, eigne målingar, digitale verktøy og programmering. Elevane må få utforske matematikk i kvardagen og sjå at matematikk blir brukt både i arbeidslivet og i andre daglege situasjonar. Det er viktig å la elevane få undre seg, vere kreative og oppdage matematikken og la dei få innblikk i korleis matematikken har utvikla seg i takt med at menneska har vore nysgjerrige og utforskande. Kjerneelementa legg derfor vekt på tenkjemåtar og metodar, det vil seie at ein må setje prosessen, ikkje berre resultatet, i fokus. Matematikk er viktig for utviklinga av kritisk tenking, og elevane skal lære å vere kritiske og analytiske til informasjon. Elevane skal få innblikk i korleis matematikk påverkar forståinga av sosiale, politiske og økonomiske situasjonar, og korleis matematikkunnskap er viktig når ein skal vere ein aktiv samfunnsdeltakar. Det er viktig å kunne reflektere over matematikken og stille seg kritisk og open til korleis han blir brukt. Algoritmar som er baserte på statistikk, styrer i dag ein stor del av kvardagen vår, og det er viktig å kunne vurdere dette med eit kritisk blikk og forstå korleis det påverkar oss. Det å lære å lære heng tett saman med djupnelæring. For å kunne utvikle forståing i matematikk må elevane reflektere over det dei lærer, og setje det i samanheng med det dei kan frå før. Utforsking og refleksjon må derfor få ein større plass i dette faget. Elevane må få høve til å utvikle eit språk for læring som dei nyttar saman med medelevane og læraren. Forsking viser at det å arbeide systematisk med å utforske feil som eit utgangspunkt for å lære meir og betre er spesielt effektivt i matematikk, og det vil òg bidra til å setje prosessen snarare enn produktet i fokus."
+                        "verdi": "Hvis ny innsikt skal vokse fram, må etablerte ideer granskes og kritiseres med teorier, metoder, argumenter, erfaringer og bevis. Elevene skal kunne vurdere ulike kilder til kunnskap og tenke kritisk om hvordan kunnskap utvikles. De skal også kunne forstå at deres egne erfaringer, standpunkter og overbevisninger kan være ufullstendige eller feilaktige. Kritisk refleksjon forutsetter kunnskap, men gir samtidig rom for usikkerhet og uforutsigbarhet. Opplæringen må derfor søke en balanse mellom respekt for etablert viten og den utforskende og kreative tenkningen som kreves for å utvikle ny kunnskap."
                     }
                 ],
                 "forskrift": true
@@ -181,7 +181,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Folkehelse og livsmestring er tatt med i dette faget pga..."
+                                "verdi": "Et samfunn som legger til rette for gode helsevalg hos den enkelte, har stor betydning for folkehelsen. Livsmestring dreier seg om å kunne forstå og å kunne påvirke faktorer som har betydning for mestring av eget liv. Temaet skal bidra til at elevene lærer å håndtere medgang og motgang, og personlige og praktiske utfordringer på en best mulig måte."
                             }
                         ],
                         "forskrift": true
@@ -214,7 +214,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Demokrati og medborgarskap er tatt med i dette faget pga..."
+                                "verdi": "Gjennom arbeid med temaet demokrati og medborgerskap skal elevene forstå sammenhengen mellom individets rettigheter og plikter. Individene har rett til å delta i politisk arbeid, samtidig som samfunnet er avhengig av at borgerne bruker rettighetene til politisk deltakelse og utforming av det sivile samfunnet. Skolen skal stimulere elevene til å bli aktive medborgere, og gi dem kompetanse til å delta i videreutviklingen av demokratiet i Norge."
                             }
                         ],
                         "forskrift": true
@@ -247,7 +247,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Bærekraftig utvikling er tatt med i dette faget pga..."
+                                "verdi": "Gjennom arbeid med temaet skal elevene utvikle kompetanse som gjør dem i stand til å ta ansvarlige valg og handle etisk og miljøbevisst. Elevene skal få forståelse for at handlingene og valgene til den enkelte har betydning. Temaet rommer problemstillinger knyttet til miljø og klima, fattigdom og fordeling av ressurser, konflikter, helse, likestilling, demografi og utdanning. Elevene skal lære om sammenhengen mellom de ulike aspektene ved bærekraftig utvikling."
                             }
                         ],
                         "forskrift": true
@@ -293,7 +293,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Digitale ferdigheiter i matematikkfaget handlar om å kunne innhente relevant informasjon, behandle data, nytte digitale ressursar for å løyse, forstå og vurdere matematiske problem og samanhengar, presentere matematisk innhald og kommunisere.Gjennom dynamisk programvare kan elevane utvikle forståing for samanhengen mellom dei ulike delane av faget.Gjennom bruk av rekneark kan elevane behandle større mengder informasjon og utleie og presentere samanhengar.Gjennom programmering kan elevane vere meir kreative i tilnærminga til problemstillingar og få høve til å utforske samanhengar som det ikkje har vore mogleg å utforske før. Utviklinga går frå bruk av programvare og applikasjonar til å forstå matematiske omgrep og samanhengar til stadig meir avansert bruk av programmering som hjelpemiddel i både utforsking, løysing og presentasjon av komplekse matematiske problem."
+                                "verdi": "Å kunne bruke digitale verktøy i fysikk innebærer å utforske, måle, registrere, analysere, dokumentere og publisere digitalt. Det betyr å anvende animasjoner og bruke Internett til å hente inn fysikkfaglig informasjon. Å kunne bruke digitale verktøy i fysikk betyr å simulere fenomener og forsøk som det ellers er vanskelig å studere."
                             }
                         ],
                         "forskrift": true
@@ -326,7 +326,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Munnlege ferdigheiter i matematikkfaget handlar om å kommunisere med, i og om matematikk. Omgrepa til elevane utviklar seg frå eit uformelt språk til presis fagterminologi. Elevar med andre morsmål enn norsk må få støtte til å byggje bru mellom matematiske omgrep på morsmålet og på norsk. For å kunne lære matematikk er det avgjerande at elevane utviklar eit matematisk språk med presise omgrep. Elevane viser denne kompetansen ved å bruke dei rette omgrepa i rett samanheng og ved å utnytte desse samanhengane der det er relevant. Samtalar, formulering av spørsmål, diskusjon, argumentasjon og refleksjon mellom elevane og mellom elevane og læraren bidreg til djupnelæring. Elevane må òg argumentere for at eigne løysingar og framgangsmåtar er haldbare. Ved å lytte til resonnementa til medelevane kan elevane oppnå ny innsikt. Utviklinga går frå å forklare ein tankegang og lytte til andre sine idear for å forstå til å diskutere matematiske framgangsmåtar og argumentere for eit matematisk resonnement.Utviklinga av munnlege resonnement og forklaringar av tankegang er viktig for djupnelæringa i matematikk."
+                                "verdi": "Å kunne uttrykke seg muntlig i fysikk innebærer å beskrive egne observasjoner og erfaringer fra naturen, eksperimenter, ekskursjoner og informasjon i medier. Å formulere spørsmål og hypoteser og å bruke fysikkfaglige begreper og uttrykksformer inngår i dette. Det betyr å argumentere for egne vurderinger, gi tilbakemeldinger og presentere resultater. Det vil si å beherske et presist og entydig språk, blant annet å skille mellom dagliglivets bruk av begreper og fysikkens bruk av de samme begrepene."
                             }
                         ],
                         "forskrift": true
@@ -359,7 +359,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Å lese i matematikkfaget inneber at elevane må tolke og identifisere matematiske problem i tekstar der det matematiske innhaldet blir uttrykt på varierte måtar. Tekstane kan innehalde ulike uttrykksformer som skal tolkast, til dømes symbol, figurar, teikningar, grafiske framstillingar, tabellar og diagram. Å lese i matematikkfaget inneber òg å kunne tolke ein geometrisk figur eller eit diagram utan at det nødvendigvis inngår i ein skriftleg tekst. Elevane må forstå samanhengen mellom dei ulike uttrykksformene. Elevane må òg lære å trekkje ut informasjon frå ein multimodal tekst, leite etter mønster og oppdage samanhengar i innhaldet. Å lese i matematikkfaget inneber dessutan at elevane må kunne følgje og vurdere eit verbalspråkleg, matematisk resonnement og avgjere om løysinga er gyldig. Utviklinga går frå å forstå enkle matematiske representasjonar til å sjå samanhengar i stadig meir komplekse og abstrakte samansette matematiske tekstar og bruke innhaldet til å utvikle eigne strategiar og framgangsmåtar. Det er derfor viktig at elevane møter gode modelltekstar på sitt nivå i undervisninga."
+                                "verdi": "Å kunne lese i fysikk innebærer å trekke ut, tolke og reflektere over informasjon i fysikkfaglige tekster, brosjyrer, aviser, populærvitenskapelige magasiner og bøker og på Internett. Det betyr å forstå bruksanvisninger, tabeller, diagrammer, symboler og fagspesifikke tekster. Videre vil det si å forstå innholdet i tabeller, grafer, bilder, ordinær tekst og likninger."
                             }
                         ],
                         "forskrift": true
@@ -392,7 +392,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Å rekne i matematikkfaget inneber å bruke symbolspråk og matematiske omgrep, framgangsmåtar og strategiar til problemløysing og utforsking som tek utgangspunkt i både praktiske, daglegdagse situasjonar og i matematiske problem. Eit viktig element er å vurdere om løysinga er logisk og formålstenleg. Utviklinga går frå grunnleggjande talforståing og det å kjenne igjen og løyse problem ut frå enkle situasjonar til å analysere og løyse ulike komplekse problem ved hjelp av eit variert utval strategiar og metodar. Det inneber at elevane i aukande grad bruker ulike hjelpemiddel i berekningar, modellering og kommunikasjon. Matematikkfaget har eit særskilt ansvar for innlæringa av denne grunnleggjande ferdigheita."
+                                "verdi": "Å kunne regne i fysikk innebærer å bruke tall og beregninger til å registrere og utarbeide resultater fra egne målinger, og lage tabeller og diagrammer med fysikkfaglig innhold. Det betyr å bruke og tolke formler og modeller av virkeligheten, og bearbeide og tolke ulike typer data. Å kunne regne vil si å bruke metoder fra matematikkfaget. I tillegg innebærer det bruk av vektorer, parameterframstilling av kurver og differensial- og integralregning."
                             }
                         ],
                         "forskrift": true
@@ -425,7 +425,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Å skrive i matematikkfaget inneber at elevane kan illustrere og systematisere opplysningar ved hjelp av ulike uttrykksformer. Symbol, figurar, teikningar, grafiske framstillingar, tabellar og diagram hjelper elevane til å utvikle varierte strategiar og framgangsmåtar for å uttrykkje løysingane sine. Skriving i matematikk er ein reiskap både for å utvikle eigne tankar og eiga læring og for å presentere tankegangen og resonnementa på ein forståeleg måte i kommunikasjon med andre. Utviklinga går frå å skrive enkle matematiske representasjonar og forklaringar til å komme med stadig meir komplekse resonnement for å løyse problem og grunngi løysingane."
+                                "verdi": "Å kunne uttrykke seg skriftlig i fysikk innebærer å beskrive egne observasjoner og erfaringer fra naturen, eksperimenter, ekskursjoner og informasjon i medier. Å formulere spørsmål og hypoteser og å bruke fysikkfaglige begreper og uttrykksformer inngår i dette. Det betyr å argumentere for egne vurderinger, gi tilbakemeldinger og presentere resultater. Det vil si å beherske et presist og entydig språk, blant annet å skille mellom dagliglivets bruk av begreper og fysikkens bruk av de samme begrepene."
                             }
                         ],
                         "forskrift": true
@@ -460,15 +460,15 @@
         "kompetansemaalsett": [
             {
                 "rekkefoelge": 1,
-                "id": "uuid:129ca8c7-e839-4551-a2e2-9998f48f1f81",
-                "kode": "KMS1",
-                "uri": "http://psi.udir.no/kl06/KMS1",
-                "url-data": "http://data.udir.no/kl06/KMS1",
+                "id": "uuid:06adc5c8-232d-11e9-ab14-d663bd873d93",
+                "kode": "KMS30",
+                "uri": "http://psi.udir.no/kl06/KMS30",
+                "url-data": "http://data.udir.no/kl06/KMS30",
                 "tittel": {
                     "tekst": [
                         {
                             "spraak": "default",
-                            "verdi": "Kompetansemål og vurdering 2. trinn"
+                            "verdi": "Kompetansemål og vurdering"
                         }
                     ],
                     "forskrift": true
@@ -486,7 +486,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Kompetansemål etter 2. trinn"
+                                "verdi": "Fysikk 1"
                             }
                         ],
                         "forskrift": true
@@ -497,7 +497,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Mål for opplæringa er at eleven skal kunne"
+                                "verdi": "Mål for opplæringen er at eleven skal kunne"
                             }
                         ],
                         "forskrift": true
@@ -505,42 +505,30 @@
                 ],
                 "etter-fag": [
                     {
-                        "kode": "MAT1Z25",
-                        "uri": "http://psi.udir.no/kl06/MAT1Z25",
-                        "url-data": "http://data.udir.no/kl06/MAT1Z25",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+                        "kode": "FYS1Z01",
+                        "uri": "http://psi.udir.no/kl06/FYS1Z01",
+                        "url-data": "http://data.udir.no/kl06/FYS1Z01",
                         "status": "http://data.udir.no/kl06/status_publisert",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
                         "gyldighet": {
                             "gyldig-fra": "2020-08-01T00:00:00",
                             "gyldig-til": null
                         },
-                        "tittel": "Matematikk 1. årstrinn"
-                    },
-                    {
-                        "kode": "MAT1Z26",
-                        "uri": "http://psi.udir.no/kl06/MAT1Z26",
-                        "url-data": "http://data.udir.no/kl06/MAT1Z26",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
-                        "status": "http://data.udir.no/kl06/status_publisert",
-                        "gyldighet": {
-                            "gyldig-fra": "2020-08-01T00:00:00",
-                            "gyldig-til": null
-                        },
-                        "tittel": "Matematikk 2. årstrinn"
+                        "tittel": "Fysikk 1"
                     }
                 ],
                 "kompetansemaal": [
                     {
                         "rekkefoelge": 1,
-                        "kode": "K1",
-                        "uri": "http://psi.udir.no/kl06/K1",
-                        "url-data": "http://data.udir.no/kl06/K1",
+                        "kode": "K270",
+                        "uri": "http://psi.udir.no/kl06/K270",
+                        "url-data": "http://data.udir.no/kl06/K270",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
                         "tittel": {
                             "tekst": [
                                 {
                                     "spraak": "default",
-                                    "verdi": "samanlikne ulike storleikar og mengder og uttrykkje dette gjennom eige språk og matematisk språk"
+                                    "verdi": "gjøre rede for energibegrepet og begrepene arbeid og effekt og foreta beregninger og drøfte situasjoner der mekanisk energi er bevart"
                                 }
                             ],
                             "forskrift": true
@@ -573,117 +561,15 @@
                                 "forklaring": [
                                     {
                                         "spraak": "default",
-                                        "verdi": "Forklaring på utforsking og problemløysing"
+                                        "verdi": "Forklaring på klassisk fysikk"
                                     }
                                 ],
                                 "referanse": {
-                                    "kode": "KE1",
-                                    "uri": "http://psi.udir.no/kl06/KE1",
-                                    "url-data": "http://data.udir.no/kl06/KE1",
+                                    "kode": "KE90",
+                                    "uri": "http://psi.udir.no/kl06/KE90",
+                                    "url-data": "http://data.udir.no/kl06/KE90",
                                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                                    "tittel": "Utforsking og problemløysing"
-                                }
-                            }
-                        ],
-                        "tilknyttede-grunnleggende-ferdigheter": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på digitale ferdigheter"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "GF1",
-                                    "uri": "http://psi.udir.no/kl06/GF1",
-                                    "url-data": "http://data.udir.no/kl06/GF1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                                    "tittel": "Digitale ferdigheter"
-                                }
-                            }
-                        ],
-                        "tilknyttede-verb": [
-                            {
-                                "referanse": {
-                                    "kode": "VERB14",
-                                    "uri": "http://psi.udir.no/kl06/VERB14",
-                                    "url-data": "http://data.udir.no/kl06/VERB14",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
-                                    "tittel": "Sammenligne"
-                                }
-                            }
-                        ],
-                        "bygger-paa": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på bygger på kompetansemål"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "K3",
-                                    "uri": "http://psi.udir.no/kl06/K3",
-                                    "url-data": "http://data.udir.no/kl06/K3",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                                    "tittel": "utforske og beskrive mengder og eigenskapar ved mengder og representere mengder på forskjellige måtar"
-                                }
-                            }
-                        ],
-                        "samme-som": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på samme som kompetansemål"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "K1",
-                                    "uri": "http://psi.udir.no/kl06/K1",
-                                    "url-data": "http://data.udir.no/kl06/K1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                                    "tittel": "ordne og sortere gjenstandar ut frå ulike eigenskapar og diskutere om dette kan gjerast på fleire måtar"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "rekkefoelge": 2,
-                        "kode": "K2",
-                        "uri": "http://psi.udir.no/kl06/K2",
-                        "url-data": "http://data.udir.no/kl06/K2",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                        "tittel": {
-                            "tekst": [
-                                {
-                                    "spraak": "default",
-                                    "verdi": "leike og eksperimentere med ulike typar teljing i praktiske situasjonar"
-                                }
-                            ],
-                            "forskrift": true
-                        },
-                        "forklaring": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Forklaring på kompetansemål"
-                            }
-                        ],
-                        "tilknyttede-tverrfaglige-tema": [],
-                        "tilknyttede-kjerneelementer": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på modellering og bruk"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "KE2",
-                                    "uri": "http://psi.udir.no/kl06/KE2",
-                                    "url-data": "http://data.udir.no/kl06/KE2",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                                    "tittel": "Modellering og bruk"
+                                    "tittel": "Klassisk fysikk"
                                 }
                             }
                         ],
@@ -704,221 +590,72 @@
                                 }
                             }
                         ],
-                        "tilknyttede-verb": [],
-                        "bygger-paa": [],
-                        "samme-som": []
-                    }
-                ],
-                "underveisvurdering": {
-                    "overskrift": {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Underveisvurdering"
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "beskrivelse": {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Eleven viser kompetanse i matematikk gjennom å utforske mønster i leik og snakke om samanhengar og eigenskapar. Eleven kan bruke tal og mengder i ulike situasjonar og kan representere tal og mengder på varierte måtar. Eleven kan bruke den matematiske kompetansen sin i problemløysing og daglegliv og kan reflektere over sine eigne framgangsmåtar."
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "forklaring": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Forklaring på underveisvurdering"
-                        }
-                    ]
-                },
-                "sluttvurdering": null,
-                "etter-aarstrinn": [
-                    {
-                        "kode": "aarstrinn2",
-                        "uri": "http://psi.udir.no/kl06/aarstrinn2",
-                        "url-data": "http://data.udir.no/kl06/aarstrinn2",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-                        "tittel": "Andre årstrinn"
-                    }
-                ],
-                "benyttes-paa-aarstrinn": [
-                    {
-                        "kode": "aarstrinn1",
-                        "uri": "http://psi.udir.no/kl06/aarstrinn1",
-                        "url-data": "http://data.udir.no/kl06/aarstrinn1",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-                        "tittel": "Første årstrinn"
-                    },
-                    {
-                        "kode": "aarstrinn2",
-                        "uri": "http://psi.udir.no/kl06/aarstrinn2",
-                        "url-data": "http://data.udir.no/kl06/aarstrinn2",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-                        "tittel": "Andre årstrinn"
-                    }
-                ]
-            },
-            {
-                "rekkefoelge": 2,
-                "id": "uuid:d0a1d4fd-cb72-4608-8269-39270144364b",
-                "kode": "KMS9",
-                "uri": "http://psi.udir.no/kl06/KM9",
-                "url-data": "http://data.udir.no/kl06/KMS9",
-                "tittel": {
-                    "tekst": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Kompetansemål og vurdering 10. trinn"
-                        }
-                    ],
-                    "forskrift": true
-                },
-                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
-                "kortform": null,
-                "forklaring": [
-                    {
-                        "spraak": "default",
-                        "verdi": "Forklaring på kompetansemålsett"
-                    }
-                ],
-                "kompetansemaal-overskrift": [
-                    {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Kompetansemål etter 10. trinn"
-                            }
-                        ],
-                        "forskrift": true
-                    }
-                ],
-                "kompetansemaal-ingress": [
-                    {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Mål for opplæringa er at eleven skal kunne"
-                            }
-                        ],
-                        "forskrift": true
-                    }
-                ],
-                "etter-fag": [
-                    {
-                        "kode": "MAT1Z34",
-                        "uri": "http://psi.udir.no/kl06/MAT1Z34",
-                        "url-data": "http://data.udir.no/kl06/MAT1Z34",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
-                        "status": "http://data.udir.no/kl06/status_publisert",
-                        "gyldighet": {
-                            "gyldig-fra": "2020-08-01T00:00:00",
-                            "gyldig-til": null
-                        },
-                        "tittel": "Matematikk 10. årstrinn"
-                    }
-                ],
-                "kompetansemaal": [
-                    {
-                        "rekkefoelge": 1,
-                        "kode": "K98",
-                        "uri": "http://psi.udir.no/kl06/K98",
-                        "url-data": "http://data.udir.no/kl06/K98",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                        "tittel": {
-                            "tekst": [
-                                {
-                                    "spraak": "default",
-                                    "verdi": "utforske og bruke kvadratsetningar og konjugatsetninga numerisk, algebraisk og geometrisk"
-                                }
-                            ],
-                            "forskrift": true
-                        },
-                        "forklaring": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Forklaring på kompetansemål"
-                            }
-                        ],
-                        "tilknyttede-tverrfaglige-tema": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på folkehelse og livsmestring"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "TT1",
-                                    "uri": "http://psi.udir.no/kl06/TT1",
-                                    "url-data": "http://data.udir.no/kl06/TT1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
-                                    "tittel": "Folkehelse og livsmestring"
-                                }
-                            }
-                        ],
-                        "tilknyttede-kjerneelementer": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på utforsking og problemløysing"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "KE1",
-                                    "uri": "http://psi.udir.no/kl06/KE1",
-                                    "url-data": "http://data.udir.no/kl06/KE1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                                    "tittel": "Utforsking og problemløysing"
-                                }
-                            }
-                        ],
-                        "tilknyttede-grunnleggende-ferdigheter": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på digitale ferdigheter"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "GF1",
-                                    "uri": "http://psi.udir.no/kl06/GF1",
-                                    "url-data": "http://data.udir.no/kl06/GF1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                                    "tittel": "Digitale ferdigheter"
-                                }
-                            }
-                        ],
                         "tilknyttede-verb": [
                             {
                                 "referanse": {
-                                    "kode": "VERB16",
-                                    "uri": "http://psi.udir.no/kl06/VERB16",
-                                    "url-data": "http://data.udir.no/kl06/VERB16",
+                                    "kode": "VERB6",
+                                    "uri": "http://psi.udir.no/kl06/VERB6",
+                                    "url-data": "http://data.udir.no/kl06/VERB6",
                                     "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
-                                    "tittel": "Utforske"
+                                    "tittel": "Drøfte"
+                                }
+                            },
+                            {
+                                "referanse": {
+                                    "kode": "VERB9",
+                                    "uri": "http://psi.udir.no/kl06/VERB9",
+                                    "url-data": "http://data.udir.no/kl06/VERB9",
+                                    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+                                    "tittel": "Gjøre rede for"
                                 }
                             }
                         ],
-                        "bygger-paa": [],
-                        "samme-som": []
+                        "bygger-paa": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "Forklaring på bygger på kompetansemål"
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "K269",
+                                    "uri": "http://psi.udir.no/kl06/K269",
+                                    "url-data": "http://data.udir.no/kl06/K269",
+                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+                                    "tittel": "identifisere kontaktkrefter og gravitasjonskrefter som virker på legemer, tegne kraftvektorer og bruke Newtons tre lover"
+                                }
+                            }
+                        ],
+                        "samme-som": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "Forklaring på samme som kompetansemål"
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "K273",
+                                    "uri": "http://psi.udir.no/kl06/K273",
+                                    "url-data": "http://data.udir.no/kl06/K273",
+                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+                                    "tittel": "gjengi og drøfte kvalitativt termofysikkens første og andre lov"
+                                }
+                            }
+                        ]
                     },
                     {
                         "rekkefoelge": 2,
-                        "kode": "K99",
-                        "uri": "http://psi.udir.no/kl06/K99",
-                        "url-data": "http://data.udir.no/kl06/K99",
+                        "kode": "K271",
+                        "uri": "http://psi.udir.no/kl06/K271",
+                        "url-data": "http://data.udir.no/kl06/K271",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
                         "tittel": {
                             "tekst": [
                                 {
                                     "spraak": "default",
-                                    "verdi": "bruke dei algebraiske lovmessigheitene, finne samanhengar og deretter formalisere ved bruk av formålstenlege representasjonar"
+                                    "verdi": "gjøre rede for situasjoner der friksjon og luftmotstand gjør at den mekaniske energien ikke er bevart, og gjøre beregninger i situasjoner med konstant friksjon"
                                 }
                             ],
                             "forskrift": true
@@ -935,15 +672,15 @@
                                 "forklaring": [
                                     {
                                         "spraak": "default",
-                                        "verdi": "Forklaring på modellering og bruk"
+                                        "verdi": "Forklaring på moderne fysikk"
                                     }
                                 ],
                                 "referanse": {
-                                    "kode": "KE2",
-                                    "uri": "http://psi.udir.no/kl06/KE2",
-                                    "url-data": "http://data.udir.no/kl06/KE2",
+                                    "kode": "KE91",
+                                    "uri": "http://psi.udir.no/kl06/KE91",
+                                    "url-data": "http://data.udir.no/kl06/KE91",
                                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                                    "tittel": "Modellering og bruk"
+                                    "tittel": "Moderne fysikk"
                                 }
                             }
                         ],
@@ -957,14 +694,24 @@
                                 ],
                                 "referanse": {
                                     "kode": "GF2",
-                                    "uri": "http://test-psi.udir.no/kl06/GF2",
-                                    "url-data": "http://test-data.udir.no/kl06/GF2",
+                                    "uri": "http://psi.udir.no/kl06/GF2",
+                                    "url-data": "http://data.udir.no/kl06/GF2",
                                     "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
                                     "tittel": "Muntlige ferdigheter"
                                 }
                             }
                         ],
-                        "tilknyttede-verb": [],
+                        "tilknyttede-verb": [
+                            {
+                                "referanse": {
+                                    "kode": "VERB9",
+                                    "uri": "http://psi.udir.no/kl06/VERB9",
+                                    "url-data": "http://data.udir.no/kl06/VERB9",
+                                    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+                                    "tittel": "Gjøre rede for"
+                                }
+                            }
+                        ],
                         "bygger-paa": [],
                         "samme-som": []
                     }
@@ -983,7 +730,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Eleven viser kompetanse i matematikk gjennom å utforske og kommunisere matematiske omgrep og generalisere matematiske samanhengar. Eleven kan bruke den matematiske kompetansen sin i problemløysing og modellering og kan reflektere over sine eigne arbeidsprosessar. Eleven kan presentere løysingar og argumentere for at dei er gyldige."
+                                "verdi": "Omtalen av underveisvurdering er ikke klar til denne innspillsrunden."
                             }
                         ],
                         "forskrift": true
@@ -1009,7 +756,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Omtalen av sluttvurderinga er ikkje klar til denne innspelsrunden."
+                                "verdi": "Elevene skal ha standpunktkarakter. Elevene kan trekkes ut til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt."
                             }
                         ],
                         "forskrift": true
@@ -1023,20 +770,336 @@
                 },
                 "etter-aarstrinn": [
                     {
-                        "kode": "aarstrinn10",
-                        "uri": "http://psi.udir.no/kl06/aarstrinn10",
-                        "url-data": "http://data.udir.no/kl06/aarstrinn10",
+                        "kode": "vg2",
+                        "uri": "http://psi.udir.no/kl06/vg2",
+                        "url-data": "http://data.udir.no/kl06/vg2",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-                        "tittel": "Tiende årstrinn"
+                        "tittel": "Videregående trinn 2"
+                    },
+                    {
+                        "kode": "vg3",
+                        "uri": "http://psi.udir.no/kl06/vg3",
+                        "url-data": "http://data.udir.no/kl06/vg3",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+                        "tittel": "Videregående trinn 3"
                     }
                 ],
                 "benyttes-paa-aarstrinn": [
                     {
-                        "kode": "aarstrinn10",
-                        "uri": "http://psi.udir.no/kl06/aarstrinn10",
-                        "url-data": "http://data.udir.no/kl06/aarstrinn10",
+                        "kode": "vg2",
+                        "uri": "http://psi.udir.no/kl06/vg2",
+                        "url-data": "http://data.udir.no/kl06/vg2",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-                        "tittel": "Tiende årstrinn"
+                        "tittel": "Videregående trinn 2"
+                    },
+                    {
+                        "kode": "vg3",
+                        "uri": "http://psi.udir.no/kl06/vg3",
+                        "url-data": "http://data.udir.no/kl06/vg3",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+                        "tittel": "Videregående trinn 3"
+                    }
+                ]
+            },
+            {
+                "rekkefoelge": 2,
+                "id": "uuid:15062e26-2332-11e9-ab14-d663bd873d93",
+                "kode": "KMS31",
+                "uri": "http://psi.udir.no/kl06/KMS31",
+                "url-data": "http://data.udir.no/kl06/KMS31",
+                "tittel": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Kompetansemål og vurdering"
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "kortform": null,
+                "forklaring": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Forklaring på kompetansemålsett"
+                    }
+                ],
+                "kompetansemaal-overskrift": [
+                    {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Fysikk 2"
+                            }
+                        ],
+                        "forskrift": true
+                    }
+                ],
+                "kompetansemaal-ingress": [
+                    {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Mål for opplæringen er at eleven skal kunne"
+                            }
+                        ],
+                        "forskrift": true
+                    }
+                ],
+                "etter-fag": [
+                    {
+                        "kode": "FYS1Z02",
+                        "uri": "http://psi.udir.no/kl06/FYS1Z02",
+                        "url-data": "http://data.udir.no/kl06/FYS1Z02",
+                        "status": "http://data.udir.no/kl06/status_publisert",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+                        "gyldighet": {
+                            "gyldig-fra": "2020-08-01T00:00:00",
+                            "gyldig-til": null
+                        },
+                        "tittel": "Fysikk 2"
+                    }
+                ],
+                "kompetansemaal": [
+                    {
+                        "rekkefoelge": 1,
+                        "kode": "K277",
+                        "uri": "http://psi.udir.no/kl06/K277",
+                        "url-data": "http://data.udir.no/kl06/K277",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+                        "tittel": {
+                            "tekst": [
+                                {
+                                    "spraak": "default",
+                                    "verdi": "beskrive homogene og inhomogene elektriske felt og bruke Coulombs lov"
+                                }
+                            ],
+                            "forskrift": true
+                        },
+                        "forklaring": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Forklaring på kompetansemål"
+                            }
+                        ],
+                        "tilknyttede-tverrfaglige-tema": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "Forklaring på folkehelse og livsmestring"
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "TT1",
+                                    "uri": "http://psi.udir.no/kl06/TT1",
+                                    "url-data": "http://data.udir.no/kl06/TT1",
+                                    "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                                    "tittel": "Folkehelse og livsmestring"
+                                }
+                            }
+                        ],
+                        "tilknyttede-kjerneelementer": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "Forklaring på klassisk fysikk"
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "KE90",
+                                    "uri": "http://psi.udir.no/kl06/KE90",
+                                    "url-data": "http://data.udir.no/kl06/KE90",
+                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                                    "tittel": "Klassisk fysikk"
+                                }
+                            }
+                        ],
+                        "tilknyttede-grunnleggende-ferdigheter": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "Forklaring på muntlige ferdigheter"
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "GF2",
+                                    "uri": "http://psi.udir.no/kl06/GF2",
+                                    "url-data": "http://data.udir.no/kl06/GF2",
+                                    "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                                    "tittel": "Muntlige ferdigheter"
+                                }
+                            }
+                        ],
+                        "tilknyttede-verb": [
+                            {
+                                "referanse": {
+                                    "kode": "VERB3",
+                                    "uri": "http://psi.udir.no/kl06/VERB3",
+                                    "url-data": "http://data.udir.no/kl06/VERB3",
+                                    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+                                    "tittel": "Beskrive"
+                                }
+                            }
+                        ],
+                        "bygger-paa": [],
+                        "samme-som": []
+                    },
+                    {
+                        "rekkefoelge": 2,
+                        "kode": "K278",
+                        "uri": "http://psi.udir.no/kl06/K278",
+                        "url-data": "http://data.udir.no/kl06/K278",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+                        "tittel": {
+                            "tekst": [
+                                {
+                                    "spraak": "default",
+                                    "verdi": "eskrive magnetiske felt rundt permanentmagneter og elektriske strømmer, og beregne magnetisk flukstetthet rundt en rett leder og kraft på en leder i magnetisk felt"
+                                }
+                            ],
+                            "forskrift": true
+                        },
+                        "forklaring": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Forklaring på kompetansemål"
+                            }
+                        ],
+                        "tilknyttede-tverrfaglige-tema": [],
+                        "tilknyttede-kjerneelementer": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "Forklaring på moderne fysikk"
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "KE91",
+                                    "uri": "http://psi.udir.no/kl06/KE91",
+                                    "url-data": "http://data.udir.no/kl06/KE91",
+                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                                    "tittel": "Moderne fysikk"
+                                }
+                            }
+                        ],
+                        "tilknyttede-grunnleggende-ferdigheter": [
+                            {
+                                "forklaring": [
+                                    {
+                                        "spraak": "default",
+                                        "verdi": "Forklaring på muntlige ferdigheter"
+                                    }
+                                ],
+                                "referanse": {
+                                    "kode": "GF2",
+                                    "uri": "http://psi.udir.no/kl06/GF2",
+                                    "url-data": "http://data.udir.no/kl06/GF2",
+                                    "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                                    "tittel": "Muntlige ferdigheter"
+                                }
+                            }
+                        ],
+                        "tilknyttede-verb": [
+                            {
+                                "referanse": {
+                                    "kode": "VERB3",
+                                    "uri": "http://psi.udir.no/kl06/VERB3",
+                                    "url-data": "http://data.udir.no/kl06/VERB3",
+                                    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+                                    "tittel": "Beskrive"
+                                }
+                            }
+                        ],
+                        "bygger-paa": [],
+                        "samme-som": []
+                    }
+                ],
+                "underveisvurdering": {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Underveisvurdering"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Omtalen av underveisvurdering er ikke klar til denne innspillsrunden."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring på underveisvurdering"
+                        }
+                    ]
+                },
+                "sluttvurdering": {
+                    "overskrift": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Sluttvurdering"
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "beskrivelse": {
+                        "tekst": [
+                            {
+                                "spraak": "default",
+                                "verdi": "Elevene skal ha standpunktkarakter. Elevene kan trekkes ut til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt."
+                            }
+                        ],
+                        "forskrift": true
+                    },
+                    "forklaring": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Forklaring på sluttvurdering"
+                        }
+                    ]
+                },
+                "etter-aarstrinn": [
+                    {
+                        "kode": "vg2",
+                        "uri": "http://psi.udir.no/kl06/vg2",
+                        "url-data": "http://data.udir.no/kl06/vg2",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+                        "tittel": "Videregående trinn 2"
+                    },
+                    {
+                        "kode": "vg3",
+                        "uri": "http://psi.udir.no/kl06/vg3",
+                        "url-data": "http://data.udir.no/kl06/vg3",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+                        "tittel": "Videregående trinn 3"
+                    }
+                ],
+                "benyttes-paa-aarstrinn": [
+                    {
+                        "kode": "vg2",
+                        "uri": "http://psi.udir.no/kl06/vg2",
+                        "url-data": "http://data.udir.no/kl06/vg2",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+                        "tittel": "Videregående trinn 2"
+                    },
+                    {
+                        "kode": "vg3",
+                        "uri": "http://psi.udir.no/kl06/vg3",
+                        "url-data": "http://data.udir.no/kl06/vg3",
+                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+                        "tittel": "Videregående trinn 3"
                     }
                 ]
             }
@@ -1048,38 +1111,30 @@
         "fastsettelsestekst": [
             {
                 "spraak": "default",
-                "verdi": "Fastsett som forskrift av Kunnskapsdepartementet dd.mm.åååå"
-            }
+                "verdi": "Fastsatt som forskrift av Utdanningsdirektoratet 3. april 2006 etter delegasjon i brev 26. september 2005 fra Utdannings- og forskningsdepartementet med hjemmel i lov av 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 første ledd."            }
         ],
         "fastsatt-spraak": {
-            "kode": "nno",
-            "uri": "http://psi.udir.no/kl06/nno",
-            "url-data": "http://data.udir.no/kl06/nno",
-            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "tittel": "Nynorsk"
-        },
-        "fastsatt-dato-overskrift": [
-            {
-                "spraak": "default",
-                "verdi": "Fastsett"
-            }
-        ]
-    },
-    "fagtype": {
-        "kode": "fagtype_fellesfag",
-        "uri": "http://psi.udir.no/kl06/fagtype_fellesfag",
-        "url-data": "http://data.udir.no/kl06/fagtype_fellesfag",
-        "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
-        "tittel": "Fellesfag"
-    },
-    "tilgjengelige-spraak": [
-        {
             "kode": "nob",
             "uri": "http://psi.udir.no/kl06/nob",
             "url-data": "http://data.udir.no/kl06/nob",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
             "tittel": "Bokmål"
         },
+        "fastsatt-dato-overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Fastsatt"
+            }
+        ]
+    },
+    "fagtype": {
+        "kode": "fagtype_valgfritt_programfag",
+        "uri": "http://psi.udir.no/kl06/fagtype_valgfritt_programfag",
+        "url-data": "http://data.udir.no/kl06/fagtype_valgfritt_programfag",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+        "tittel": "Valgfritt programfag"
+    },
+    "tilgjengelige-spraak": [
         {
             "kode": "eng",
             "uri": "http://psi.udir.no/kl06/eng",
@@ -1088,42 +1143,14 @@
             "tittel": "Engelsk"
         },
         {
-            "kode": "smj",
-            "uri": "http://psi.udir.no/kl06/smj",
-            "url-data": "http://data.udir.no/kl06/smj",
+            "kode": "nob",
+            "uri": "http://psi.udir.no/kl06/nob",
+            "url-data": "http://data.udir.no/kl06/nob",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "tittel": "Lulesamisk"
-        },
-        {
-            "kode": "sme",
-            "uri": "http://psi.udir.no/kl06/sme",
-            "url-data": "http://data.udir.no/kl06/sme",
-            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "tittel": "Nordsamisk"
-        },
-        {
-            "kode": "nno",
-            "uri": "http://psi.udir.no/kl06/nno",
-            "url-data": "http://data.udir.no/kl06/nno",
-            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "tittel": "Nynorsk"
-        },
-        {
-            "kode": "sma",
-            "uri": "http://psi.udir.no/kl06/sma",
-            "url-data": "http://data.udir.no/kl06/sma",
-            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "tittel": "Sørsamisk"
+            "tittel": "Bokmål"
         }
     ],
     "opplaeringsnivaa": [
-        {
-            "kode": "opplaeringsnivaa_grunnskole",
-            "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_grunnskole",
-            "url-data": "http://data.udir.no/kl06/opplaeringsnivaa_grunnskole",
-            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
-            "tittel": "Grunnskole"
-        },
         {
             "kode": "opplaeringsnivaa_videregaaende",
             "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
@@ -1154,22 +1181,22 @@
     },
     "erstatter": [
         {
-            "kode": "MAT1-04",
-            "uri": "http://psi.udir.no/kl06/MAT1-04",
-            "url-data": "http://data.udir.no/kl06/MAT1-04",
+            "kode": "FYS1-01",
+            "uri": "http://psi.udir.no/kl06/FYS1-01",
+            "url-data": "http://data.udir.no/kl06/FYS1-01",
             "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
             "status": "http://data.udir.no/kl06/status_utgaatt",
-            "tittel": "Læreplan i matematikk fellesfag"
+            "tittel": "Læreplan i fysikk - programfag i utdanningsprogram for studiespesialisering"
         }
     ],
     "erstattes-av": [
         {
-            "kode": "MAT1-06",
-            "uri": "http://psi.udir.no/kl06/MAT1-06",
-            "url-data": "http://data.udir.no/kl06/MAT1-06",
+            "kode": "FYS1-03",
+            "uri": "http://psi.udir.no/kl06/FYS1-03",
+            "url-data": "http://data.udir.no/kl06/FYS1-03",
             "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
             "status": "http://data.udir.no/kl06/status_publisert",
-            "tittel": "Læreplan i matematikk fellesfag"
+            "tittel": "Læreplan i fysikk - programfag i utdanningsprogram for studiespesialisering"
         }
     ],
     "siste-eksamen": "2025-08-01T00:00:00",
