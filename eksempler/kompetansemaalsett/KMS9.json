@@ -1,0 +1,113 @@
+{
+    "id": "uuid:d0a1d4fd-cb72-4608-8269-39270144364b",
+    "kode": "KMS9",
+    "uri": "http://psi.udir.no/kl06/KMS9",
+    "url-data": "http://data.udir.no/kl06/KMS9",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Kompetansemål og vurdering 10. trinn"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+    "status": "http://data.udir.no/kl06/status_publisert",
+    "sist-endret": "2018-12-12T13:16:05.228885",
+    "kortform": null,
+    "kompetansemaal-overskrift": [
+        {
+            "spraak": "default",
+            "verdi": "Kompetansemål etter 10. trinn"
+        }
+    ],
+    "kompetansemaal-ingress": [
+        {
+            "spraak": "default",
+            "verdi": "Mål for opplæringa er at eleven skal kunne"
+        }
+    ],
+    "etter-fag": [
+        {
+            "kode": "MAT1Z34",
+            "uri": "http://psi.udir.no/kl06/MAT1Z34",
+            "url-data": "http://data.udir.no/kl06/MAT1Z34",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "tittel": "Matematikk 10. årstrinn",
+            "gyldighet": {
+                "gyldig-fra": "2020-08-01T00:00:00",
+                "gyldig-til": null
+            }
+        }
+    ],
+    "kompetansemaal": [
+        {
+            "rekkefoelge": 1,
+            "kode": "K98",
+            "uri": "http://psi.udir.no/kl06/K98",
+            "url-data": "http://data.udir.no/kl06/K98",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "tittel": "utforske og bruke kvadratsetningar og konjugatsetninga numerisk, algebraisk og geometrisk"
+        },
+        {
+            "rekkefoelge": 2,
+            "kode": "K99",
+            "uri": "http://psi.udir.no/kl06/K99",
+            "url-data": "http://data.udir.no/kl06/K99",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "tittel": "bruke dei algebraiske lovmessigheitene, finne samanhengar og deretter formalisere ved bruk av formålstenlege representasjonar"
+        }
+    ],
+    "underveisvurdering": {
+        "overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Underveisvurdering"
+            }
+        ],
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Eleven viser kompetanse i matematikk gjennom å utforske og kommunisere matematiske omgrep og generalisere matematiske samanhengar. Eleven kan bruke den matematiske kompetansen sin i problemløysing og modellering og kan reflektere over sine eigne arbeidsprosessar. Eleven kan presentere løysingar og argumentere for at dei er gyldige."
+            }
+        ]
+    },
+    "sluttvurdering": {
+        "overskrift": [
+            {
+                "spraak": "default",
+                "verdi": "Sluttvurdering"
+            }
+        ],
+        "beskrivelse": [
+            {
+                "spraak": "default",
+                "verdi": "Omtalen av sluttvurderinga er ikkje klar til denne innspelsrunden."
+            }
+        ]
+    },
+    "etter-aarstrinn": [
+        {
+            "kode": "aarstrinn10",
+            "uri": "http://psi.udir.no/kl06/aarstrinn10",
+            "url-data": "http://data.udir.no/kl06/aarstrinn10",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+            "tittel": "Tiende årstrinn"
+        }
+    ],
+    "benyttes-paa-aarstrinn": [
+        {
+            "kode": "aarstrinn10",
+            "uri": "http://psi.udir.no/kl06/aarstrinn10",
+            "url-data": "http://data.udir.no/kl06/aarstrinn10",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+            "tittel": "Tiende årstrinn"
+        }
+    ],
+    "tilhoerer-laereplan": {
+        "kode": "MAT1-05",
+        "uri": "http://psi.udir.no/kl06/MAT1-05",
+        "url-data": "http://data.udir.no/kl06/MAT1-05",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+        "tittel": "Matematikk fellesfag"
+    }
+}

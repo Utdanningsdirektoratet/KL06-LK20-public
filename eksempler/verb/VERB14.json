@@ -1,0 +1,32 @@
+{
+    "id": "uuid:859ec978-fd4d-11e8-8eb2-f2801f1b9fd1",
+    "kode": "VERB14",
+    "uri": "http://psi.udir.no/kl06/VERB14",
+    "url-data": "http://data.udir.no/kl06/VERB14",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Sammenligne"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+    "status": "http://data.udir.no/kl06/status_publisert",
+    "sist-endret": "2018-12-11T09:14:20",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "Å sammenligne er å undersøke likheter og forskjeller mellom to eller flere forhold."
+        }
+    ],
+    "globalt-verb": true,
+    "kompetansemaal-referanser": [
+        {
+            "kode": "K1",
+            "uri": "http://psi.udir.no/kl06/K1",
+            "url-data": "http://data.udir.no/kl06/K1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "tittel": "samanlikne ulike storleikar og mengder og uttrykkje dette gjennom eige språk og matematisk språk"
+        }
+    ]
+}

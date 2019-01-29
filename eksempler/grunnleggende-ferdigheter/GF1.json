@@ -1,0 +1,36 @@
+{
+    "id": "uuid:ceba24a2-0501-11e9-8eb2-f2801f1b9fd1",
+    "kode": "GF1",
+    "uri": "http://psi.udir.no/kl06/GF1",
+    "url-data": "http://data.udir.no/kl06/GF1",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Digitale ferdigheter"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+    "status": "http://data.udir.no/kl06/status_publisert",
+    "sist-endret": "2018-12-21T13:16:05.228885",
+    "lenke-til-beskrivelse": "https://www.udir.no/laring-og-trivsel/lareplanverket/grunnleggende-ferdigheter/rammeverk-for-grunnleggende-ferdigheter/2.1-digitale-ferdigheter/",
+    "laereplan-referanser": [
+        {
+            "kode": "MAT1-05",
+            "uri": "http://psi.udir.no/kl06/MAT1-05",
+            "url-data": "http://data.udir.no/kl06/MAT1-05",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "tittel": "Matematikk fellesfag"
+        }
+    ],
+    "kompetansemaal-referanser": [
+        {
+            "kode": "K1",
+            "uri": "http://psi.udir.no/kl06/K1",
+            "url-data": "http://data.udir.no/kl06/K1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "tittel": "samanlikne ulike storleikar og mengder og uttrykkje dette gjennom eige språk og matematisk språk"
+        }
+    ]
+}

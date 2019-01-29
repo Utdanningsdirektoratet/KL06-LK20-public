@@ -1,0 +1,39 @@
+{
+    "id": "uuid:d570dcc2-0381-11e9-8eb2-f2801f1b9fd1",
+    "kode": "KE1",
+    "uri": "http://psi.udir.no/kl06/KE1",
+    "url-data": "http://data.udir.no/kl06/KE1",
+    "tittel": [
+        {
+            "spraak": "default",
+            "verdi": "Utforsking og problemløysing"
+        }
+    ],
+    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+    "status": "http://data.udir.no/kl06/status_publisert",
+    "sist-endret": "2018-12-19T13:16:05.228885",
+    "beskrivelse": [
+        {
+            "spraak": "default",
+            "verdi": "Dette kjerneelementet er det viktigaste for faget og for høvet til djupnelæring. Dei andre kjerneelementa må sjåast i samanheng med dette. Utforsking handlar om at elevane leiter etter mønster og finn samanhengar. Det må leggjast meir vekt på ulike strategiar og framgangsmåtar enn på sjølve løysingane. Problemløysing handlar om at elevane utviklar løysingsmetodar på eit problem dei ikkje kjenner frå før. Algoritmisk tenking er viktig i prosessen med å utvikle strategiar og framgangsmåtar og inneber å kunne bryte ned eit problem i delproblem som kan løysast systematisk. Viktig innhald vil vere å kunne stille matematiske spørsmål og formulere matematiske problemstillingar, identifisere problem, vere uthaldande, utvikle og kunne velje effektive problemløysingsstrategiar og utforske og løyse problem ved hjelp av programmering. Elevane må få høve til å vere nysgjerrige, også på fagstoff som dei ikkje elles møter av matematikk på trinnet sitt."
+        }
+    ],
+    "tilhoerer-laereplan": {
+        "kode": "MAT1-05",
+        "uri": "http://psi.udir.no/kl06/MAT1-05",
+        "url-data": "http://data.udir.no/kl06/MAT1-05",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+        "status": "http://data.udir.no/kl06/status_publisert",
+        "tittel": "Matematikk fellesfag"
+    },
+    "kompetansemaal-referanser": [
+        {
+            "kode": "K1",
+            "uri": "http://psi.udir.no/kl06/K1",
+            "url-data": "http://data.udir.no/kl06/K1",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "http://data.udir.no/kl06/status_publisert",
+            "tittel": "samanlikne ulike storleikar og mengder og uttrykkje dette gjennom eige språk og matematisk språk"
+        }
+    ]
+}
