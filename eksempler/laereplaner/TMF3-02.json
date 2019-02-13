@@ -2,7 +2,7 @@
     "id": "uuid:1cdd3528-2327-11e9-ab14-d663bd873d93",
     "kode": "TMF3-02",
     "uri": "http://psi.udir.no/kl06/TMF3-02",
-    "url-data": "http://data.udir.no/kl06/TMF3-02",
+    "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/TMF3-02",
     "tittel": {
         "tekst": [
             {
@@ -13,7 +13,7 @@
         "forskrift": true
     },
     "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-    "status": "http://data.udir.no/kl06/status_publisert",
+    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
     "sist-endret": "2018-12-12T13:16:05.228885",
     "om-faget-kapittel": {
         "overskrift": {
@@ -63,70 +63,30 @@
             },
             "kjerneelementer": [
                 {
-                    "overskrift": {
-                        "tekst": [
-                            {
-                                "spraak": "Default",
-                                "verdi": "Produksjon"
-                            }
-                        ],
-                        "forskrift": true
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
                     },
-                    "beskrivelse": {
-                        "tekst": [
-                            {
-                                "spraak": "Default",
-                                "verdi": "Kjerneelementet handlar om oppsetjing av nye bygg med bruk av ulike typar materiale. Det omfattar også rehabilitering og vedlikehald av eksisterande bygningar. Byggjeskikkar og sikring av estetiske og kulturelle verdiar står sentralt. Kjerneelementet omfattar bruk av verktøy og maskiner, bruk av preaksepterte løysingar og kvalitetssystem, teikningar og beskrivingar og gjeldande regelverk. Planlegging, gjennomføring, dokumentasjon og vurdering av arbeid høyrer med. Kjerneelementet dekkjer også kjeldesortering, avfallshandtering og helse, miljø og tryggleik."
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "forklaring": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Forklaring på produksjon"
-                        }
-                    ],
-                    "referanse": {
-                        "kode": "KE70",
-                        "uri": "http://psi.udir.no/kl06/KE70",
-                        "url-data": "http://data.udir.no/kl06/KE70",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                        "tittel": "Produksjon"
-                    }
+                    "id": "uuid:19a552ae-2e09-11e9-b210-d663bd873d93",
+                    "kode": "KE70",
+                    "uri": "http://psi.udir.no/kl06/KE70",
+                    "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE70",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "tittel": "Produksjon"
                 },
                 {
-                    "overskrift": {
-                        "tekst": [
-                            {
-                                "spraak": "Default",
-                                "verdi": "Bransjelære"
-                            }
-                        ],
-                        "forskrift": true
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
                     },
-                    "beskrivelse": {
-                        "tekst": [
-                            {
-                                "spraak": "Default",
-                                "verdi": "Kjerneelementet handlar om ulike typar materialar og bruksområda deira. Bruk av beskrivingar, teikningar og dokumentasjon inngår. Prinsipp for oppgradering av eldre bygningar og bygningsfysikk høyrer med. Dessutan inngår faghistorie, kva plass faget har i samfunnet, og etiske retningslinjer."
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "forklaring": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Forklaring på bransjelære"
-                        }
-                    ],
-                    "referanse": {
-                        "kode": "KE71",
-                        "uri": "http://psi.udir.no/kl06/KE71",
-                        "url-data": "http://data.udir.no/kl06/KE71",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                        "tittel": "Bransjelære"
-                    }
+                    "id": "uuid:24edf468-2e09-11e9-b210-d663bd873d93",
+                    "kode": "KE71",
+                    "uri": "http://psi.udir.no/kl06/KE71",
+                    "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE71",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "tittel": "Bransjelære"
                 }
             ]
         },
@@ -193,10 +153,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:c28b7650-0366-11e9-8eb2-f2801f1b9fd1",
                         "kode": "TT1",
                         "uri": "http://psi.udir.no/kl06/TT1",
-                        "url-data": "http://data.udir.no/kl06/TT1",
+                        "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT1",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Folkehelse og livsmestring"
                     }
                 },
@@ -226,10 +192,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:7336758a-2df7-11e9-b210-d663bd873d93",
                         "kode": "TT2",
                         "uri": "http://psi.udir.no/kl06/TT2",
-                        "url-data": "http://data.udir.no/kl06/TT2",
+                        "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT2",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Demokrati og medborgarskap"
                     }
                 },
@@ -259,10 +231,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:8aef2abe-2df7-11e9-b210-d663bd873d93",
                         "kode": "TT3",
                         "uri": "http://psi.udir.no/kl06/TT3",
-                        "url-data": "http://data.udir.no/kl06/TT3",
+                        "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT3",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Bærekraftig utvikling"
                     }
                 }
@@ -305,10 +283,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:ceba24a2-0501-11e9-8eb2-f2801f1b9fd1",
                         "kode": "GF1",
                         "uri": "http://psi.udir.no/kl06/GF1",
-                        "url-data": "http://data.udir.no/kl06/GF1",
+                        "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF1",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Digitale ferdigheter"
                     }
                 },
@@ -338,10 +322,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:c9448b2e-2df7-11e9-b210-d663bd873d93",
                         "kode": "GF2",
                         "uri": "http://psi.udir.no/kl06/GF2",
-                        "url-data": "http://data.udir.no/kl06/GF2",
+                        "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF2",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Muntlige ferdigheter"
                     }
                 },
@@ -371,10 +361,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:e11ab304-2df7-11e9-b210-d663bd873d93",
                         "kode": "GF3",
                         "uri": "http://psi.udir.no/kl06/GF3",
-                        "url-data": "http://data.udir.no/kl06/GF3",
+                        "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF3",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Å kunne lese"
                     }
                 },
@@ -404,10 +400,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:f97eda06-2df7-11e9-b210-d663bd873d93",
                         "kode": "GF4",
                         "uri": "http://psi.udir.no/kl06/GF4",
-                        "url-data": "http://data.udir.no/kl06/GF4",
+                        "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF4",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Å kunne regne"
                     }
                 },
@@ -437,10 +439,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:0e5aa270-2df8-11e9-b210-d663bd873d93",
                         "kode": "GF5",
                         "uri": "http://psi.udir.no/kl06/GF5",
-                        "url-data": "http://data.udir.no/kl06/GF5",
+                        "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF5",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Å kunne skrive"
                     }
                 }
@@ -459,332 +467,17 @@
         },
         "kompetansemaalsett": [
             {
-                "rekkefoelge": 1,
-                "id": "uuid:06adc5c8-232d-11e9-ab14-d663bd873d93",
-                "kode": "KMS30",
-                "uri": "http://psi.udir.no/kl06/KMS30",
-                "url-data": "http://data.udir.no/kl06/KMS30",
-                "tittel": {
-                    "tekst": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Kompetansemål og vurdering"
-                        }
-                    ],
-                    "forskrift": true
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
                 },
+                "id": "uuid:79ec3fc0-2e08-11e9-b210-d663bd873d93",
+                "kode": "KMS60",
+                "uri": "http://psi.udir.no/kl06/KMS60",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KMS60",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
-                "kortform": null,
-                "forklaring": [
-                    {
-                        "spraak": "default",
-                        "verdi": "Forklaring på kompetansemålsett"
-                    }
-                ],
-                "kompetansemaal-overskrift": [
-                    {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Kompetansemål etter Vg3"
-                            }
-                        ],
-                        "forskrift": true
-                    }
-                ],
-                "kompetansemaal-ingress": [
-                    {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Mål for opplæringa er at lærlingen skal kunne"
-                            }
-                        ],
-                        "forskrift": true
-                    }
-                ],
-                "etter-fag": [
-                    {
-                        "kode": "TMF3Z01",
-                        "uri": "http://psi.udir.no/kl06/TMF3Z01",
-                        "url-data": "http://data.udir.no/kl06/TMF3Z01",
-                        "status": "http://data.udir.no/kl06/status_publisert",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
-                        "gyldighet": {
-                            "gyldig-fra": "2020-08-01T00:00:00",
-                            "gyldig-til": null
-                        },
-                        "tittel": "Tømrerfaget"
-                    }
-                ],
-                "kompetansemaal": [
-                    {
-                        "rekkefoelge": 1,
-                        "kode": "K170",
-                        "uri": "http://psi.udir.no/kl06/K170",
-                        "url-data": "http://data.udir.no/kl06/K170",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                        "tittel": {
-                            "tekst": [
-                                {
-                                    "spraak": "default",
-                                    "verdi": "planleggje, utføre, dokumentere og vurdere eige arbeid"
-                                }
-                            ],
-                            "forskrift": true
-                        },
-                        "forklaring": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Forklaring på kompetansemål"
-                            }
-                        ],
-                        "tilknyttede-tverrfaglige-tema": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på folkehelse og livsmestring"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "TT1",
-                                    "uri": "http://psi.udir.no/kl06/TT1",
-                                    "url-data": "http://data.udir.no/kl06/TT1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
-                                    "tittel": "Folkehelse og livsmestring"
-                                }
-                            }
-                        ],
-                        "tilknyttede-kjerneelementer": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på produksjon"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "KE70",
-                                    "uri": "http://psi.udir.no/kl06/KE70",
-                                    "url-data": "http://data.udir.no/kl06/KE70",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                                    "tittel": "Produksjon"
-                                }
-                            }
-                        ],
-                        "tilknyttede-grunnleggende-ferdigheter": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på muntlige ferdigheter"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "GF2",
-                                    "uri": "http://psi.udir.no/kl06/GF2",
-                                    "url-data": "http://data.udir.no/kl06/GF2",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                                    "tittel": "Muntlige ferdigheter"
-                                }
-                            }
-                        ],
-                        "tilknyttede-verb": [
-                            {
-                                "referanse": {
-                                    "kode": "VERB5",
-                                    "uri": "http://psi.udir.no/kl06/VERB5",
-                                    "url-data": "http://data.udir.no/kl06/VERB5",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
-                                    "tittel": "Dokumentere"
-                                }
-                            },
-                            {
-                                "referanse": {
-                                    "kode": "VERB10",
-                                    "uri": "http://psi.udir.no/kl06/VERB10",
-                                    "url-data": "http://data.udir.no/kl06/VERB10",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
-                                    "tittel": "Planlegge"
-                                }
-                            },
-                            {
-                                "referanse": {
-                                    "kode": "VERB18",
-                                    "uri": "http://psi.udir.no/kl06/VERB18",
-                                    "url-data": "http://data.udir.no/kl06/VERB18",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
-                                    "tittel": "Vurdere"
-                                }
-                            }
-                        ],
-                        "bygger-paa": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på bygger på kompetansemål"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "K175",
-                                    "uri": "http://psi.udir.no/kl06/K175",
-                                    "url-data": "http://data.udir.no/kl06/K175",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                                    "tittel": "utføre byggje- og monteringsarbeid etter teikningar og beskrivingar"
-                                }
-                            }
-                        ],
-                        "samme-som": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på samme som kompetansemål"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "K180",
-                                    "uri": "http://psi.udir.no/kl06/K180",
-                                    "url-data": "http://data.udir.no/kl06/K180",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                                    "tittel": "velje, tilverke og bruke materialar til konstruksjonar og innreiingsarbeid"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "rekkefoelge": 2,
-                        "kode": "K171",
-                        "uri": "http://psi.udir.no/kl06/K171",
-                        "url-data": "http://data.udir.no/kl06/K171",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                        "tittel": {
-                            "tekst": [
-                                {
-                                    "spraak": "default",
-                                    "verdi": "byggje om eksisterande bygningar til nye funksjonsområde i samsvar med gjeldande regelverk"
-                                }
-                            ],
-                            "forskrift": true
-                        },
-                        "forklaring": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Forklaring på kompetansemål"
-                            }
-                        ],
-                        "tilknyttede-tverrfaglige-tema": [],
-                        "tilknyttede-kjerneelementer": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på bransjelære"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "KE71",
-                                    "uri": "http://psi.udir.no/kl06/KE71",
-                                    "url-data": "http://data.udir.no/kl06/KE71",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                                    "tittel": "Bransjelære"
-                                }
-                            }
-                        ],
-                        "tilknyttede-grunnleggende-ferdigheter": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på muntlige ferdigheter"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "GF2",
-                                    "uri": "http://psi.udir.no/kl06/GF2",
-                                    "url-data": "http://data.udir.no/kl06/GF2",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                                    "tittel": "Muntlige ferdigheter"
-                                }
-                            }
-                        ],
-                        "tilknyttede-verb": [],
-                        "bygger-paa": [],
-                        "samme-som": []
-                    }
-                ],
-                "underveisvurdering": {
-                    "overskrift": {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Undervegsvurdering"
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "beskrivelse": {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Omtalen av undervegsvurderinga er ikkje klar til denne innspelsrunden."
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "forklaring": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Forklaring på undervegsvurdering"
-                        }
-                    ]
-                },
-                "sluttvurdering": {
-                    "overskrift": {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Sluttvurdering"
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "beskrivelse": {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Alle skal opp til sveineprøva, som normalt skal gjennomførast innanfor ei tidsramme på fem vyrkedagar. Alle kandidatar som ikkje har følgt normalt opplæringsløp, må ha bestått ein eksamen på Vg3-nivå i lærefaget."
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "forklaring": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Forklaring på sluttvurdering"
-                        }
-                    ]
-                },
-                "etter-aarstrinn": [
-                    {
-                        "kode": "vg3",
-                        "uri": "http://psi.udir.no/kl06/vg3",
-                        "url-data": "http://data.udir.no/kl06/vg3",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-                        "tittel": "Videregående trinn 3"
-                    }
-                ],
-                "benyttes-paa-aarstrinn": [
-                    {
-                        "kode": "vg3",
-                        "uri": "http://psi.udir.no/kl06/vg3",
-                        "url-data": "http://data.udir.no/kl06/vg3",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-                        "tittel": "Videregående trinn 3"
-                    }
-                ]
+                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "tittel": "Kompetansemål og vurdering etter Vg3"
             }
         ]
     },
@@ -798,10 +491,16 @@
             }
         ],
         "fastsatt-spraak": {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nno",
             "kode": "nno",
             "uri": "http://psi.udir.no/kl06/nno",
-            "url-data": "http://data.udir.no/kl06/nno",
+            "url-data": "http://data.udir.no/kl06/v201906/spraak/nno",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Nynorsk"
         },
         "fastsatt-dato-overskrift": [
@@ -812,34 +511,58 @@
         ]
     },
     "fagtype": {
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/felles_programfag",
         "kode": "fagtype_felles_programfag",
         "uri": "http://psi.udir.no/kl06/fagtype_felles_programfag",
-        "url-data": "http://data.udir.no/kl06/fagtype_felles_programfag",
+        "url-data": "http://data.udir.no/kl06/v201906/fagtype/fagtype_felles_programfag",
         "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "tittel": "Felles programfag"
     },
     "tilgjengelige-spraak": [
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#eng",
             "kode": "eng",
             "uri": "http://psi.udir.no/kl06/eng",
-            "url-data": "http://data.udir.no/kl06/eng",
+            "url-data": "http://data.udir.no/kl06/v201906/spraak/eng",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Engelsk"
         },
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nno",
             "kode": "nno",
             "uri": "http://psi.udir.no/kl06/nno",
-            "url-data": "http://data.udir.no/kl06/nno",
+            "url-data": "http://data.udir.no/kl06/v201906/spraak/nno",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Nynorsk"
         }
     ],
     "opplaeringsnivaa": [
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
             "kode": "opplaeringsnivaa_videregaaende",
             "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
-            "url-data": "http://data.udir.no/kl06/opplaeringsnivaa_videregaaende",
+            "url-data": "http://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
             "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Videregående opplæring"
         }
     ],
@@ -865,31 +588,47 @@
     },
     "erstatter": [
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:26a87839-e5d4-4773-bb48-3c6e210ad788",
             "kode": "TMF3-01",
             "uri": "http://psi.udir.no/kl06/TMF3-01",
-            "url-data": "http://data.udir.no/kl06/TMF3-01",
-            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-            "status": "http://data.udir.no/kl06/status_utgaatt",
+            "url-data": "http://data.udir.no/kl06/v201906/laereplaner/TMF3-01",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "http://data.udir.no/kl06/v201906/status/status_utgaatt",
             "tittel": "Læreplan i tømrarfaget Vg3 / opplæring i bedrift"
         }
     ],
     "erstattes-av": [
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:8887cc00-2e0a-11e9-b210-d663bd873d93",
             "kode": "TMF3-03",
             "uri": "http://psi.udir.no/kl06/TMF3-03",
-            "url-data": "http://data.udir.no/kl06/TMF3-03",
+            "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MF3-03",
             "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-            "status": "http://data.udir.no/kl06/status_publisert",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Læreplan i tømrarfaget Vg3 / opplæring i bedrift"
         }
     ],
     "siste-eksamen": "2025-08-01T00:00:00",
     "merkelapper": [
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/merkelapp/laerling",
             "kode": "laerling",
             "uri": "http://psi.udir.no/kl06/laerling",
-            "url-data": "http://data.udir.no/kl06/laerling",
+            "url-data": "http://data.udir.no/kl06/v201906/merkelapper/laerling",
             "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Lærlingplan"
         }
     ],
