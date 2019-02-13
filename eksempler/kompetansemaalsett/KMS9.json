@@ -2,112 +2,181 @@
     "id": "uuid:d0a1d4fd-cb72-4608-8269-39270144364b",
     "kode": "KMS9",
     "uri": "http://psi.udir.no/kl06/KMS9",
-    "url-data": "http://data.udir.no/kl06/KMS9",
-    "tittel": [
-        {
-            "spraak": "default",
-            "verdi": "Kompetansemål og vurdering 10. trinn"
-        }
-    ],
-    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
-    "status": "http://data.udir.no/kl06/status_publisert",
-    "sist-endret": "2018-12-12T13:16:05.228885",
-    "kortform": null,
-    "kompetansemaal-overskrift": [
-        {
-            "spraak": "default",
-            "verdi": "Kompetansemål etter 10. trinn"
-        }
-    ],
-    "kompetansemaal-ingress": [
-        {
-            "spraak": "default",
-            "verdi": "Mål for opplæringa er at eleven skal kunne"
-        }
-    ],
-    "etter-fag": [
-        {
-            "kode": "MAT1Z34",
-            "uri": "http://psi.udir.no/kl06/MAT1Z34",
-            "url-data": "http://data.udir.no/kl06/MAT1Z34",
-            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
-            "status": "http://data.udir.no/kl06/status_publisert",
-            "tittel": "Matematikk 10. årstrinn",
-            "gyldighet": {
-                "gyldig-fra": "2020-08-01T00:00:00",
-                "gyldig-til": null
+    "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KMS9",
+    "tittel": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "Kompetansemål og vurdering 10. trinn"
             }
+        ],
+        "forskrift": true
+    },
+    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+    "sist-endret": "2018-12-12T13:16:05.228885",
+    "kortform": [],
+    "rekkefoelge": 9,
+    "forklaring": [
+        {
+            "spraak": "default",
+            "verdi": "Forklaring på kompetansemålsett"
         }
     ],
+    "kompetansemaal-overskrift": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "Kompetansemål etter 10. trinn"
+            }
+        ],
+        "forskrift": true
+    },
+    "kompetansemaal-ingress": {
+        "tekst": [
+            {
+                "spraak": "default",
+                "verdi": "Mål for opplæringa er at eleven skal kunne"
+            }
+        ],
+        "forskrift:": true
+    },
     "kompetansemaal": [
         {
-            "rekkefoelge": 1,
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:e53cac6e-2e27-11e9-b210-d663bd873d93",
             "kode": "K98",
             "uri": "http://psi.udir.no/kl06/K98",
-            "url-data": "http://data.udir.no/kl06/K98",
+            "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/K98",
             "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "utforske og bruke kvadratsetningar og konjugatsetninga numerisk, algebraisk og geometrisk"
         },
         {
-            "rekkefoelge": 2,
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:ed9df7fa-2e27-11e9-b210-d663bd873d93",
             "kode": "K99",
             "uri": "http://psi.udir.no/kl06/K99",
-            "url-data": "http://data.udir.no/kl06/K99",
+            "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/K99",
             "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "bruke dei algebraiske lovmessigheitene, finne samanhengar og deretter formalisere ved bruk av formålstenlege representasjonar"
         }
     ],
     "underveisvurdering": {
-        "overskrift": [
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Underveisvurdering"
+                }
+            ],
+            "forskrift": true
+        },
+        "beskrivelse": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Eleven viser kompetanse i matematikk gjennom å utforske og kommunisere matematiske omgrep og generalisere matematiske samanhengar. Eleven kan bruke den matematiske kompetansen sin i problemløysing og modellering og kan reflektere over sine eigne arbeidsprosessar. Eleven kan presentere løysingar og argumentere for at dei er gyldige."
+                }
+            ],
+            "forskrift": true
+        },
+        "forklaring": [
             {
                 "spraak": "default",
-                "verdi": "Underveisvurdering"
-            }
-        ],
-        "beskrivelse": [
-            {
-                "spraak": "default",
-                "verdi": "Eleven viser kompetanse i matematikk gjennom å utforske og kommunisere matematiske omgrep og generalisere matematiske samanhengar. Eleven kan bruke den matematiske kompetansen sin i problemløysing og modellering og kan reflektere over sine eigne arbeidsprosessar. Eleven kan presentere løysingar og argumentere for at dei er gyldige."
-            }
-        ]
-    },
-    "sluttvurdering": {
-        "overskrift": [
-            {
-                "spraak": "default",
-                "verdi": "Sluttvurdering"
-            }
-        ],
-        "beskrivelse": [
-            {
-                "spraak": "default",
-                "verdi": "Omtalen av sluttvurderinga er ikkje klar til denne innspelsrunden."
+                "verdi": "Forklaring på undervegsvurdering"
             }
         ]
     },
+    "standpunktvurdering": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Standpunktvurdering"
+                }
+            ],
+            "forskrift": true
+        },
+        "beskrivelse": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Omtalen av standpunktvurderinga er ikkje klar til denne innspelsrunden."
+                }
+            ],
+            "forskrift": true
+        },
+        "forklaring": [
+            {
+                "spraak": "default",
+                "verdi": "Forklaring på standpunktvurdering"
+            }
+        ]
+    },
+    "etter-fag": [
+        {
+            "gyldighet": {
+                "gyldig-fra": "2020-08-01T00:00:00",
+                "gyldig-til": null
+            },
+            "id": "uuid:1b7ffca0-787f-4387-9dfa-42ac0469a88f",
+            "kode": "MAT1Z34",
+            "uri": "http://psi.udir.no/kl06/MAT1Z34",
+            "url-data": "http://data.udir.no/kl06/v201906/opplaeringsfag/MAT1Z34",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "tittel": "Matematikk 10. årstrinn"
+        }
+    ],
     "etter-aarstrinn": [
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/laereplan/aarstrinn/aarstrinn10",
             "kode": "aarstrinn10",
             "uri": "http://psi.udir.no/kl06/aarstrinn10",
-            "url-data": "http://data.udir.no/kl06/aarstrinn10",
+            "url-data": "http://data.udir.no/kl06/v201906/aarstrinn/aarstrinn10",
             "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Tiende årstrinn"
         }
     ],
     "benyttes-paa-aarstrinn": [
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/laereplan/aarstrinn/aarstrinn10",
             "kode": "aarstrinn10",
             "uri": "http://psi.udir.no/kl06/aarstrinn10",
-            "url-data": "http://data.udir.no/kl06/aarstrinn10",
+            "url-data": "http://data.udir.no/kl06/v201906/aarstrinn/aarstrinn10",
             "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Tiende årstrinn"
         }
     ],
     "tilhoerer-laereplan": {
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "uuid:3c03c709-4934-4012-9353-c14bfa8ff651",
         "kode": "MAT1-05",
         "uri": "http://psi.udir.no/kl06/MAT1-05",
-        "url-data": "http://data.udir.no/kl06/MAT1-05",
+        "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MAT1-05",
         "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "tittel": "Matematikk fellesfag"
     }
 }

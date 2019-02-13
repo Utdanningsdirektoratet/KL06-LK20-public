@@ -2,7 +2,7 @@
     "id": "uuid:3c03c709-4934-4012-9353-c14bfa8ff651",
     "kode": "MAT1-05",
     "uri": "http://psi.udir.no/kl06/MAT1-05",
-    "url-data": "http://data.udir.no/kl06/MAT1-05",
+    "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MAT1-05",
     "tittel": {
         "tekst": [
             {
@@ -13,7 +13,7 @@
         "forskrift": true
     },
     "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-    "status": "http://data.udir.no/kl06/status_publisert",
+    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
     "sist-endret": "2018-12-12T13:16:05.228885",
     "om-faget-kapittel": {
         "overskrift": {
@@ -63,70 +63,82 @@
             },
             "kjerneelementer": [
                 {
-                    "overskrift": {
-                        "tekst": [
-                            {
-                                "spraak": "Default",
-                                "verdi": "Utforsking og problemløysing"
-                            }
-                        ],
-                        "forskrift": true
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
                     },
-                    "beskrivelse": {
-                        "tekst": [
-                            {
-                                "spraak": "Default",
-                                "verdi": "Dette kjerneelementet er det viktigaste for faget og for høvet til djupnelæring. Dei andre kjerneelementa må sjåast i samanheng med dette. Utforsking handlar om at elevane leiter etter mønster og finn samanhengar. Det må leggjast meir vekt på ulike strategiar og framgangsmåtar enn på sjølve løysingane. Problemløysing handlar om at elevane utviklar løysingsmetodar på eit problem dei ikkje kjenner frå før. Algoritmisk tenking er viktig i prosessen med å utvikle strategiar og framgangsmåtar og inneber å kunne bryte ned eit problem i delproblem som kan løysast systematisk. Viktig innhald vil vere å kunne stille matematiske spørsmål og formulere matematiske problemstillingar, identifisere problem, vere uthaldande, utvikle og kunne velje effektive problemløysingsstrategiar og utforske og løyse problem ved hjelp av programmering. Elevane må få høve til å vere nysgjerrige, også på fagstoff som dei ikkje elles møter av matematikk på trinnet sitt."
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "forklaring": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Forklaring på utforsking og problemløysing"
-                        }
-                    ],
-                    "referanse": {
-                        "kode": "KE1",
-                        "uri": "http://psi.udir.no/kl06/KE1",
-                        "url-data": "http://data.udir.no/kl06/KE1",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                        "tittel": "Utforsking og problemløysing"
-                    }
+                    "id": "uuid:d570dcc2-0381-11e9-8eb2-f2801f1b9fd1",
+                    "kode": "KE1",
+                    "uri": "http://psi.udir.no/kl06/KE1",
+                    "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "tittel": "Utforsking og problemløysing"
                 },
                 {
-                    "overskrift": {
-                        "tekst": [
-                            {
-                                "spraak": "Default",
-                                "verdi": "Modellering og bruk"
-                            }
-                        ],
-                        "forskrift": true
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
                     },
-                    "beskrivelse": {
-                        "tekst": [
-                            {
-                                "spraak": "Default",
-                                "verdi": "Elevane skal ha innsikt i korleis matematikk blir brukt i dagleglivet, samfunnslivet og innanfor vitskap og teknologi. Det inneber å ta ei problemstilling frå verkelegheita, formulere henne om til ein matematisk modell og tolke modellen i lys av den opphavlege situasjonen. Elevane bør få innsikt i korleis modellar kan brukast i nye situasjonar. Viktig kompetanse vil vere å kunne omsetje til eit matematisk språk, bruke matematiske modellar og tolke løysingar, vurdere gyldigheitsområdet og avgrensingane til ein modell, utvikle kritisk tenking og vurdere når det er formålstenleg å bruke programmering til å utforske matematiske modellar. Funksjonar, måling og statistikk vil vere viktige innhaldselement."
-                            }
-                        ],
-                        "forskrift": true
+                    "id": "uuid:30f11c54-2e04-11e9-b210-d663bd873d93",
+                    "kode": "KE2",
+                    "uri": "http://psi.udir.no/kl06/KE2",
+                    "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE2",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "tittel": "Modellering og bruk"
+                },
+                {
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
                     },
-                    "forklaring": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Forklaring på modellering og bruk"
-                        }
-                    ],
-                    "referanse": {
-                        "kode": "KE2",
-                        "uri": "http://psi.udir.no/kl06/KE2",
-                        "url-data": "http://data.udir.no/kl06/KE2",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                        "tittel": "Modellering og bruk"
-                    }
+                    "id": "uuid:ba04eb08-2f65-11e9-b210-d663bd873d93",
+                    "kode": "KE3",
+                    "uri": "http://psi.udir.no/kl06/KE3",
+                    "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE3",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "tittel": "Resonnering og argumentasjon"
+                },
+                {
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "uuid:c04ec39e-2f65-11e9-b210-d663bd873d93",
+                    "kode": "KE4",
+                    "uri": "http://psi.udir.no/kl06/KE4",
+                    "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE4",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "tittel": "Representasjon og kommunikasjon"
+                },
+                {
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "uuid:c564ea16-2f65-11e9-b210-d663bd873d93",
+                    "kode": "KE5",
+                    "uri": "http://psi.udir.no/kl06/KE5",
+                    "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE5",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "tittel": "Abstraksjon og generalisering"
+                },
+                {
+                    "gyldighet": {
+                        "gyldig-fra": null,
+                        "gyldig-til": null
+                    },
+                    "id": "uuid:caa71864-2f65-11e9-b210-d663bd873d93",
+                    "kode": "KE6",
+                    "uri": "http://psi.udir.no/kl06/KE6",
+                    "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE6",
+                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "tittel": "Matematiske kunnskapsområde"
                 }
             ]
         },
@@ -181,7 +193,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Folkehelse og livsmestring er tatt med i dette faget pga..."
+                                "verdi": "Det å forstå korleis prosessar i samfunnet fungerer, er ein føresetnad for å delta i samfunnslivet. Teknologi blir ein større og større del av kvardagen vår, og det krev forståing for algoritmisk tenking og den påverknaden vi blir utsette for i dagleglivet. Det å kunne vurdere val knytte til personleg økonomi og kunne reflektere over konsekvensar skal òg vere ein naturleg del av matematikkfaget på alle hovudtrinna. Mange elevar opplever svak meistring i matematikkfaget, noko som seinare kan påverke meistring i livet. Matematikkfaget skal derfor leggje vekt på relevans, kreativitet, medverknad, meistring og motivasjon gjennom heile skuleløpet."
                             }
                         ],
                         "forskrift": true
@@ -193,10 +205,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:c28b7650-0366-11e9-8eb2-f2801f1b9fd1",
                         "kode": "TT1",
                         "uri": "http://psi.udir.no/kl06/TT1",
-                        "url-data": "http://data.udir.no/kl06/TT1",
+                        "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT1",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Folkehelse og livsmestring"
                     }
                 },
@@ -214,7 +232,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Demokrati og medborgarskap er tatt med i dette faget pga..."
+                                "verdi": "Matematikk er eit reiskapsfag. For å kunne vere ein aktiv medborgar og delta i og forstå eit demokrati er det viktig at ein kan lese, forstå og bruke tal, målingar og statistikk. Kvar einaste dag gjer vi målingar, berekningar og utrekningar. Bak all digital kommunikasjon ligg det ein kode. Skal ein kunne ta avgjerder, må ein kunne vurdere løysingar og gyldigheit. Matematiske modellar, mønster, omgrep, former og figurar er ein del av omgivnadene våre. Matematisk forståing er derfor viktig for den enkelte, både for å forstå samfunnet vi lever i, og for å meistre kvardagen."
                             }
                         ],
                         "forskrift": true
@@ -226,10 +244,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:8b65bce4-2e04-11e9-b210-d663bd873d93",
                         "kode": "TT2",
                         "uri": "http://psi.udir.no/kl06/TT2",
-                        "url-data": "http://data.udir.no/kl06/TT2",
+                        "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT2",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Demokrati og medborgarskap"
                     }
                 },
@@ -247,7 +271,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Bærekraftig utvikling er tatt med i dette faget pga..."
+                                "verdi": "Matematikk er eit viktig fag som bidreg til å gjere elevane i stand til å forstå og argumentere for avgjerder i sin eigen kvardag og i samfunnet elles. Kritisk tenking, samarbeid og argumentasjon gjer elevane til demokratiske medborgarar som kan bidra med berekraftige løysingar på problem og utfordringar både i lokalmiljøet og i samfunnet elles. Reflektert bruk av statistikk og vurdering av talstorleikar er sentralt for å kunne ta gjennomtenkte avgjerder innanfor politikk og samfunnsliv."
                             }
                         ],
                         "forskrift": true
@@ -259,10 +283,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:af290ad2-2e04-11e9-b210-d663bd873d93",
                         "kode": "TT3",
                         "uri": "http://psi.udir.no/kl06/TT3",
-                        "url-data": "http://data.udir.no/kl06/TT3",
+                        "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT3",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Bærekraftig utvikling"
                     }
                 }
@@ -305,10 +335,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:ceba24a2-0501-11e9-8eb2-f2801f1b9fd1",
                         "kode": "GF1",
                         "uri": "http://psi.udir.no/kl06/GF1",
-                        "url-data": "http://data.udir.no/kl06/GF1",
+                        "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF1",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Digitale ferdigheter"
                     }
                 },
@@ -338,10 +374,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:15e965b4-2e05-11e9-b210-d663bd873d93",
                         "kode": "GF2",
                         "uri": "http://psi.udir.no/kl06/GF2",
-                        "url-data": "http://data.udir.no/kl06/GF2",
+                        "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF2",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Muntlige ferdigheter"
                     }
                 },
@@ -371,10 +413,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:319cc206-2e05-11e9-b210-d663bd873d93",
                         "kode": "GF3",
                         "uri": "http://psi.udir.no/kl06/GF3",
-                        "url-data": "http://data.udir.no/kl06/GF3",
+                        "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF3",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Å kunne lese"
                     }
                 },
@@ -404,10 +452,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:4d12ed62-2e05-11e9-b210-d663bd873d93",
                         "kode": "GF4",
                         "uri": "http://psi.udir.no/kl06/GF4",
-                        "url-data": "http://data.udir.no/kl06/GF4",
+                        "url-data": "http://data.udir.no/kl06/v201906/grunnleggende_ferdigheter-lk20/GF4",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Å kunne regne"
                     }
                 },
@@ -437,10 +491,16 @@
                         }
                     ],
                     "referanse": {
+                        "gyldighet": {
+                            "gyldig-fra": null,
+                            "gyldig-til": null
+                        },
+                        "id": "uuid:6882d7a6-2e05-11e9-b210-d663bd873d93",
                         "kode": "GF5",
                         "uri": "http://psi.udir.no/kl06/GF5",
-                        "url-data": "http://data.udir.no/kl06/GF5",
+                        "url-data": "http://data.udir.no/kl06/v201906/grunnleggende_ferdigheter-lk20/GF5",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                         "tittel": "Å kunne skrive"
                     }
                 }
@@ -459,586 +519,30 @@
         },
         "kompetansemaalsett": [
             {
-                "rekkefoelge": 1,
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
                 "id": "uuid:129ca8c7-e839-4551-a2e2-9998f48f1f81",
                 "kode": "KMS1",
                 "uri": "http://psi.udir.no/kl06/KMS1",
-                "url-data": "http://data.udir.no/kl06/KMS1",
-                "tittel": {
-                    "tekst": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Kompetansemål og vurdering 2. trinn"
-                        }
-                    ],
-                    "forskrift": true
-                },
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KMS1",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
-                "kortform": null,
-                "forklaring": [
-                    {
-                        "spraak": "default",
-                        "verdi": "Forklaring på kompetansemålsett"
-                    }
-                ],
-                "kompetansemaal-overskrift": [
-                    {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Kompetansemål etter 2. trinn"
-                            }
-                        ],
-                        "forskrift": true
-                    }
-                ],
-                "kompetansemaal-ingress": [
-                    {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Mål for opplæringa er at eleven skal kunne"
-                            }
-                        ],
-                        "forskrift": true
-                    }
-                ],
-                "etter-fag": [
-                    {
-                        "kode": "MAT1Z25",
-                        "uri": "http://psi.udir.no/kl06/MAT1Z25",
-                        "url-data": "http://data.udir.no/kl06/MAT1Z25",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
-                        "status": "http://data.udir.no/kl06/status_publisert",
-                        "gyldighet": {
-                            "gyldig-fra": "2020-08-01T00:00:00",
-                            "gyldig-til": null
-                        },
-                        "tittel": "Matematikk 1. årstrinn"
-                    },
-                    {
-                        "kode": "MAT1Z26",
-                        "uri": "http://psi.udir.no/kl06/MAT1Z26",
-                        "url-data": "http://data.udir.no/kl06/MAT1Z26",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
-                        "status": "http://data.udir.no/kl06/status_publisert",
-                        "gyldighet": {
-                            "gyldig-fra": "2020-08-01T00:00:00",
-                            "gyldig-til": null
-                        },
-                        "tittel": "Matematikk 2. årstrinn"
-                    }
-                ],
-                "kompetansemaal": [
-                    {
-                        "rekkefoelge": 1,
-                        "kode": "K1",
-                        "uri": "http://psi.udir.no/kl06/K1",
-                        "url-data": "http://data.udir.no/kl06/K1",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                        "tittel": {
-                            "tekst": [
-                                {
-                                    "spraak": "default",
-                                    "verdi": "samanlikne ulike storleikar og mengder og uttrykkje dette gjennom eige språk og matematisk språk"
-                                }
-                            ],
-                            "forskrift": true
-                        },
-                        "forklaring": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Forklaring på kompetansemål"
-                            }
-                        ],
-                        "tilknyttede-tverrfaglige-tema": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på folkehelse og livsmestring"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "TT1",
-                                    "uri": "http://psi.udir.no/kl06/TT1",
-                                    "url-data": "http://data.udir.no/kl06/TT1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
-                                    "tittel": "Folkehelse og livsmestring"
-                                }
-                            }
-                        ],
-                        "tilknyttede-kjerneelementer": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på utforsking og problemløysing"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "KE1",
-                                    "uri": "http://psi.udir.no/kl06/KE1",
-                                    "url-data": "http://data.udir.no/kl06/KE1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                                    "tittel": "Utforsking og problemløysing"
-                                }
-                            }
-                        ],
-                        "tilknyttede-grunnleggende-ferdigheter": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på digitale ferdigheter"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "GF1",
-                                    "uri": "http://psi.udir.no/kl06/GF1",
-                                    "url-data": "http://data.udir.no/kl06/GF1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                                    "tittel": "Digitale ferdigheter"
-                                }
-                            }
-                        ],
-                        "tilknyttede-verb": [
-                            {
-                                "referanse": {
-                                    "kode": "VERB14",
-                                    "uri": "http://psi.udir.no/kl06/VERB14",
-                                    "url-data": "http://data.udir.no/kl06/VERB14",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
-                                    "tittel": "Sammenligne"
-                                }
-                            }
-                        ],
-                        "bygger-paa": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på bygger på kompetansemål"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "K3",
-                                    "uri": "http://psi.udir.no/kl06/K3",
-                                    "url-data": "http://data.udir.no/kl06/K3",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                                    "tittel": "utforske og beskrive mengder og eigenskapar ved mengder og representere mengder på forskjellige måtar"
-                                }
-                            }
-                        ],
-                        "samme-som": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på samme som kompetansemål"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "K1",
-                                    "uri": "http://psi.udir.no/kl06/K1",
-                                    "url-data": "http://data.udir.no/kl06/K1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                                    "tittel": "ordne og sortere gjenstandar ut frå ulike eigenskapar og diskutere om dette kan gjerast på fleire måtar"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "rekkefoelge": 2,
-                        "kode": "K2",
-                        "uri": "http://psi.udir.no/kl06/K2",
-                        "url-data": "http://data.udir.no/kl06/K2",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                        "tittel": {
-                            "tekst": [
-                                {
-                                    "spraak": "default",
-                                    "verdi": "leike og eksperimentere med ulike typar teljing i praktiske situasjonar"
-                                }
-                            ],
-                            "forskrift": true
-                        },
-                        "forklaring": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Forklaring på kompetansemål"
-                            }
-                        ],
-                        "tilknyttede-tverrfaglige-tema": [],
-                        "tilknyttede-kjerneelementer": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på modellering og bruk"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "KE2",
-                                    "uri": "http://psi.udir.no/kl06/KE2",
-                                    "url-data": "http://data.udir.no/kl06/KE2",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                                    "tittel": "Modellering og bruk"
-                                }
-                            }
-                        ],
-                        "tilknyttede-grunnleggende-ferdigheter": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på muntlige ferdigheter"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "GF2",
-                                    "uri": "http://psi.udir.no/kl06/GF2",
-                                    "url-data": "http://data.udir.no/kl06/GF2",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                                    "tittel": "Muntlige ferdigheter"
-                                }
-                            }
-                        ],
-                        "tilknyttede-verb": [],
-                        "bygger-paa": [],
-                        "samme-som": []
-                    }
-                ],
-                "underveisvurdering": {
-                    "overskrift": {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Underveisvurdering"
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "beskrivelse": {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Eleven viser kompetanse i matematikk gjennom å utforske mønster i leik og snakke om samanhengar og eigenskapar. Eleven kan bruke tal og mengder i ulike situasjonar og kan representere tal og mengder på varierte måtar. Eleven kan bruke den matematiske kompetansen sin i problemløysing og daglegliv og kan reflektere over sine eigne framgangsmåtar."
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "forklaring": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Forklaring på underveisvurdering"
-                        }
-                    ]
-                },
-                "sluttvurdering": null,
-                "etter-aarstrinn": [
-                    {
-                        "kode": "aarstrinn2",
-                        "uri": "http://psi.udir.no/kl06/aarstrinn2",
-                        "url-data": "http://data.udir.no/kl06/aarstrinn2",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-                        "tittel": "Andre årstrinn"
-                    }
-                ],
-                "benyttes-paa-aarstrinn": [
-                    {
-                        "kode": "aarstrinn1",
-                        "uri": "http://psi.udir.no/kl06/aarstrinn1",
-                        "url-data": "http://data.udir.no/kl06/aarstrinn1",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-                        "tittel": "Første årstrinn"
-                    },
-                    {
-                        "kode": "aarstrinn2",
-                        "uri": "http://psi.udir.no/kl06/aarstrinn2",
-                        "url-data": "http://data.udir.no/kl06/aarstrinn2",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-                        "tittel": "Andre årstrinn"
-                    }
-                ]
+                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "tittel": "Kompetansemål og vurdering 2. trinn"
             },
             {
-                "rekkefoelge": 2,
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
                 "id": "uuid:d0a1d4fd-cb72-4608-8269-39270144364b",
                 "kode": "KMS9",
                 "uri": "http://psi.udir.no/kl06/KM9",
-                "url-data": "http://data.udir.no/kl06/KMS9",
-                "tittel": {
-                    "tekst": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Kompetansemål og vurdering 10. trinn"
-                        }
-                    ],
-                    "forskrift": true
-                },
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KMS9",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
-                "kortform": null,
-                "forklaring": [
-                    {
-                        "spraak": "default",
-                        "verdi": "Forklaring på kompetansemålsett"
-                    }
-                ],
-                "kompetansemaal-overskrift": [
-                    {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Kompetansemål etter 10. trinn"
-                            }
-                        ],
-                        "forskrift": true
-                    }
-                ],
-                "kompetansemaal-ingress": [
-                    {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Mål for opplæringa er at eleven skal kunne"
-                            }
-                        ],
-                        "forskrift": true
-                    }
-                ],
-                "etter-fag": [
-                    {
-                        "kode": "MAT1Z34",
-                        "uri": "http://psi.udir.no/kl06/MAT1Z34",
-                        "url-data": "http://data.udir.no/kl06/MAT1Z34",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
-                        "status": "http://data.udir.no/kl06/status_publisert",
-                        "gyldighet": {
-                            "gyldig-fra": "2020-08-01T00:00:00",
-                            "gyldig-til": null
-                        },
-                        "tittel": "Matematikk 10. årstrinn"
-                    }
-                ],
-                "kompetansemaal": [
-                    {
-                        "rekkefoelge": 1,
-                        "kode": "K98",
-                        "uri": "http://psi.udir.no/kl06/K98",
-                        "url-data": "http://data.udir.no/kl06/K98",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                        "tittel": {
-                            "tekst": [
-                                {
-                                    "spraak": "default",
-                                    "verdi": "utforske og bruke kvadratsetningar og konjugatsetninga numerisk, algebraisk og geometrisk"
-                                }
-                            ],
-                            "forskrift": true
-                        },
-                        "forklaring": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Forklaring på kompetansemål"
-                            }
-                        ],
-                        "tilknyttede-tverrfaglige-tema": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på folkehelse og livsmestring"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "TT1",
-                                    "uri": "http://psi.udir.no/kl06/TT1",
-                                    "url-data": "http://data.udir.no/kl06/TT1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
-                                    "tittel": "Folkehelse og livsmestring"
-                                }
-                            }
-                        ],
-                        "tilknyttede-kjerneelementer": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på utforsking og problemløysing"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "KE1",
-                                    "uri": "http://psi.udir.no/kl06/KE1",
-                                    "url-data": "http://data.udir.no/kl06/KE1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                                    "tittel": "Utforsking og problemløysing"
-                                }
-                            }
-                        ],
-                        "tilknyttede-grunnleggende-ferdigheter": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på digitale ferdigheter"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "GF1",
-                                    "uri": "http://psi.udir.no/kl06/GF1",
-                                    "url-data": "http://data.udir.no/kl06/GF1",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                                    "tittel": "Digitale ferdigheter"
-                                }
-                            }
-                        ],
-                        "tilknyttede-verb": [
-                            {
-                                "referanse": {
-                                    "kode": "VERB16",
-                                    "uri": "http://psi.udir.no/kl06/VERB16",
-                                    "url-data": "http://data.udir.no/kl06/VERB16",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
-                                    "tittel": "Utforske"
-                                }
-                            }
-                        ],
-                        "bygger-paa": [],
-                        "samme-som": []
-                    },
-                    {
-                        "rekkefoelge": 2,
-                        "kode": "K99",
-                        "uri": "http://psi.udir.no/kl06/K99",
-                        "url-data": "http://data.udir.no/kl06/K99",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                        "tittel": {
-                            "tekst": [
-                                {
-                                    "spraak": "default",
-                                    "verdi": "bruke dei algebraiske lovmessigheitene, finne samanhengar og deretter formalisere ved bruk av formålstenlege representasjonar"
-                                }
-                            ],
-                            "forskrift": true
-                        },
-                        "forklaring": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Forklaring på kompetansemål"
-                            }
-                        ],
-                        "tilknyttede-tverrfaglige-tema": [],
-                        "tilknyttede-kjerneelementer": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på modellering og bruk"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "KE2",
-                                    "uri": "http://psi.udir.no/kl06/KE2",
-                                    "url-data": "http://data.udir.no/kl06/KE2",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                                    "tittel": "Modellering og bruk"
-                                }
-                            }
-                        ],
-                        "tilknyttede-grunnleggende-ferdigheter": [
-                            {
-                                "forklaring": [
-                                    {
-                                        "spraak": "default",
-                                        "verdi": "Forklaring på muntlige ferdigheter"
-                                    }
-                                ],
-                                "referanse": {
-                                    "kode": "GF2",
-                                    "uri": "http://test-psi.udir.no/kl06/GF2",
-                                    "url-data": "http://test-data.udir.no/kl06/GF2",
-                                    "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                                    "tittel": "Muntlige ferdigheter"
-                                }
-                            }
-                        ],
-                        "tilknyttede-verb": [],
-                        "bygger-paa": [],
-                        "samme-som": []
-                    }
-                ],
-                "underveisvurdering": {
-                    "overskrift": {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Underveisvurdering"
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "beskrivelse": {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Eleven viser kompetanse i matematikk gjennom å utforske og kommunisere matematiske omgrep og generalisere matematiske samanhengar. Eleven kan bruke den matematiske kompetansen sin i problemløysing og modellering og kan reflektere over sine eigne arbeidsprosessar. Eleven kan presentere løysingar og argumentere for at dei er gyldige."
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "forklaring": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Forklaring på underveisvurdering"
-                        }
-                    ]
-                },
-                "sluttvurdering": {
-                    "overskrift": {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Sluttvurdering"
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "beskrivelse": {
-                        "tekst": [
-                            {
-                                "spraak": "default",
-                                "verdi": "Omtalen av sluttvurderinga er ikkje klar til denne innspelsrunden."
-                            }
-                        ],
-                        "forskrift": true
-                    },
-                    "forklaring": [
-                        {
-                            "spraak": "default",
-                            "verdi": "Forklaring på sluttvurdering"
-                        }
-                    ]
-                },
-                "etter-aarstrinn": [
-                    {
-                        "kode": "aarstrinn10",
-                        "uri": "http://psi.udir.no/kl06/aarstrinn10",
-                        "url-data": "http://data.udir.no/kl06/aarstrinn10",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-                        "tittel": "Tiende årstrinn"
-                    }
-                ],
-                "benyttes-paa-aarstrinn": [
-                    {
-                        "kode": "aarstrinn10",
-                        "uri": "http://psi.udir.no/kl06/aarstrinn10",
-                        "url-data": "http://data.udir.no/kl06/aarstrinn10",
-                        "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-                        "tittel": "Tiende årstrinn"
-                    }
-                ]
+                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "tittel": "Kompetansemål og vurdering 10. trinn"
             }
         ]
     },
@@ -1052,10 +556,16 @@
             }
         ],
         "fastsatt-spraak": {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nno",
             "kode": "nno",
             "uri": "http://psi.udir.no/kl06/nno",
-            "url-data": "http://data.udir.no/kl06/nno",
+            "url-data": "http://data.udir.no/kl06/v201906/spraak/nno",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Nynorsk"
         },
         "fastsatt-dato-overskrift": [
@@ -1066,69 +576,123 @@
         ]
     },
     "fagtype": {
+        "gyldighet": {
+            "gyldig-fra": null,
+            "gyldig-til": null
+        },
+        "id": "http://psi.udir.no/ontologi/fellesfag",
         "kode": "fagtype_fellesfag",
         "uri": "http://psi.udir.no/kl06/fagtype_fellesfag",
-        "url-data": "http://data.udir.no/kl06/fagtype_fellesfag",
+        "url-data": "http://data.udir.no/kl06/v201906/fagtype/fagtype_fellesfag",
         "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "tittel": "Fellesfag"
     },
     "tilgjengelige-spraak": [
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nob",
             "kode": "nob",
             "uri": "http://psi.udir.no/kl06/nob",
-            "url-data": "http://data.udir.no/kl06/nob",
+            "url-data": "http://data.udir.no/kl06/v201906/spraak/nob",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Bokmål"
         },
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#eng",
             "kode": "eng",
             "uri": "http://psi.udir.no/kl06/eng",
-            "url-data": "http://data.udir.no/kl06/eng",
+            "url-data": "http://data.udir.no/kl06/v201906/spraak/eng",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Engelsk"
         },
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#smj",
             "kode": "smj",
             "uri": "http://psi.udir.no/kl06/smj",
-            "url-data": "http://data.udir.no/kl06/smj",
+            "url-data": "http://data.udir.no/kl06/v201906/spraak/smj",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Lulesamisk"
         },
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#sme",
             "kode": "sme",
             "uri": "http://psi.udir.no/kl06/sme",
-            "url-data": "http://data.udir.no/kl06/sme",
+            "url-data": "http://data.udir.no/kl06/v201906/spraak/sme",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Nordsamisk"
         },
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#nno",
             "kode": "nno",
             "uri": "http://psi.udir.no/kl06/nno",
-            "url-data": "http://data.udir.no/kl06/nno",
+            "url-data": "http://data.udir.no/kl06/v201906/spraak/nno",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Nynorsk"
         },
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.oasis-open.org/iso/639/#sma",
             "kode": "sma",
             "uri": "http://psi.udir.no/kl06/sma",
-            "url-data": "http://data.udir.no/kl06/sma",
+            "url-data": "http://data.udir.no/kl06/v201906/spraak/sma",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Sørsamisk"
         }
     ],
     "opplaeringsnivaa": [
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_grunnskole",
             "kode": "opplaeringsnivaa_grunnskole",
             "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_grunnskole",
-            "url-data": "http://data.udir.no/kl06/opplaeringsnivaa_grunnskole",
+            "url-data": "http://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_grunnskole",
             "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Grunnskole"
         },
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_videregaaende",
             "kode": "opplaeringsnivaa_videregaaende",
             "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
-            "url-data": "http://data.udir.no/kl06/opplaeringsnivaa_videregaaende",
+            "url-data": "http://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
             "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Videregående opplæring"
         }
     ],
@@ -1154,21 +718,31 @@
     },
     "erstatter": [
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:efc05c69-f7df-4134-8ab1-6fbcb3a642f3",
             "kode": "MAT1-04",
             "uri": "http://psi.udir.no/kl06/MAT1-04",
-            "url-data": "http://data.udir.no/kl06/MAT1-04",
-            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-            "status": "http://data.udir.no/kl06/status_utgaatt",
+            "url-data": "http://data.udir.no/kl06/v201906/laereplaner/MAT1-04",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+            "status": "http://data.udir.no/kl06/v201906/status/status_utgaatt",
             "tittel": "Læreplan i matematikk fellesfag"
         }
     ],
     "erstattes-av": [
         {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:67c1a4b2-2e07-11e9-b210-d663bd873d93",
             "kode": "MAT1-06",
             "uri": "http://psi.udir.no/kl06/MAT1-06",
-            "url-data": "http://data.udir.no/kl06/MAT1-06",
+            "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MAT1-06",
             "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-            "status": "http://data.udir.no/kl06/status_publisert",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Læreplan i matematikk fellesfag"
         }
     ],
