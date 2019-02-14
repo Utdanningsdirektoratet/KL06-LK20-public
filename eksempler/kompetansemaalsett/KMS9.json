@@ -15,7 +15,12 @@
     "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
     "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
     "sist-endret": "2018-12-12T13:16:05.228885",
-    "kortform": [],
+    "kortform": [
+        {
+            "spraak": "default",
+            "verdi": "10. trinn"
+        }
+    ],
     "rekkefoelge": 9,
     "forklaring": [
         {
@@ -39,7 +44,7 @@
                 "verdi": "Mål for opplæringa er at eleven skal kunne"
             }
         ],
-        "forskrift:": true
+        "forskrift": true
     },
     "kompetansemaal": [
         {
