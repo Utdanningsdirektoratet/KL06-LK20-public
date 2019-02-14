@@ -3,15 +3,15 @@
         "id": "uuid:859ec978-fd4d-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB1",
         "uri": "http://psi.udir.no/kl06/VERB1",
-        "url-data": "http://data.udir.no/kl06/VERB1",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB1",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Analysere"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -19,21 +19,22 @@
                 "verdi": "Å analysere er å undersøke en sak, en gjenstand eller et begrep for å få avdekket et budskap eller en mening. Å analysere kan bety grundig og systematisk behandling av enkeltelementer og sammenhengen mellom dem. Analysen kan også gjelde en arbeidsprosess."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:919b0d5e-fd4d-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB2",
         "uri": "http://psi.udir.no/kl06/VERB2",
-        "url-data": "http://data.udir.no/kl06/VERB2",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB2",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Anvende"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -41,21 +42,22 @@
                 "verdi": "Å anvende henger nært sammen med en praktisk handling hvor eleven /lærlingen skal ta i bruk både kunnskaper, ferdigheter, refleksjon og kritisk tenkning. Dette kan spesielt komme til uttrykk i kompetansemål i læreplaner for yrkesfagene. For eksempel å anvende relevant dokumentasjon og å anvende arbeidsbeskrivelser."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:9e5bf116-fd4d-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB3",
         "uri": "http://psi.udir.no/kl06/VERB3",
-        "url-data": "http://data.udir.no/kl06/VERB3",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB3",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Beskrive"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -63,21 +65,22 @@
                 "verdi": "Å beskrive er å skildre eller gjengi en opplevelse, situasjon, arbeidsprosess eller et faglig emne. Å beskrive noe kan også være å bruke relevante fagbegreper for å systematisere kunnskap om emnet."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:cce555ae-fd4d-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB4",
         "uri": "http://psi.udir.no/kl06/VERB4",
-        "url-data": "http://data.udir.no/kl06/VERB4",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB4",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Bruke"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -85,21 +88,22 @@
                 "verdi": "Å bruke vil si at vi gjør oss nytte av noe eller utfører en handling for å oppnå et mål. Å bruke henger nært sammen med å anvende, forstått som å gjøre bruk av, ta i bruk, for eksempel en metode eller et verktøy."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:fa0fdbbc-fd4d-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB5",
         "uri": "http://psi.udir.no/kl06/VERB5",
-        "url-data": "http://data.udir.no/kl06/VERB5",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB5",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Dokumentere"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -107,21 +111,22 @@
                 "verdi": "Å dokumentere er å vise hva vi har gjort, og gjerne også hvordan og hvorfor. Dokumentasjonen kan ha ulik form og vise kvaliteten på en arbeidsprosessen, et produkt eller en tjeneste."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:2d352808-fd4e-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB6",
         "uri": "http://psi.udir.no/kl06/VERB6",
-        "url-data": "http://data.udir.no/kl06/VERB6",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB6",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Drøfte"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -129,21 +134,22 @@
                 "verdi": "Å drøfte er å belyse en sak ved å trekke fram forskjellige sider av den, og argumentere både for og imot. Drøftingen kan avsluttes med en konklusjon. Å drøfte kan vi gjøre selvstendig og i dialog med andre. Ordskifte mellom flere om et saksforhold kan bety det samme som å diskutere."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:871be6a8-fd4f-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB7",
         "uri": "http://psi.udir.no/kl06/VERB7",
-        "url-data": "http://data.udir.no/kl06/VERB7",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB7",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Forstå"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -151,21 +157,22 @@
                 "verdi": "Å forstå er å oppfatte meningen med noe, skjønne hva som blir kommunisert eller hvordan noe henger sammen. I kompetansemål i læreplaner for yrkesfagene kan ikke verbet brukes alene. Forståelse kan for eksempel konkretiseres til å forklare, drøfte ulike alternativer, sammenligne aktuelle metoder eller vurdere kvalitet."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:4c84d43a-fd51-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB8",
         "uri": "http://psi.udir.no/kl06/VERB8",
-        "url-data": "http://data.udir.no/kl06/VERB8",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB8",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Gjennomføre"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -173,21 +180,22 @@
                 "verdi": "Å gjennomføre er å iverksette, utføre og fullføre, for eksempel en oppgave, en undersøkelse eller et planlagt arbeid."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:91eaaf04-fd51-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB9",
         "uri": "http://psi.udir.no/kl06/VERB9",
-        "url-data": "http://data.udir.no/kl06/VERB9",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB9",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Gjøre rede for"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -195,21 +203,22 @@
                 "verdi": "Å gjøre rede for noe er å gi en faglig begrunnet forklaring av et saksforhold, en problemstilling eller noe vi skal undersøke eller gjennomføre."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:b79b6dec-fd51-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB10",
         "uri": "http://psi.udir.no/kl06/VERB10",
-        "url-data": "http://data.udir.no/kl06/VERB10",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB10",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Planlegge"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -217,21 +226,22 @@
                 "verdi": "Å planlegge er å lage en framdrift for å nå et mål. Planen beskriver hvordan vi har tenkt å gå fram for å oppnå målet, og kan vise sammenhengen mellom aktiviteter, gjennomføring og mål."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:d64a693c-fd51-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB11",
         "uri": "http://psi.udir.no/kl06/VERB11",
-        "url-data": "http://data.udir.no/kl06/VERB11",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB11",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Presentere"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -239,21 +249,22 @@
                 "verdi": "Å presentere er å vise, forklare og legge frem et faglig emne eller et produkt. Måten å presentere på kan variere, men målet med en presentasjon er å gjøre emnet eller produktet tilgjengelig for andre. Presentere kan også bety å illustrere og å demonstrere."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:eb5bf6a6-fd51-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB12",
         "uri": "http://psi.udir.no/kl06/VERB12",
-        "url-data": "http://data.udir.no/kl06/VERB12",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB12",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Reflektere"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -261,21 +272,22 @@
                 "verdi": "Å reflektere er å undersøke og tenke gjennom ulike sider ved egne eller andres handlinger, holdninger og ideer. Vi kan også reflektere over et saksforhold, praktiske aktiviteter eller egen læring. Refleksjon innebærer å prøve ut egne tanker og holdninger for å utvikle bedre innsikt og forståelse."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:304a18d8-fd52-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB13",
         "uri": "http://psi.udir.no/kl06/VERB13",
-        "url-data": "http://data.udir.no/kl06/VERB13",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB13",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Samarbeide"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -283,21 +295,22 @@
                 "verdi": "Å samarbeide innebærer å jobbe sammen med andre for å oppnå en felles forståelse eller et felles mål."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
-        "id": "uuid:44ecf2ba-fd52-11e8-8eb2-f2801f1b9fd1",
+        "id": "uuid:859ec978-fd4d-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB14",
         "uri": "http://psi.udir.no/kl06/VERB14",
-        "url-data": "http://data.udir.no/kl06/VERB14",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB14",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Sammenligne"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -305,21 +318,36 @@
                 "verdi": "Å sammenligne er å undersøke likheter og forskjeller mellom to eller flere forhold."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": [
+            {
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "uuid:cec30cd4-1fe6-11e9-8e78-d663bd873d93",
+                "kode": "K1",
+                "uri": "http://psi.udir.no/kl06/K1",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/K1",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "tittel": "samanlikne ulike storleikar og mengder og uttrykkje dette gjennom eige språk og matematisk språk"
+            }
+        ]
     },
     {
         "id": "uuid:5f6a1d20-fd52-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB15",
         "uri": "http://psi.udir.no/kl06/VERB15",
-        "url-data": "http://data.udir.no/kl06/VERB15",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB15",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Tolke"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -327,21 +355,22 @@
                 "verdi": "Å tolke er å bygge opp en oppfatning eller forståelse av meningsinnholdet i et fenomen, en praktisk situasjon eller et kunstnerisk uttrykk. Forståelsen bygger ofte på en analyse av enkeltelementer og sammenhengen mellom dem."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:78188a28-fd52-11e8-8eb2-f2801f1b9fd1 ",
         "kode": "VERB16",
         "uri": "http://psi.udir.no/kl06/VERB16",
-        "url-data": "http://data.udir.no/kl06/VERB16",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB16",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Utforske"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -349,21 +378,22 @@
                 "verdi": "Å utforske handler om å oppleve og eksperimentere og kan ivareta nysgjerrighet og undring. Å utforske kan bety å sanse, søke, oppdage, observere og granske. I noen tilfeller betyr det å undersøke ulike sider av en sak gjennom åpen og kritisk drøfting. Å utforske kan også bety å teste eller prøve ut og evaluere arbeidsmetoder, produkter eller utstyr."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:b588c620-fd52-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB17",
         "uri": "http://psi.udir.no/kl06/VERB17",
-        "url-data": "http://data.udir.no/kl06/VERB17",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB17",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Utvikle"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -371,21 +401,22 @@
                 "verdi": "Å utvikle kan være å designe, skape, modellere eller utforme nye metoder, et produkt eller en tjeneste."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:da13369c-fd52-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB18",
         "uri": "http://psi.udir.no/kl06/VERB18",
-        "url-data": "http://data.udir.no/kl06/VERB18",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB18",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Vurdere"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -393,21 +424,22 @@
                 "verdi": "Å vurdere er å overveie ulike sider ved et saksforhold eller synspunkt. Det kan også omfatte å bedømme kvaliteten ved et produkt eller en prosess. En vurdering resulterer ofte i en beslutning, en bedømmelse eller en konklusjon."
             }
         ],
-        "globalt-verb": true
+        "globalt-verb": true,
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:bfc0d8a2-fe34-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB19",
         "uri": "http://psi.udir.no/kl06/VERB19",
-        "url-data": "http://data.udir.no/kl06/VERB19",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB19",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Utrede"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -416,26 +448,34 @@
             }
         ],
         "globalt-verb": false,
-        "tilhoerende-laereplan": {
+        "tilhoerer-laereplan": {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:3c03c709-4934-4012-9353-c14bfa8ff651",
             "kode": "MAT1-05",
             "uri": "http://psi.udir.no/kl06/MAT1-05",
-            "url-data": "http://data.udir.no/kl06/MAT1-05",
+            "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MAT1-05",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Matematikk fellesfag"
-        }
+        },
+        "kompetansemaal-referanser": []
     },
     {
         "id": "uuid:c42a4874-fe34-11e8-8eb2-f2801f1b9fd1",
         "kode": "VERB20",
         "uri": "http://psi.udir.no/kl06/VERB20",
-        "url-data": "http://data.udir.no/kl06/VERB20",
+        "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB20",
         "tittel": [
             {
                 "spraak": "default",
                 "verdi": "Tyde"
             }
         ],
-        "grep-type": "http://psi.udir.no/ontologi/kl06/verb",
-        "status": "http://data.udir.no/kl06/status_publisert",
+        "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "sist-endret": "2018-12-11T09:14:20",
         "beskrivelse": [
             {
@@ -444,11 +484,19 @@
             }
         ],
         "globalt-verb": false,
-        "tilhoerende-laereplan": {
+        "tilhoerer-laereplan": {
+            "gyldighet": {
+                "gyldig-fra": null,
+                "gyldig-til": null
+            },
+            "id": "uuid:3c03c709-4934-4012-9353-c14bfa8ff651",
             "kode": "MAT1-05",
             "uri": "http://psi.udir.no/kl06/MAT1-05",
-            "url-data": "http://data.udir.no/kl06/MAT1-05",
+            "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MAT1-05",
+            "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Matematikk fellesfag"
-        }
+        },
+        "kompetansemaal-referanser": []
     }
 ]
