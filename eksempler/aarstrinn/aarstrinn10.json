@@ -1,0 +1,19 @@
+{
+  "id": "http://psi.udir.no/laereplan/aarstrinn/aarstrinn10",
+  "kode": "aarstrinn10",
+  "uri": "http://psi.udir.no/kl06/aarstrinn10",
+  "url-data": "http://data.udir.no/kl06/v201906/aarstrinn/aarstrinn10",
+  "tittel": [
+    {
+      "spraak": "http://data.udir.no/kl06/v201906/spraak/nob",
+      "verdi": "Tiende årstrinn"
+    },
+    {
+      "spraak": "default",
+      "verdi": "Tiende årstrinn"
+    }
+  ],
+  "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+  "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+  "rekkefoelge": 10
+}

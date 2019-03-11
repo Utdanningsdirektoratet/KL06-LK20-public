@@ -1,0 +1,27 @@
+{
+  "id": "http://psi.udir.no/ontologi/opplaeringsnivaa_grunnskole",
+  "kode": "opplaeringsnivaa_grunnskole",
+  "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_grunnskole",
+  "url-data": "http://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_grunnskole",
+  "tittel": [
+    {
+      "spraak": "http://data.udir.no/kl06/v201906/spraak/eng",
+      "verdi": "Primary and lower secondary education"
+    },
+    {
+      "spraak": "http://data.udir.no/kl06/v201906/spraak/nno",
+      "verdi": "Grunnskule"
+    },
+    {
+      "spraak": "http://data.udir.no/kl06/v201906/spraak/nob",
+      "verdi": "Grunnskole"
+    },
+    {
+      "spraak": "default",
+      "verdi": "Grunnskole"
+    }
+  ],
+  "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+  "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+  "rekkefoelge": 1
+}
