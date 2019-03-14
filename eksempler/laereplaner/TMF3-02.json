@@ -632,5 +632,10 @@
             "tittel": "Lærlingplan"
         }
     ],
-    "tilleggsopplysninger": "Lagt til informasjon i vurderingskapitlet som følgje av endring i kap. 3 i forskrift til opplæringslova 8. november 2018."
+    "tilleggsopplysninger": [
+        {
+            "spraak": "default",
+            "verdi": "Lagt til informasjon i vurderingskapitlet som følgje av endring i kap. 3 i forskrift til opplæringslova 8. november 2018."
+        }
+    ]
 }
