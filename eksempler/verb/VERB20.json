@@ -31,20 +31,5 @@
         "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
         "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
         "tittel": "Matematikk fellesfag"
-    },
-    "kompetansemaal-referanser": [
-        {
-            "gyldighet": {
-                "gyldig-fra": null,
-                "gyldig-til": null
-            },
-            "id": "uuid:6026d4f6-2e26-11e9-b210-d663bd873d93",
-            "kode": "K4",
-            "uri": "http://psi.udir.no/kl06/K4",
-            "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/K4",
-            "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
-            "tittel": "tyde og utforske mønster og tal"
-        }
-    ]
+    }
 }
