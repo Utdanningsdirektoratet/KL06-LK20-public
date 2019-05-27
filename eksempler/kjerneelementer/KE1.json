@@ -13,7 +13,7 @@
         "forskrift": true
     },
     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+    "status": "http://psi.udir.no/kl06/status_publisert",
     "sist-endret": "2018-12-19T13:16:05.228885",
     "beskrivelse": {
         "tekst": [
@@ -41,7 +41,7 @@
         "uri": "http://psi.udir.no/kl06/MAT1-05",
         "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MAT1-05",
         "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+        "status": "http://psi.udir.no/kl06/status_publisert",
         "tittel": "Matematikk fellesfag"
     }
 }

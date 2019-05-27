@@ -13,8 +13,9 @@
         "forskrift": true
     },
     "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+    "status": "http://psi.udir.no/kl06/status_publisert",
     "sist-endret": "2018-12-12T13:16:05.228885",
+    "kortform": [],
     "om-faget-kapittel": {
         "overskrift": {
             "tekst": [
@@ -25,7 +26,7 @@
             ],
             "forskrift": true
         },
-        "fagets-relevans": {
+        "fagets-relevans-og-verdier": {
             "overskrift": {
                 "tekst": [
                     {
@@ -35,21 +36,40 @@
                 ],
                 "forskrift": true
             },
-            "beskrivelse": {
-                "tekst": [
+            "fagets-relevans": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Menneskene har alltid undret seg over naturen og vært opptatt av å forstå den. Gjennom eksperimenter, observasjoner og teoretisk arbeid er fysikerne kommet langt i å finne grunnleggende prinsipper og lover som beskriver og forutsier fenomener i naturen og i universet. Programfaget fysikk skal bidra til forståelse av natur, teknologi og fenomener i dagliglivet. Det gir grunnlag for å bruke fagkunnskap i ulike sammenhenger, fra praktiske situasjoner i hverdagen til avgjørelser som påvirker samfunnsliv, natur og miljø. Programfaget fysikk gir innføring i fysikkens begreper, symboler og språk, og knytter teori og beregninger til observasjoner og praktisk laboratoriearbeid. Programfaget skal bidra til å vise fysikkfagets bruk av matematikk og hvordan matematikken brukes til å modellere virkeligheten. I tillegg skal programfaget gi innsikt i at fysikk er en del av kulturarven, og at faget må ses i et historisk perspektiv. Programfaget skal bidra til å øve opp kritisk holdning til undersøkelser og påstander og gi trening i å argumentere for løsninger på fysikkfaglige problemstillinger. Slik skal opplæringen styrke den enkeltes evne til å skille mellom vitenskapelig basert kunnskap og kunnskap som ikke er basert på vitenskapelige metoder. Programfaget skal gi forståelse av fysikkfaglige problemstillinger og av prosesser som fører til økt innsikt, noe som er et viktig grunnlag for flere studier i høyere utdanning og for livslang læring. Programfaget fysikk skal på den måten bidra til at samfunnet får tilført kvalifisert arbeidskraft, og fremme innovasjon og utvikling som kan komme næringsliv og samfunn til gode. Samtidig skal opplæringen legge vekt på de allmenndannende sidene ved fysikkfaget. Programfaget skal legge grunnlag for kreativitet, kritisk sans og metodeinnsikt i fysikkfaget. For å utvikle ferdigheter og kunnskap er det nødvendig å arbeide både praktisk og teoretisk i programfaget."
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": [
                     {
                         "spraak": "default",
-                        "verdi": "Menneskene har alltid undret seg over naturen og vært opptatt av å forstå den. Gjennom eksperimenter, observasjoner og teoretisk arbeid er fysikerne kommet langt i å finne grunnleggende prinsipper og lover som beskriver og forutsier fenomener i naturen og i universet. Programfaget fysikk skal bidra til forståelse av natur, teknologi og fenomener i dagliglivet. Det gir grunnlag for å bruke fagkunnskap i ulike sammenhenger, fra praktiske situasjoner i hverdagen til avgjørelser som påvirker samfunnsliv, natur og miljø. Programfaget fysikk gir innføring i fysikkens begreper, symboler og språk, og knytter teori og beregninger til observasjoner og praktisk laboratoriearbeid. Programfaget skal bidra til å vise fysikkfagets bruk av matematikk og hvordan matematikken brukes til å modellere virkeligheten. I tillegg skal programfaget gi innsikt i at fysikk er en del av kulturarven, og at faget må ses i et historisk perspektiv. Programfaget skal bidra til å øve opp kritisk holdning til undersøkelser og påstander og gi trening i å argumentere for løsninger på fysikkfaglige problemstillinger. Slik skal opplæringen styrke den enkeltes evne til å skille mellom vitenskapelig basert kunnskap og kunnskap som ikke er basert på vitenskapelige metoder. Programfaget skal gi forståelse av fysikkfaglige problemstillinger og av prosesser som fører til økt innsikt, noe som er et viktig grunnlag for flere studier i høyere utdanning og for livslang læring. Programfaget fysikk skal på den måten bidra til at samfunnet får tilført kvalifisert arbeidskraft, og fremme innovasjon og utvikling som kan komme næringsliv og samfunn til gode. Samtidig skal opplæringen legge vekt på de allmenndannende sidene ved fysikkfaget. Programfaget skal legge grunnlag for kreativitet, kritisk sans og metodeinnsikt i fysikkfaget. For å utvikle ferdigheter og kunnskap er det nødvendig å arbeide både praktisk og teoretisk i programfaget."
+                        "verdi": "Forklaring på fagets relevans"
                     }
-                ],
-                "forskrift": true
+                ]
             },
-            "forklaring": [
-                {
-                    "spraak": "default",
-                    "verdi": "Forklaring på fagets relevans"
-                }
-            ]
+            "verdier-og-prinsipper": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Hvis ny innsikt skal vokse fram, må etablerte ideer granskes og kritiseres med teorier, metoder, argumenter, erfaringer og bevis. Elevene skal kunne vurdere ulike kilder til kunnskap og tenke kritisk om hvordan kunnskap utvikles. De skal også kunne forstå at deres egne erfaringer, standpunkter og overbevisninger kan være ufullstendige eller feilaktige. Kritisk refleksjon forutsetter kunnskap, men gir samtidig rom for usikkerhet og uforutsigbarhet. Opplæringen må derfor søke en balanse mellom respekt for etablert viten og den utforskende og kreative tenkningen som kreves for å utvikle ny kunnskap."
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Forklaring på verdier og prinsipper"
+                    }
+                ]
+            }
         },
         "kjerneelementer-i-faget": {
             "overskrift": {
@@ -72,7 +92,7 @@
                     "uri": "http://psi.udir.no/kl06/KE90",
                     "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE90",
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "status": "http://psi.udir.no/kl06/status_publisert",
                     "tittel": "Klassisk fysikk"
                 },
                 {
@@ -85,34 +105,8 @@
                     "uri": "http://psi.udir.no/kl06/KE91",
                     "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE91",
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "status": "http://psi.udir.no/kl06/status_publisert",
                     "tittel": "Moderne fysikk"
-                }
-            ]
-        },
-        "verdigrunnlaget-i-faget": {
-            "overskrift": {
-                "tekst": [
-                    {
-                        "spraak": "default",
-                        "verdi": "Verdier og prinsipper"
-                    }
-                ],
-                "forskrift": true
-            },
-            "beskrivelse": {
-                "tekst": [
-                    {
-                        "spraak": "default",
-                        "verdi": "Hvis ny innsikt skal vokse fram, må etablerte ideer granskes og kritiseres med teorier, metoder, argumenter, erfaringer og bevis. Elevene skal kunne vurdere ulike kilder til kunnskap og tenke kritisk om hvordan kunnskap utvikles. De skal også kunne forstå at deres egne erfaringer, standpunkter og overbevisninger kan være ufullstendige eller feilaktige. Kritisk refleksjon forutsetter kunnskap, men gir samtidig rom for usikkerhet og uforutsigbarhet. Opplæringen må derfor søke en balanse mellom respekt for etablert viten og den utforskende og kreative tenkningen som kreves for å utvikle ny kunnskap."
-                    }
-                ],
-                "forskrift": true
-            },
-            "forklaring": [
-                {
-                    "spraak": "default",
-                    "verdi": "Forklaring på verdier og prinsipper"
                 }
             ]
         },
@@ -162,7 +156,7 @@
                         "uri": "http://psi.udir.no/kl06/TT1",
                         "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT1",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Folkehelse og livsmestring"
                     }
                 },
@@ -201,7 +195,7 @@
                         "uri": "http://psi.udir.no/kl06/TT2",
                         "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT2",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Demokrati og medborgarskap"
                     }
                 },
@@ -240,7 +234,7 @@
                         "uri": "http://psi.udir.no/kl06/TT3",
                         "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT3",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Bærekraftig utvikling"
                     }
                 }
@@ -292,7 +286,7 @@
                         "uri": "http://psi.udir.no/kl06/GF1",
                         "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF1",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Digitale ferdigheter"
                     }
                 },
@@ -331,7 +325,7 @@
                         "uri": "http://psi.udir.no/kl06/GF2",
                         "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF2",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Muntlige ferdigheter"
                     }
                 },
@@ -370,7 +364,7 @@
                         "uri": "http://psi.udir.no/kl06/GF3",
                         "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF3",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Å kunne lese"
                     }
                 },
@@ -409,7 +403,7 @@
                         "uri": "http://psi.udir.no/kl06/GF4",
                         "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF4",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Å kunne regne"
                     }
                 },
@@ -448,7 +442,7 @@
                         "uri": "http://psi.udir.no/kl06/GF5",
                         "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF5",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Å kunne skrive"
                     }
                 }
@@ -472,11 +466,11 @@
                     "gyldig-til": null
                 },
                 "id": "uuid:06adc5c8-232d-11e9-ab14-d663bd873d93",
-                "kode": "KMS30",
-                "uri": "http://psi.udir.no/kl06/KMS30",
-                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KMS30",
+                "kode": "KV30",
+                "uri": "http://psi.udir.no/kl06/KV30",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV30",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
-                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "status": "http://psi.udir.no/kl06/status_publisert",
                 "tittel": "Kompetansemål og vurdering Fysikk 1"
             },
             {
@@ -485,16 +479,41 @@
                     "gyldig-til": null
                 },
                 "id": "uuid:15062e26-2332-11e9-ab14-d663bd873d93",
-                "kode": "KMS31",
-                "uri": "http://psi.udir.no/kl06/KMS31",
-                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KMS31",
+                "kode": "KV31",
+                "uri": "http://psi.udir.no/kl06/KV31",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV31",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
-                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "status": "http://psi.udir.no/kl06/status_publisert",
                 "tittel": "Kompetansemål og vurdering Fysikk 2"
             }
         ]
     },
-    "vurdering-kapittel": null,
+    "vurderingsordning-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vurderingsordning"
+                }
+            ],
+            "forskrift": true
+        },
+        "beskrivelse": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Tekst om vurderingsordning"
+                }
+            ],
+            "forskrift": true
+        },
+        "forklaring": [
+            {
+                "spraak": "default",
+                "verdi": "Forklaring på vurderingsordning"
+            }
+        ]
+    },
     "fastsettelsesinformasjon": {
         "fastsatt-dato": "2020-08-01T00:00:00",
         "fastsettelsestekst": [
@@ -513,7 +532,7 @@
             "uri": "http://psi.udir.no/kl06/nob",
             "url-data": "http://data.udir.no/kl06/v201906/spraak/nob",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Bokmål"
         },
         "fastsatt-dato-overskrift": [
@@ -532,9 +551,9 @@
             "id": "http://psi.udir.no/ontologi/valgfritt_programfag",
             "kode": "fagtype_valgfritt_programfag",
             "uri": "http://psi.udir.no/kl06/fagtype_valgfritt_programfag",
-            "url-data": "http://data.udir.no/kl06/v201906/fagtype/fagtype_valgfritt_programfag",
+            "url-data": "http://data.udir.no/kl06/v201906/fagtyper/fagtype_valgfritt_programfag",
             "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Valgfritt programfag"
         }
     ],
@@ -549,7 +568,7 @@
             "uri": "http://psi.udir.no/kl06/eng",
             "url-data": "http://data.udir.no/kl06/v201906/spraak/eng",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Engelsk"
         },
         {
@@ -562,7 +581,7 @@
             "uri": "http://psi.udir.no/kl06/nob",
             "url-data": "http://data.udir.no/kl06/v201906/spraak/nob",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Bokmål"
         }
     ],
@@ -577,7 +596,7 @@
             "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
             "url-data": "http://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
             "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Videregående opplæring"
         }
     ],
@@ -612,7 +631,7 @@
             "uri": "http://psi.udir.no/kl06/FYS1-01",
             "url-data": "http://data.udir.no/kl06/v201906/laereplaner/FYS1-01",
             "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
-            "status": "http://data.udir.no/kl06/v201906/status/status_utgaatt",
+            "status": "http://psi.udir.no/kl06/status_utgaatt",
             "tittel": "Læreplan i fysikk - programfag i utdanningsprogram for studiespesialisering"
         }
     ],
@@ -627,7 +646,7 @@
             "uri": "http://psi.udir.no/kl06/FYS1-03",
             "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/FYS1-03",
             "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Læreplan i fysikk - programfag i utdanningsprogram for studiespesialisering"
         }
     ],

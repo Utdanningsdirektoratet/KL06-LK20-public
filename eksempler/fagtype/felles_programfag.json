@@ -2,10 +2,10 @@
   "id": "http://psi.udir.no/ontologi/felles_programfag",
   "kode": "fagtype_felles_programfag",
   "uri": "http://psi.udir.no/kl06/fagtype_felles_programfag",
-  "url-data": "http://data.udir.no/kl06/v201906/fagtype/fagtype_felles_programfag",
+  "url-data": "http://data.udir.no/kl06/v201906/fagtyper/fagtype_felles_programfag",
   "tittel": [
     {
-      "spraak": "http://data.udir.no/kl06/v201906/spraak/nob",
+      "spraak": "nob",
       "verdi": "Felles programfag"
     },
     {
@@ -14,7 +14,7 @@
     }
   ],
   "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
-  "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+  "status": "http://psi.udir.no/kl06/status_publisert",
   "rekkefoelge": 4,
   "opplaeringsnivaa": {
     "kode": "opplaeringsnivaa_videregaaende",
@@ -28,7 +28,7 @@
       "verdi": "FP"
     },
     {
-      "spraak": "http://data.udir.no/kl06/v201906/spraak/nob",
+      "spraak": "nob",
       "verdi": "FP"
     }
   ]

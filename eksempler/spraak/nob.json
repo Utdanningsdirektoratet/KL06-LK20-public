@@ -5,11 +5,11 @@
     "url-data": "http://data.udir.no/kl06/v201906/spraak/nob",
     "tittel": [
       {
-        "spraak": "http://data.udir.no/kl06/v201906/spraak/nob",
+        "spraak": "nob",
         "verdi": "Bokmål"
       },
       {
-        "spraak": "http://data.udir.no/kl06/v201906/spraak/nno",
+        "spraak": "nno",
         "verdi": "Bokmål"
       },
       {
@@ -18,6 +18,6 @@
       }
     ],
     "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+    "status": "http://psi.udir.no/kl06/status_publisert",
     "rekkefoelge": 1
   }

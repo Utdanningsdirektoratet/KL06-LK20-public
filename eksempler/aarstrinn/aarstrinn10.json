@@ -5,7 +5,7 @@
   "url-data": "http://data.udir.no/kl06/v201906/aarstrinn/aarstrinn10",
   "tittel": [
     {
-      "spraak": "http://data.udir.no/kl06/v201906/spraak/nob",
+      "spraak": "nob",
       "verdi": "Tiende årstrinn"
     },
     {
@@ -14,6 +14,17 @@
     }
   ],
   "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-  "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
-  "rekkefoelge": 10
+  "status": "http://psi.udir.no/kl06/status_publisert",
+  "rekkefoelge": 10,
+  "kortform": [
+    {
+      "spraak": "nob",
+      "verdi": "10. trinn"
+    },
+    {
+      "spraak": "default",
+      "sprakk": "10. trinn"
+    }
+  ],
+  "numerisk-verdi": 10
 }

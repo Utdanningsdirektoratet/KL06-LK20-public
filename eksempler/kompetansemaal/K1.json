@@ -1,8 +1,8 @@
 {
     "id": "uuid:cec30cd4-1fe6-11e9-8e78-d663bd873d93",
-    "kode": "K1",
-    "uri": "http://psi.udir.no/kl06/K1",
-    "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/K1",
+    "kode": "KM1",
+    "uri": "http://psi.udir.no/kl06/KM1",
+    "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM1",
     "tittel": {
         "tekst": [
             {
@@ -13,7 +13,7 @@
         "forskrift": true
     },
     "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+    "status": "http://psi.udir.no/kl06/status_publisert",
     "sist-endret": "2018-12-12T13:16:05.228885",
     "rekkefoelge": 1,
     "forklaring": [
@@ -34,7 +34,7 @@
                 "uri": "http://psi.udir.no/kl06/GF1",
                 "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF1",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "status": "http://psi.udir.no/kl06/status_publisert",
                 "tittel": "Digitale ferdigheter"
             },
             "forklaring": [
@@ -57,7 +57,7 @@
                 "uri": "http://psi.udir.no/kl06/TT1",
                 "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT1",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
-                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "status": "http://psi.udir.no/kl06/status_publisert",
                 "tittel": "Folkehelse og livsmestring"
             },
             "forklaring": [
@@ -80,7 +80,7 @@
                 "uri": "http://psi.udir.no/kl06/KE1",
                 "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "status": "http://psi.udir.no/kl06/status_publisert",
                 "tittel": "Utforsking og problemløysing"
             },
             "forklaring": [
@@ -102,7 +102,7 @@
             "uri": "http://psi.udir.no/kl06/VERB14",
             "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB14",
             "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Sammenligne"
         }
     ],
@@ -114,11 +114,11 @@
                     "gyldig-til": null
                 },
                 "id": "uuid:5624d0e8-2e2b-11e9-b210-d663bd873d93",
-                "kode": "K3",
-                "uri": "http://psi.udir.no/kl06/K3",
-                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/K3",
+                "kode": "KM3",
+                "uri": "http://psi.udir.no/kl06/KM3",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM3",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "status": "http://psi.udir.no/kl06/status_publisert",
                 "tittel": "utforske og beskrive mengder og eigenskapar ved mengder og representere mengder på forskjellige måtar"
             },
             "forklaring": [
@@ -133,11 +133,11 @@
         {
             "referanse": {
                 "id": "uuid:97d9dec0-2e2b-11e9-b210-d663bd873d93",
-                "kode": "K2",
-                "uri": "http://psi.udir.no/kl06/K2",
-                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/K2",
+                "kode": "KM2",
+                "uri": "http://psi.udir.no/kl06/KM2",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM2",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "status": "http://psi.udir.no/kl06/status_publisert",
                 "tittel": "ordne og sortere gjenstandar ut frå ulike eigenskapar og diskutere om dette kan gjerast på fleire måtar"
             },
             "forklaring": [
@@ -158,7 +158,7 @@
         "uri": "http://psi.udir.no/kl06/MAT1-05",
         "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MAT1-05",
         "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+        "status": "http://psi.udir.no/kl06/status_publisert",
         "tittel": "Matematikk fellesfag"
     },
     "tilhoerer-kompetansemaalsett": {
@@ -167,11 +167,11 @@
             "gyldig-til": null
         },
         "id": "uuid:129ca8c7-e839-4551-a2e2-9998f48f1f81",
-        "kode": "KMS1",
-        "uri": "http://psi.udir.no/kl06/KMS1",
-        "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KMS1",
+        "kode": "KV1",
+        "uri": "http://psi.udir.no/kl06/KV1",
+        "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV1",
         "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
-        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+        "status": "http://psi.udir.no/kl06/status_publisert",
         "tittel": "Kompetansemål og vurdering 2. trinn"
     }
 }
