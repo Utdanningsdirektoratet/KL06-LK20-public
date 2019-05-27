@@ -474,7 +474,32 @@
             }
         ]
     },
-    "vurdering-kapittel": null,
+    "vurderingsordning-kapittel": {
+        "overskrift": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Vurderingsordning"
+                }
+            ],
+            "forskrift": true
+        },
+        "beskrivelse": {
+            "tekst": [
+                {
+                    "spraak": "default",
+                    "verdi": "Tekst om vurderingsordning"
+                }
+            ],
+            "forskrift": true
+        },
+        "forklaring": [
+            {
+                "spraak": "default",
+                "verdi": "Forklaring på vurderingsordning"
+            }
+        ]
+    },
     "fastsettelsesinformasjon": {
         "fastsatt-dato": "2020-08-01T00:00:00",
         "fastsettelsestekst": [
