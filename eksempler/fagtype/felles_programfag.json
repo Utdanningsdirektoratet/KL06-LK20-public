@@ -5,7 +5,7 @@
   "url-data": "http://data.udir.no/kl06/v201906/fagtyper/fagtype_felles_programfag",
   "tittel": [
     {
-      "spraak": "http://data.udir.no/kl06/v201906/spraak/nob",
+      "spraak": "nob",
       "verdi": "Felles programfag"
     },
     {
@@ -28,7 +28,7 @@
       "verdi": "FP"
     },
     {
-      "spraak": "http://data.udir.no/kl06/v201906/spraak/nob",
+      "spraak": "nob",
       "verdi": "FP"
     }
   ]

@@ -5,11 +5,11 @@
     "url-data": "http://data.udir.no/kl06/v201906/spraak/nob",
     "tittel": [
       {
-        "spraak": "http://data.udir.no/kl06/v201906/spraak/nob",
+        "spraak": "nob",
         "verdi": "Bokmål"
       },
       {
-        "spraak": "http://data.udir.no/kl06/v201906/spraak/nno",
+        "spraak": "nno",
         "verdi": "Bokmål"
       },
       {
