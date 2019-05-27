@@ -25,7 +25,7 @@
             ],
             "forskrift": true
         },
-        "fagets-relevans": {
+        "fagets-relevans-og-verdier": {
             "overskrift": {
                 "tekst": [
                     {
@@ -35,21 +35,40 @@
                 ],
                 "forskrift": true
             },
-            "beskrivelse": {
-                "tekst": [
+            "fagets-relevans": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Tømrarfaget representerer store verdiar i byggjenæringa. Faget blir drive i store og små verksemder over heile landet, og fagutøvinga varierer frå enkelt manuelt arbeid til bruk av avansert verktøy og utstyr. Tømrarfaget er eit tradisjonsrikt fag som skal vere med på å sikre estetiske og kulturelle verdiar i bransjen. Opplæringa skal medverke til å utvikle kompetanse på bygging og montering av ulike typar trekonstruksjonar og innreiingsarbeid i nybygg og ved rehabiliteringar. Opplæringa skal også vere med på å fremme sjølvstende, kreativitet, yrkesvørdnad, gode og trygge arbeidsvanar og evne til kommunikasjon med kundar, kollegaer og andre samarbeidspartnarar. Opplæringa skal leggje vekt på å utvikle fagleg fellesskap og bransjeforståing og leggje grunnlag for ei berekraftig utvikling. Opplæringa skal sikre krava til helse, miljø og tryggleik. Fullført og bestått opplæring fører fram til sveinebrev. Yrkestittel er tømrar."
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": [
                     {
                         "spraak": "default",
-                        "verdi": "Tømrarfaget representerer store verdiar i byggjenæringa. Faget blir drive i store og små verksemder over heile landet, og fagutøvinga varierer frå enkelt manuelt arbeid til bruk av avansert verktøy og utstyr. Tømrarfaget er eit tradisjonsrikt fag som skal vere med på å sikre estetiske og kulturelle verdiar i bransjen. Opplæringa skal medverke til å utvikle kompetanse på bygging og montering av ulike typar trekonstruksjonar og innreiingsarbeid i nybygg og ved rehabiliteringar. Opplæringa skal også vere med på å fremme sjølvstende, kreativitet, yrkesvørdnad, gode og trygge arbeidsvanar og evne til kommunikasjon med kundar, kollegaer og andre samarbeidspartnarar. Opplæringa skal leggje vekt på å utvikle fagleg fellesskap og bransjeforståing og leggje grunnlag for ei berekraftig utvikling. Opplæringa skal sikre krava til helse, miljø og tryggleik. Fullført og bestått opplæring fører fram til sveinebrev. Yrkestittel er tømrar."
+                        "verdi": "Forklaring på fagets relevans"
                     }
-                ],
-                "forskrift": true
+                ]
             },
-            "forklaring": [
-                {
-                    "spraak": "default",
-                    "verdi": "Forklaring på fagets relevans"
-                }
-            ]
+            "verdier-og-prinsipper": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Opplæringen skal gi elevene en forståelse av kritisk og vitenskapelig tenkning. Kritisk og vitenskapelig tenkning innebærer å bruke fornuften på en undersøkende og systematisk måte i møte med konkrete praktiske utfordringer, fenomener, ytringer og kunnskapsformer. Opplæringen skal skape en forståelse av at metodene for å undersøke virkeligheten må tilpasses det vi ønsker å studere, og at valg av metode påvirker det vi ser."
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Forklaring på verdier og prinsipper"
+                    }
+                ]
+            }
         },
         "kjerneelementer-i-faget": {
             "overskrift": {
@@ -87,32 +106,6 @@
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
                     "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                     "tittel": "Bransjelære"
-                }
-            ]
-        },
-        "verdigrunnlaget-i-faget": {
-            "overskrift": {
-                "tekst": [
-                    {
-                        "spraak": "default",
-                        "verdi": "Verdier og prinsipper"
-                    }
-                ],
-                "forskrift": true
-            },
-            "beskrivelse": {
-                "tekst": [
-                    {
-                        "spraak": "default",
-                        "verdi": "Opplæringen skal gi elevene en forståelse av kritisk og vitenskapelig tenkning. Kritisk og vitenskapelig tenkning innebærer å bruke fornuften på en undersøkende og systematisk måte i møte med konkrete praktiske utfordringer, fenomener, ytringer og kunnskapsformer. Opplæringen skal skape en forståelse av at metodene for å undersøke virkeligheten må tilpasses det vi ønsker å studere, og at valg av metode påvirker det vi ser."
-                    }
-                ],
-                "forskrift": true
-            },
-            "forklaring": [
-                {
-                    "spraak": "default",
-                    "verdi": "Forklaring på verdier og prinsipper"
                 }
             ]
         },

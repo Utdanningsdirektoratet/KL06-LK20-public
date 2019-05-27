@@ -25,7 +25,7 @@
             ],
             "forskrift": true
         },
-        "fagets-relevans": {
+        "fagets-relevans-og-verdier": {
             "overskrift": {
                 "tekst": [
                     {
@@ -35,21 +35,40 @@
                 ],
                 "forskrift": true
             },
-            "beskrivelse": {
-                "tekst": [
+            "fagets-relevans": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Menneskene har alltid undret seg over naturen og vært opptatt av å forstå den. Gjennom eksperimenter, observasjoner og teoretisk arbeid er fysikerne kommet langt i å finne grunnleggende prinsipper og lover som beskriver og forutsier fenomener i naturen og i universet. Programfaget fysikk skal bidra til forståelse av natur, teknologi og fenomener i dagliglivet. Det gir grunnlag for å bruke fagkunnskap i ulike sammenhenger, fra praktiske situasjoner i hverdagen til avgjørelser som påvirker samfunnsliv, natur og miljø. Programfaget fysikk gir innføring i fysikkens begreper, symboler og språk, og knytter teori og beregninger til observasjoner og praktisk laboratoriearbeid. Programfaget skal bidra til å vise fysikkfagets bruk av matematikk og hvordan matematikken brukes til å modellere virkeligheten. I tillegg skal programfaget gi innsikt i at fysikk er en del av kulturarven, og at faget må ses i et historisk perspektiv. Programfaget skal bidra til å øve opp kritisk holdning til undersøkelser og påstander og gi trening i å argumentere for løsninger på fysikkfaglige problemstillinger. Slik skal opplæringen styrke den enkeltes evne til å skille mellom vitenskapelig basert kunnskap og kunnskap som ikke er basert på vitenskapelige metoder. Programfaget skal gi forståelse av fysikkfaglige problemstillinger og av prosesser som fører til økt innsikt, noe som er et viktig grunnlag for flere studier i høyere utdanning og for livslang læring. Programfaget fysikk skal på den måten bidra til at samfunnet får tilført kvalifisert arbeidskraft, og fremme innovasjon og utvikling som kan komme næringsliv og samfunn til gode. Samtidig skal opplæringen legge vekt på de allmenndannende sidene ved fysikkfaget. Programfaget skal legge grunnlag for kreativitet, kritisk sans og metodeinnsikt i fysikkfaget. For å utvikle ferdigheter og kunnskap er det nødvendig å arbeide både praktisk og teoretisk i programfaget."
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": [
                     {
                         "spraak": "default",
-                        "verdi": "Menneskene har alltid undret seg over naturen og vært opptatt av å forstå den. Gjennom eksperimenter, observasjoner og teoretisk arbeid er fysikerne kommet langt i å finne grunnleggende prinsipper og lover som beskriver og forutsier fenomener i naturen og i universet. Programfaget fysikk skal bidra til forståelse av natur, teknologi og fenomener i dagliglivet. Det gir grunnlag for å bruke fagkunnskap i ulike sammenhenger, fra praktiske situasjoner i hverdagen til avgjørelser som påvirker samfunnsliv, natur og miljø. Programfaget fysikk gir innføring i fysikkens begreper, symboler og språk, og knytter teori og beregninger til observasjoner og praktisk laboratoriearbeid. Programfaget skal bidra til å vise fysikkfagets bruk av matematikk og hvordan matematikken brukes til å modellere virkeligheten. I tillegg skal programfaget gi innsikt i at fysikk er en del av kulturarven, og at faget må ses i et historisk perspektiv. Programfaget skal bidra til å øve opp kritisk holdning til undersøkelser og påstander og gi trening i å argumentere for løsninger på fysikkfaglige problemstillinger. Slik skal opplæringen styrke den enkeltes evne til å skille mellom vitenskapelig basert kunnskap og kunnskap som ikke er basert på vitenskapelige metoder. Programfaget skal gi forståelse av fysikkfaglige problemstillinger og av prosesser som fører til økt innsikt, noe som er et viktig grunnlag for flere studier i høyere utdanning og for livslang læring. Programfaget fysikk skal på den måten bidra til at samfunnet får tilført kvalifisert arbeidskraft, og fremme innovasjon og utvikling som kan komme næringsliv og samfunn til gode. Samtidig skal opplæringen legge vekt på de allmenndannende sidene ved fysikkfaget. Programfaget skal legge grunnlag for kreativitet, kritisk sans og metodeinnsikt i fysikkfaget. For å utvikle ferdigheter og kunnskap er det nødvendig å arbeide både praktisk og teoretisk i programfaget."
+                        "verdi": "Forklaring på fagets relevans"
                     }
-                ],
-                "forskrift": true
+                ]
             },
-            "forklaring": [
-                {
-                    "spraak": "default",
-                    "verdi": "Forklaring på fagets relevans"
-                }
-            ]
+            "verdier-og-prinsipper": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Hvis ny innsikt skal vokse fram, må etablerte ideer granskes og kritiseres med teorier, metoder, argumenter, erfaringer og bevis. Elevene skal kunne vurdere ulike kilder til kunnskap og tenke kritisk om hvordan kunnskap utvikles. De skal også kunne forstå at deres egne erfaringer, standpunkter og overbevisninger kan være ufullstendige eller feilaktige. Kritisk refleksjon forutsetter kunnskap, men gir samtidig rom for usikkerhet og uforutsigbarhet. Opplæringen må derfor søke en balanse mellom respekt for etablert viten og den utforskende og kreative tenkningen som kreves for å utvikle ny kunnskap."
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Forklaring på verdier og prinsipper"
+                    }
+                ]
+            }
         },
         "kjerneelementer-i-faget": {
             "overskrift": {
@@ -87,32 +106,6 @@
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
                     "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                     "tittel": "Moderne fysikk"
-                }
-            ]
-        },
-        "verdigrunnlaget-i-faget": {
-            "overskrift": {
-                "tekst": [
-                    {
-                        "spraak": "default",
-                        "verdi": "Verdier og prinsipper"
-                    }
-                ],
-                "forskrift": true
-            },
-            "beskrivelse": {
-                "tekst": [
-                    {
-                        "spraak": "default",
-                        "verdi": "Hvis ny innsikt skal vokse fram, må etablerte ideer granskes og kritiseres med teorier, metoder, argumenter, erfaringer og bevis. Elevene skal kunne vurdere ulike kilder til kunnskap og tenke kritisk om hvordan kunnskap utvikles. De skal også kunne forstå at deres egne erfaringer, standpunkter og overbevisninger kan være ufullstendige eller feilaktige. Kritisk refleksjon forutsetter kunnskap, men gir samtidig rom for usikkerhet og uforutsigbarhet. Opplæringen må derfor søke en balanse mellom respekt for etablert viten og den utforskende og kreative tenkningen som kreves for å utvikle ny kunnskap."
-                    }
-                ],
-                "forskrift": true
-            },
-            "forklaring": [
-                {
-                    "spraak": "default",
-                    "verdi": "Forklaring på verdier og prinsipper"
                 }
             ]
         },

@@ -25,7 +25,7 @@
             ],
             "forskrift": true
         },
-        "fagets-relevans": {
+        "fagets-relevans-og-verdier": {
             "overskrift": {
                 "tekst": [
                     {
@@ -35,21 +35,40 @@
                 ],
                 "forskrift": true
             },
-            "beskrivelse": {
-                "tekst": [
+            "fagets-relevans": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Å lære matematikk handlar om å utforske mønster og strukturere verda rundt seg. Den globale utviklinga krev samarbeid og kreativitet slik at elevane kan meistre å finne løysingar på problem og ta reflekterte avgjerder for eiga livsmeistring, eit trygt demokrati og ei berekraftig framtid/utvikling. For den enkelte eleven: Å lære matematikk er å utvikle kompetanse i å finne løysingar, vurdere og argumentere for eigne idear og kommunisere med matematiske symbol og matematisk språk.Å lære matematikk kan fremje livsmeistringa til eleven ved sjølvtillit og meistring i å bruke matematikk i ulike samanhengar. Samfunns - og arbeidslivsperspektiv: Å lære matematikk gir høve til å forstå naturen og samfunnet.Det gir grunnlag for å delta i avgjerdsprosessar i samfunnet og i den teknologiske utviklinga."
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": [
                     {
                         "spraak": "default",
-                        "verdi": "Å lære matematikk handlar om å utforske mønster og strukturere verda rundt seg. Den globale utviklinga krev samarbeid og kreativitet slik at elevane kan meistre å finne løysingar på problem og ta reflekterte avgjerder for eiga livsmeistring, eit trygt demokrati og ei berekraftig framtid/utvikling. For den enkelte eleven: Å lære matematikk er å utvikle kompetanse i å finne løysingar, vurdere og argumentere for eigne idear og kommunisere med matematiske symbol og matematisk språk.Å lære matematikk kan fremje livsmeistringa til eleven ved sjølvtillit og meistring i å bruke matematikk i ulike samanhengar. Samfunns - og arbeidslivsperspektiv: Å lære matematikk gir høve til å forstå naturen og samfunnet.Det gir grunnlag for å delta i avgjerdsprosessar i samfunnet og i den teknologiske utviklinga."
+                        "verdi": "Forklaring på fagets relevans"
                     }
-                ],
-                "forskrift": true
+                ]
             },
-            "forklaring": [
-                {
-                    "spraak": "default",
-                    "verdi": "Forklaring på fagets relevans"
-                }
-            ]
+            "verdier-og-prinsipper": {
+                "beskrivelse": {
+                    "tekst": [
+                        {
+                            "spraak": "default",
+                            "verdi": "Motivasjon og meistring er viktig i alle fag, men kanskje særleg i matematikk for å leggje til rette for matematikkglede. Det er derfor viktig at elevane opplever at dei får nok tid til å meistre den grunnleggjande talforståinga, og at dei får høve til å utvikle forståing for sentrale matematiske omgrep gjennom heile skuleløpet. Vidare er det nødvendig at elevane opplever motivasjon og meistring for å leggje til rette for djupnelæring. Elevane må få oppleve at matematikk er spennande og kreativt og få tid til å tenkje, reflektere, resonnere og stille spørsmål. Det er viktig med trygge læringsmiljø der det er greitt å undre seg, prøve, feile og prøve igjen, og der ein utforskar feil for å lære betre. For å auke relevansen til matematikkfaget må det leggjast opp til arbeid med realistiske data og situasjonar. Dette kan ein mellom anna oppnå ved å bruke konkretar, eigne målingar, digitale verktøy og programmering. Elevane må få utforske matematikk i kvardagen og sjå at matematikk blir brukt både i arbeidslivet og i andre daglege situasjonar. Det er viktig å la elevane få undre seg, vere kreative og oppdage matematikken og la dei få innblikk i korleis matematikken har utvikla seg i takt med at menneska har vore nysgjerrige og utforskande. Kjerneelementa legg derfor vekt på tenkjemåtar og metodar, det vil seie at ein må setje prosessen, ikkje berre resultatet, i fokus. Matematikk er viktig for utviklinga av kritisk tenking, og elevane skal lære å vere kritiske og analytiske til informasjon. Elevane skal få innblikk i korleis matematikk påverkar forståinga av sosiale, politiske og økonomiske situasjonar, og korleis matematikkunnskap er viktig når ein skal vere ein aktiv samfunnsdeltakar. Det er viktig å kunne reflektere over matematikken og stille seg kritisk og open til korleis han blir brukt. Algoritmar som er baserte på statistikk, styrer i dag ein stor del av kvardagen vår, og det er viktig å kunne vurdere dette med eit kritisk blikk og forstå korleis det påverkar oss. Det å lære å lære heng tett saman med djupnelæring. For å kunne utvikle forståing i matematikk må elevane reflektere over det dei lærer, og setje det i samanheng med det dei kan frå før. Utforsking og refleksjon må derfor få ein større plass i dette faget. Elevane må få høve til å utvikle eit språk for læring som dei nyttar saman med medelevane og læraren. Forsking viser at det å arbeide systematisk med å utforske feil som eit utgangspunkt for å lære meir og betre er spesielt effektivt i matematikk, og det vil òg bidra til å setje prosessen snarare enn produktet i fokus."
+                        }
+                    ],
+                    "forskrift": true
+                },
+                "forklaring": [
+                    {
+                        "spraak": "default",
+                        "verdi": "Forklaring på verdier og prinsipper"
+                    }
+                ]
+            }
         },
         "kjerneelementer-i-faget": {
             "overskrift": {
@@ -139,32 +158,6 @@
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
                     "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                     "tittel": "Matematiske kunnskapsområde"
-                }
-            ]
-        },
-        "verdigrunnlaget-i-faget": {
-            "overskrift": {
-                "tekst": [
-                    {
-                        "spraak": "default",
-                        "verdi": "Verdier og prinsipper"
-                    }
-                ],
-                "forskrift": true
-            },
-            "beskrivelse": {
-                "tekst": [
-                    {
-                        "spraak": "default",
-                        "verdi": "Motivasjon og meistring er viktig i alle fag, men kanskje særleg i matematikk for å leggje til rette for matematikkglede. Det er derfor viktig at elevane opplever at dei får nok tid til å meistre den grunnleggjande talforståinga, og at dei får høve til å utvikle forståing for sentrale matematiske omgrep gjennom heile skuleløpet. Vidare er det nødvendig at elevane opplever motivasjon og meistring for å leggje til rette for djupnelæring. Elevane må få oppleve at matematikk er spennande og kreativt og få tid til å tenkje, reflektere, resonnere og stille spørsmål. Det er viktig med trygge læringsmiljø der det er greitt å undre seg, prøve, feile og prøve igjen, og der ein utforskar feil for å lære betre. For å auke relevansen til matematikkfaget må det leggjast opp til arbeid med realistiske data og situasjonar. Dette kan ein mellom anna oppnå ved å bruke konkretar, eigne målingar, digitale verktøy og programmering. Elevane må få utforske matematikk i kvardagen og sjå at matematikk blir brukt både i arbeidslivet og i andre daglege situasjonar. Det er viktig å la elevane få undre seg, vere kreative og oppdage matematikken og la dei få innblikk i korleis matematikken har utvikla seg i takt med at menneska har vore nysgjerrige og utforskande. Kjerneelementa legg derfor vekt på tenkjemåtar og metodar, det vil seie at ein må setje prosessen, ikkje berre resultatet, i fokus. Matematikk er viktig for utviklinga av kritisk tenking, og elevane skal lære å vere kritiske og analytiske til informasjon. Elevane skal få innblikk i korleis matematikk påverkar forståinga av sosiale, politiske og økonomiske situasjonar, og korleis matematikkunnskap er viktig når ein skal vere ein aktiv samfunnsdeltakar. Det er viktig å kunne reflektere over matematikken og stille seg kritisk og open til korleis han blir brukt. Algoritmar som er baserte på statistikk, styrer i dag ein stor del av kvardagen vår, og det er viktig å kunne vurdere dette med eit kritisk blikk og forstå korleis det påverkar oss. Det å lære å lære heng tett saman med djupnelæring. For å kunne utvikle forståing i matematikk må elevane reflektere over det dei lærer, og setje det i samanheng med det dei kan frå før. Utforsking og refleksjon må derfor få ein større plass i dette faget. Elevane må få høve til å utvikle eit språk for læring som dei nyttar saman med medelevane og læraren. Forsking viser at det å arbeide systematisk med å utforske feil som eit utgangspunkt for å lære meir og betre er spesielt effektivt i matematikk, og det vil òg bidra til å setje prosessen snarare enn produktet i fokus."
-                    }
-                ],
-                "forskrift": true
-            },
-            "forklaring": [
-                {
-                    "spraak": "default",
-                    "verdi": "Forklaring på verdier og prinsipper"
                 }
             ]
         },
