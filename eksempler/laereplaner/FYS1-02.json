@@ -551,7 +551,7 @@
             "id": "http://psi.udir.no/ontologi/valgfritt_programfag",
             "kode": "fagtype_valgfritt_programfag",
             "uri": "http://psi.udir.no/kl06/fagtype_valgfritt_programfag",
-            "url-data": "http://data.udir.no/kl06/v201906/fagtype/fagtype_valgfritt_programfag",
+            "url-data": "http://data.udir.no/kl06/v201906/fagtyper/fagtype_valgfritt_programfag",
             "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
             "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Valgfritt programfag"

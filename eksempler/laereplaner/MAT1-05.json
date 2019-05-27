@@ -603,7 +603,7 @@
             "id": "http://psi.udir.no/ontologi/grunnskolefag",
             "kode": "fagtype_grunnskolefag",
             "uri": "http://psi.udir.no/kl06/fagtype_grunnskolefag",
-            "url-data": "http://data.udir.no/kl06/v201906/fagtype/fagtype_grunnskolefag",
+            "url-data": "http://data.udir.no/kl06/v201906/fagtyper/fagtype_grunnskolefag",
             "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
             "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Grunnskolefag"
@@ -616,7 +616,7 @@
             "id": "http://psi.udir.no/ontologi/fellesfag",
             "kode": "fagtype_fellesfag",
             "uri": "http://psi.udir.no/kl06/fagtype_fellesfag",
-            "url-data": "http://data.udir.no/kl06/v201906/fagtype/fagtype_fellesfag",
+            "url-data": "http://data.udir.no/kl06/v201906/fagtyper/fagtype_fellesfag",
             "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
             "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "Fellesfag"
