@@ -466,9 +466,9 @@
                     "gyldig-til": null
                 },
                 "id": "uuid:06adc5c8-232d-11e9-ab14-d663bd873d93",
-                "kode": "KMS30",
-                "uri": "http://psi.udir.no/kl06/KMS30",
-                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KMS30",
+                "kode": "KV30",
+                "uri": "http://psi.udir.no/kl06/KV30",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV30",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
                 "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                 "tittel": "Kompetansemål og vurdering Fysikk 1"
@@ -479,9 +479,9 @@
                     "gyldig-til": null
                 },
                 "id": "uuid:15062e26-2332-11e9-ab14-d663bd873d93",
-                "kode": "KMS31",
-                "uri": "http://psi.udir.no/kl06/KMS31",
-                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KMS31",
+                "kode": "KV31",
+                "uri": "http://psi.udir.no/kl06/KV31",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV31",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
                 "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                 "tittel": "Kompetansemål og vurdering Fysikk 2"

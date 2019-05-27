@@ -518,9 +518,9 @@
                     "gyldig-til": null
                 },
                 "id": "uuid:129ca8c7-e839-4551-a2e2-9998f48f1f81",
-                "kode": "KMS1",
-                "uri": "http://psi.udir.no/kl06/KMS1",
-                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KMS1",
+                "kode": "KV1",
+                "uri": "http://psi.udir.no/kl06/KV1",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV1",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
                 "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                 "tittel": "Kompetansemål og vurdering 2. trinn"
@@ -531,9 +531,9 @@
                     "gyldig-til": null
                 },
                 "id": "uuid:d0a1d4fd-cb72-4608-8269-39270144364b",
-                "kode": "KMS9",
-                "uri": "http://psi.udir.no/kl06/KM9",
-                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KMS9",
+                "kode": "KV9",
+                "uri": "http://psi.udir.no/kl06/KV9",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV9",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
                 "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                 "tittel": "Kompetansemål og vurdering 10. trinn"

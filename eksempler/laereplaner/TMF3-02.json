@@ -466,9 +466,9 @@
                     "gyldig-til": null
                 },
                 "id": "uuid:79ec3fc0-2e08-11e9-b210-d663bd873d93",
-                "kode": "KMS60",
-                "uri": "http://psi.udir.no/kl06/KMS60",
-                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KMS60",
+                "kode": "KV60",
+                "uri": "http://psi.udir.no/kl06/KV60",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV60",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
                 "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                 "tittel": "Kompetansemål og vurdering etter Vg3"
