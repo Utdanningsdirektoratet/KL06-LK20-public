@@ -13,7 +13,7 @@
         "forskrift": true
     },
     "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
-    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+    "status": "http://psi.udir.no/kl06/status_publisert",
     "sist-endret": "2018-12-12T13:16:05.228885",
     "kortform": [
         {
@@ -57,7 +57,7 @@
             "uri": "http://psi.udir.no/kl06/KM98",
             "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM98",
             "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "utforske og bruke kvadratsetningar og konjugatsetninga numerisk, algebraisk og geometrisk"
         },
         {
@@ -70,7 +70,7 @@
             "uri": "http://psi.udir.no/kl06/KM99",
             "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM99",
             "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "bruke dei algebraiske lovmessigheitene, finne samanhengar og deretter formalisere ved bruk av formålstenlege representasjonar"
         }
     ],
@@ -137,7 +137,7 @@
             "uri": "http://psi.udir.no/kl06/MAT1Z34",
             "url-data": "http://data.udir.no/kl06/v201906/opplaeringsfag/MAT1Z34",
             "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Matematikk 10. årstrinn"
         }
     ],
@@ -152,7 +152,7 @@
             "uri": "http://psi.udir.no/kl06/aarstrinn10",
             "url-data": "http://data.udir.no/kl06/v201906/aarstrinn/aarstrinn10",
             "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Tiende årstrinn"
         }
     ],
@@ -167,7 +167,7 @@
             "uri": "http://psi.udir.no/kl06/aarstrinn10",
             "url-data": "http://data.udir.no/kl06/v201906/aarstrinn/aarstrinn10",
             "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Tiende årstrinn"
         }
     ],
@@ -181,7 +181,7 @@
         "uri": "http://psi.udir.no/kl06/MAT1-05",
         "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MAT1-05",
         "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+        "status": "http://psi.udir.no/kl06/status_publisert",
         "tittel": "Matematikk fellesfag"
     }
 }

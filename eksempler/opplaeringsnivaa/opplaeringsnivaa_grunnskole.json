@@ -22,6 +22,6 @@
     }
   ],
   "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
-  "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+  "status": "http://psi.udir.no/kl06/status_publisert",
   "rekkefoelge": 1
 }

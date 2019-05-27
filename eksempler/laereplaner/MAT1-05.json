@@ -13,7 +13,7 @@
         "forskrift": true
     },
     "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+    "status": "http://psi.udir.no/kl06/status_publisert",
     "sist-endret": "2018-12-12T13:16:05.228885",
     "kortform": [],
     "om-faget-kapittel": {
@@ -92,7 +92,7 @@
                     "uri": "http://psi.udir.no/kl06/KE1",
                     "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE1",
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "status": "http://psi.udir.no/kl06/status_publisert",
                     "tittel": "Utforsking og problemløysing"
                 },
                 {
@@ -105,7 +105,7 @@
                     "uri": "http://psi.udir.no/kl06/KE2",
                     "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE2",
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "status": "http://psi.udir.no/kl06/status_publisert",
                     "tittel": "Modellering og bruk"
                 },
                 {
@@ -118,7 +118,7 @@
                     "uri": "http://psi.udir.no/kl06/KE3",
                     "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE3",
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "status": "http://psi.udir.no/kl06/status_publisert",
                     "tittel": "Resonnering og argumentasjon"
                 },
                 {
@@ -131,7 +131,7 @@
                     "uri": "http://psi.udir.no/kl06/KE4",
                     "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE4",
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "status": "http://psi.udir.no/kl06/status_publisert",
                     "tittel": "Representasjon og kommunikasjon"
                 },
                 {
@@ -144,7 +144,7 @@
                     "uri": "http://psi.udir.no/kl06/KE5",
                     "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE5",
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "status": "http://psi.udir.no/kl06/status_publisert",
                     "tittel": "Abstraksjon og generalisering"
                 },
                 {
@@ -157,7 +157,7 @@
                     "uri": "http://psi.udir.no/kl06/KE6",
                     "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE6",
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
-                    "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                    "status": "http://psi.udir.no/kl06/status_publisert",
                     "tittel": "Matematiske kunnskapsområde"
                 }
             ]
@@ -208,7 +208,7 @@
                         "uri": "http://psi.udir.no/kl06/TT1",
                         "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT1",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Folkehelse og livsmestring"
                     }
                 },
@@ -247,7 +247,7 @@
                         "uri": "http://psi.udir.no/kl06/TT2",
                         "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT2",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Demokrati og medborgarskap"
                     }
                 },
@@ -286,7 +286,7 @@
                         "uri": "http://psi.udir.no/kl06/TT3",
                         "url-data": "http://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20/TT3",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Bærekraftig utvikling"
                     }
                 }
@@ -338,7 +338,7 @@
                         "uri": "http://psi.udir.no/kl06/GF1",
                         "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF1",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Digitale ferdigheter"
                     }
                 },
@@ -377,7 +377,7 @@
                         "uri": "http://psi.udir.no/kl06/GF2",
                         "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF2",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Muntlige ferdigheter"
                     }
                 },
@@ -416,7 +416,7 @@
                         "uri": "http://psi.udir.no/kl06/GF3",
                         "url-data": "http://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20/GF3",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Å kunne lese"
                     }
                 },
@@ -455,7 +455,7 @@
                         "uri": "http://psi.udir.no/kl06/GF4",
                         "url-data": "http://data.udir.no/kl06/v201906/grunnleggende_ferdigheter-lk20/GF4",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Å kunne regne"
                     }
                 },
@@ -494,7 +494,7 @@
                         "uri": "http://psi.udir.no/kl06/GF5",
                         "url-data": "http://data.udir.no/kl06/v201906/grunnleggende_ferdigheter-lk20/GF5",
                         "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
-                        "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                        "status": "http://psi.udir.no/kl06/status_publisert",
                         "tittel": "Å kunne skrive"
                     }
                 }
@@ -522,7 +522,7 @@
                 "uri": "http://psi.udir.no/kl06/KV1",
                 "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV1",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
-                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "status": "http://psi.udir.no/kl06/status_publisert",
                 "tittel": "Kompetansemål og vurdering 2. trinn"
             },
             {
@@ -535,7 +535,7 @@
                 "uri": "http://psi.udir.no/kl06/KV9",
                 "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV9",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
-                "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+                "status": "http://psi.udir.no/kl06/status_publisert",
                 "tittel": "Kompetansemål og vurdering 10. trinn"
             }
         ]
@@ -584,7 +584,7 @@
             "uri": "http://psi.udir.no/kl06/nno",
             "url-data": "http://data.udir.no/kl06/v201906/spraak/nno",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Nynorsk"
         },
         "fastsatt-dato-overskrift": [
@@ -605,7 +605,7 @@
             "uri": "http://psi.udir.no/kl06/fagtype_grunnskolefag",
             "url-data": "http://data.udir.no/kl06/v201906/fagtyper/fagtype_grunnskolefag",
             "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Grunnskolefag"
         },
         {
@@ -618,7 +618,7 @@
             "uri": "http://psi.udir.no/kl06/fagtype_fellesfag",
             "url-data": "http://data.udir.no/kl06/v201906/fagtyper/fagtype_fellesfag",
             "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Fellesfag"
         }
     ],
@@ -633,7 +633,7 @@
             "uri": "http://psi.udir.no/kl06/nob",
             "url-data": "http://data.udir.no/kl06/v201906/spraak/nob",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Bokmål"
         },
         {
@@ -646,7 +646,7 @@
             "uri": "http://psi.udir.no/kl06/eng",
             "url-data": "http://data.udir.no/kl06/v201906/spraak/eng",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Engelsk"
         },
         {
@@ -659,7 +659,7 @@
             "uri": "http://psi.udir.no/kl06/smj",
             "url-data": "http://data.udir.no/kl06/v201906/spraak/smj",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Lulesamisk"
         },
         {
@@ -672,7 +672,7 @@
             "uri": "http://psi.udir.no/kl06/sme",
             "url-data": "http://data.udir.no/kl06/v201906/spraak/sme",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Nordsamisk"
         },
         {
@@ -685,7 +685,7 @@
             "uri": "http://psi.udir.no/kl06/nno",
             "url-data": "http://data.udir.no/kl06/v201906/spraak/nno",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Nynorsk"
         },
         {
@@ -698,7 +698,7 @@
             "uri": "http://psi.udir.no/kl06/sma",
             "url-data": "http://data.udir.no/kl06/v201906/spraak/sma",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Sørsamisk"
         }
     ],
@@ -713,7 +713,7 @@
             "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_grunnskole",
             "url-data": "http://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_grunnskole",
             "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Grunnskole"
         },
         {
@@ -726,7 +726,7 @@
             "uri": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende",
             "url-data": "http://data.udir.no/kl06/v201906/opplaeringsnivaa/opplaeringsnivaa_videregaaende",
             "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Videregående opplæring"
         }
     ],
@@ -761,7 +761,7 @@
             "uri": "http://psi.udir.no/kl06/MAT1-04",
             "url-data": "http://data.udir.no/kl06/v201906/laereplaner/MAT1-04",
             "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
-            "status": "http://data.udir.no/kl06/v201906/status/status_utgaatt",
+            "status": "http://psi.udir.no/kl06/status_utgaatt",
             "tittel": "Læreplan i matematikk fellesfag"
         }
     ],
@@ -776,7 +776,7 @@
             "uri": "http://psi.udir.no/kl06/MAT1-06",
             "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MAT1-06",
             "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
-            "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
+            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Læreplan i matematikk fellesfag"
         }
     ],
