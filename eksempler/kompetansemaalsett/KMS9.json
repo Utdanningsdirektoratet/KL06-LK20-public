@@ -53,9 +53,9 @@
                 "gyldig-til": null
             },
             "id": "uuid:e53cac6e-2e27-11e9-b210-d663bd873d93",
-            "kode": "K98",
-            "uri": "http://psi.udir.no/kl06/K98",
-            "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/K98",
+            "kode": "KM98",
+            "uri": "http://psi.udir.no/kl06/KM98",
+            "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM98",
             "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
             "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "utforske og bruke kvadratsetningar og konjugatsetninga numerisk, algebraisk og geometrisk"
@@ -66,9 +66,9 @@
                 "gyldig-til": null
             },
             "id": "uuid:ed9df7fa-2e27-11e9-b210-d663bd873d93",
-            "kode": "K99",
-            "uri": "http://psi.udir.no/kl06/K99",
-            "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/K99",
+            "kode": "KM99",
+            "uri": "http://psi.udir.no/kl06/KM99",
+            "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM99",
             "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
             "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
             "tittel": "bruke dei algebraiske lovmessigheitene, finne samanhengar og deretter formalisere ved bruk av formålstenlege representasjonar"

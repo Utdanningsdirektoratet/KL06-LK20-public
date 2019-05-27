@@ -1,8 +1,8 @@
 {
     "id": "uuid:cec30cd4-1fe6-11e9-8e78-d663bd873d93",
-    "kode": "K1",
-    "uri": "http://psi.udir.no/kl06/K1",
-    "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/K1",
+    "kode": "KM1",
+    "uri": "http://psi.udir.no/kl06/KM1",
+    "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM1",
     "tittel": {
         "tekst": [
             {
@@ -114,9 +114,9 @@
                     "gyldig-til": null
                 },
                 "id": "uuid:5624d0e8-2e2b-11e9-b210-d663bd873d93",
-                "kode": "K3",
-                "uri": "http://psi.udir.no/kl06/K3",
-                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/K3",
+                "kode": "KM3",
+                "uri": "http://psi.udir.no/kl06/KM3",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM3",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
                 "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                 "tittel": "utforske og beskrive mengder og eigenskapar ved mengder og representere mengder på forskjellige måtar"
@@ -133,9 +133,9 @@
         {
             "referanse": {
                 "id": "uuid:97d9dec0-2e2b-11e9-b210-d663bd873d93",
-                "kode": "K2",
-                "uri": "http://psi.udir.no/kl06/K2",
-                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/K2",
+                "kode": "KM2",
+                "uri": "http://psi.udir.no/kl06/KM2",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaal-lk20/KM2",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
                 "status": "http://data.udir.no/kl06/v201906/status/status_publisert",
                 "tittel": "ordne og sortere gjenstandar ut frå ulike eigenskapar og diskutere om dette kan gjerast på fleire måtar"
