@@ -7,6 +7,18 @@
         {
             "spraak": "default",
             "verdi": "Folkehelse og livsmestring"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Berekraftig utvikling"
+        },
+        {
+            "spraak": "nob",
+            "verdi": "Bærekraftig utvikling"
+        },
+        {
+            "spraak": "sme",
+            "verdi": "Guoddevaš ovdáneapmi"
         }
     ],
     "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
