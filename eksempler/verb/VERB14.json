@@ -1,23 +1,9 @@
 {
-    "id": "uuid:859ec978-fd4d-11e8-8eb2-f2801f1b9fd1",
-    "kode": "VERB14",
-    "uri": "http://psi.udir.no/kl06/VERB14",
-    "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB14",
-    "tittel": [
+    "forklaring": [
         {
             "spraak": "default",
-            "verdi": "Sammenligne"
+            "verdi": "Vi ser ingen hensikt i å vedlikeholde denne eksempelfila, men viser heller til live-eksempel med fullstendig liste, språkversjonert til nob, nno og sme på&colon;"
         }
     ],
-    "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
-    "status": "http://psi.udir.no/kl06/status_publisert",
-    "sist-endret": "2018-12-11T09:14:20",
-    "beskrivelse": [
-        {
-            "spraak": "default",
-            "verdi": "Å sammenligne er å undersøke likheter og forskjeller mellom to eller flere forhold."
-        }
-    ],
-    "globalt-verb": true,
-    "tilhoerer-laereplan": null
+    "url": "https://beta-grep4-rest.azurewebsites.net/v201906/verb-lk20/VERB4"
 }
