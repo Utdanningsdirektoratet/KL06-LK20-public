@@ -8,6 +8,10 @@
             {
                 "spraak": "default",
                 "verdi": "samanlikne ulike storleikar og mengder og uttrykkje dette gjennom eige språk og matematisk språk"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "samanlikne ulike storleikar og mengder og uttrykkje dette gjennom eige språk og matematisk språk"
             }
         ],
         "forskrift": true
@@ -19,6 +23,10 @@
     "forklaring": [
         {
             "spraak": "default",
+            "verdi": "Forklaring på kompetansemål"
+        },
+        {
+            "spraak": "nno",
             "verdi": "Forklaring på kompetansemål"
         }
     ],
@@ -40,6 +48,10 @@
             "forklaring": [
                 {
                     "spraak": "default",
+                    "verdi": "Forklaring på koplingen til grunnleggende ferdighet"
+                },
+                {
+                    "spraak": "nno",
                     "verdi": "Forklaring på koplingen til grunnleggende ferdighet"
                 }
             ]
@@ -64,6 +76,10 @@
                 {
                     "spraak": "default",
                     "verdi": "Forklaring på koplingen til tverrfaglig tema"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Forklaring på koplingen til tverrfaglig tema"
                 }
             ]
         }
@@ -87,6 +103,10 @@
                 {
                     "spraak": "default",
                     "verdi": "Forklaring på koplingen til kjerneelement"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Forklaring på koplingen til kjerneelement"
                 }
             ]
         }
@@ -103,7 +123,7 @@
             "url-data": "http://data.udir.no/kl06/v201906/verb-lk20/VERB14",
             "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
             "status": "http://psi.udir.no/kl06/status_publisert",
-            "tittel": "Sammenligne"
+            "tittel": "Samanlikne"
         }
     ],
     "bygger-paa": [
@@ -125,6 +145,10 @@
                 {
                     "spraak": "default",
                     "verdi": "Forklaring på koplingen til kompetansemål"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Forklaring på koplingen til kompetansemål"
                 }
             ]
         }
@@ -144,6 +168,10 @@
                 {
                     "spraak": "default",
                     "verdi": "Forklaring på koplingen til kompetansemål"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Forklaring på koplingen til kompetansemål"
                 }
             ]
         }
@@ -155,8 +183,8 @@
         },
         "id": "uuid:3c03c709-4934-4012-9353-c14bfa8ff651",
         "kode": "MAT1-05",
-        "uri": "http://psi.udir.no/kl06/MAT1-05",
-        "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MAT1-05",
+        "uri": "http://psi.udir.no/kl06/MAT01-05",
+        "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MAT01-05",
         "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
         "status": "http://psi.udir.no/kl06/status_publisert",
         "tittel": "Matematikk fellesfag"
