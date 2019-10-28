@@ -1,13 +1,13 @@
 {
-    "id": "uuid:1cdd3528-2327-11e9-ab14-d663bd873d93",
-    "kode": "TMF3-02",
-    "uri": "http://psi.udir.no/kl06/TMF3-02",
-    "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/TMF3-02",
+    "id": "uuid:af2d1482-232e-11e9-ab14-d663bd873d93",
+    "kode": "FYS01-02",
+    "uri": "http://psi.udir.no/kl06/FYS01-02",
+    "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/FYS01-02",
     "tittel": {
         "tekst": [
             {
                 "spraak": "default",
-                "verdi": "Læreplan i tømrarfaget Vg3 / opplæring i bedrift"
+                "verdi": "Læreplan i fysikk - programfag i utdanningsprogram for studiespesialisering"
             }
         ],
         "forskrift": true
@@ -41,7 +41,7 @@
                     "tekst": [
                         {
                             "spraak": "default",
-                            "verdi": "Tømrarfaget representerer store verdiar i byggjenæringa. Faget blir drive i store og små verksemder over heile landet, og fagutøvinga varierer frå enkelt manuelt arbeid til bruk av avansert verktøy og utstyr. Tømrarfaget er eit tradisjonsrikt fag som skal vere med på å sikre estetiske og kulturelle verdiar i bransjen. Opplæringa skal medverke til å utvikle kompetanse på bygging og montering av ulike typar trekonstruksjonar og innreiingsarbeid i nybygg og ved rehabiliteringar. Opplæringa skal også vere med på å fremme sjølvstende, kreativitet, yrkesvørdnad, gode og trygge arbeidsvanar og evne til kommunikasjon med kundar, kollegaer og andre samarbeidspartnarar. Opplæringa skal leggje vekt på å utvikle fagleg fellesskap og bransjeforståing og leggje grunnlag for ei berekraftig utvikling. Opplæringa skal sikre krava til helse, miljø og tryggleik. Fullført og bestått opplæring fører fram til sveinebrev. Yrkestittel er tømrar."
+                            "verdi": "Menneskene har alltid undret seg over naturen og vært opptatt av å forstå den. Gjennom eksperimenter, observasjoner og teoretisk arbeid er fysikerne kommet langt i å finne grunnleggende prinsipper og lover som beskriver og forutsier fenomener i naturen og i universet. Programfaget fysikk skal bidra til forståelse av natur, teknologi og fenomener i dagliglivet. Det gir grunnlag for å bruke fagkunnskap i ulike sammenhenger, fra praktiske situasjoner i hverdagen til avgjørelser som påvirker samfunnsliv, natur og miljø. Programfaget fysikk gir innføring i fysikkens begreper, symboler og språk, og knytter teori og beregninger til observasjoner og praktisk laboratoriearbeid. Programfaget skal bidra til å vise fysikkfagets bruk av matematikk og hvordan matematikken brukes til å modellere virkeligheten. I tillegg skal programfaget gi innsikt i at fysikk er en del av kulturarven, og at faget må ses i et historisk perspektiv. Programfaget skal bidra til å øve opp kritisk holdning til undersøkelser og påstander og gi trening i å argumentere for løsninger på fysikkfaglige problemstillinger. Slik skal opplæringen styrke den enkeltes evne til å skille mellom vitenskapelig basert kunnskap og kunnskap som ikke er basert på vitenskapelige metoder. Programfaget skal gi forståelse av fysikkfaglige problemstillinger og av prosesser som fører til økt innsikt, noe som er et viktig grunnlag for flere studier i høyere utdanning og for livslang læring. Programfaget fysikk skal på den måten bidra til at samfunnet får tilført kvalifisert arbeidskraft, og fremme innovasjon og utvikling som kan komme næringsliv og samfunn til gode. Samtidig skal opplæringen legge vekt på de allmenndannende sidene ved fysikkfaget. Programfaget skal legge grunnlag for kreativitet, kritisk sans og metodeinnsikt i fysikkfaget. For å utvikle ferdigheter og kunnskap er det nødvendig å arbeide både praktisk og teoretisk i programfaget."
                         }
                     ],
                     "forskrift": true
@@ -58,7 +58,7 @@
                     "tekst": [
                         {
                             "spraak": "default",
-                            "verdi": "Opplæringen skal gi elevene en forståelse av kritisk og vitenskapelig tenkning. Kritisk og vitenskapelig tenkning innebærer å bruke fornuften på en undersøkende og systematisk måte i møte med konkrete praktiske utfordringer, fenomener, ytringer og kunnskapsformer. Opplæringen skal skape en forståelse av at metodene for å undersøke virkeligheten må tilpasses det vi ønsker å studere, og at valg av metode påvirker det vi ser."
+                            "verdi": "Hvis ny innsikt skal vokse fram, må etablerte ideer granskes og kritiseres med teorier, metoder, argumenter, erfaringer og bevis. Elevene skal kunne vurdere ulike kilder til kunnskap og tenke kritisk om hvordan kunnskap utvikles. De skal også kunne forstå at deres egne erfaringer, standpunkter og overbevisninger kan være ufullstendige eller feilaktige. Kritisk refleksjon forutsetter kunnskap, men gir samtidig rom for usikkerhet og uforutsigbarhet. Opplæringen må derfor søke en balanse mellom respekt for etablert viten og den utforskende og kreative tenkningen som kreves for å utvikle ny kunnskap."
                         }
                     ],
                     "forskrift": true
@@ -87,26 +87,26 @@
                         "gyldig-fra": null,
                         "gyldig-til": null
                     },
-                    "id": "uuid:19a552ae-2e09-11e9-b210-d663bd873d93",
-                    "kode": "KE70",
-                    "uri": "http://psi.udir.no/kl06/KE70",
-                    "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE70",
+                    "id": "uuid:f07d240e-2df6-11e9-b210-d663bd873d93",
+                    "kode": "KE90",
+                    "uri": "http://psi.udir.no/kl06/KE90",
+                    "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE90",
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
                     "status": "http://psi.udir.no/kl06/status_publisert",
-                    "tittel": "Produksjon"
+                    "tittel": "Klassisk fysikk"
                 },
                 {
                     "gyldighet": {
                         "gyldig-fra": null,
                         "gyldig-til": null
                     },
-                    "id": "uuid:24edf468-2e09-11e9-b210-d663bd873d93",
-                    "kode": "KE71",
-                    "uri": "http://psi.udir.no/kl06/KE71",
-                    "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE71",
+                    "id": "uuid:2152af72-2df7-11e9-89f0-d663bd873d93",
+                    "kode": "KE91",
+                    "uri": "http://psi.udir.no/kl06/KE91",
+                    "url-data": "http://data.udir.no/kl06/v201906/kjerneelementer-lk20/KE91",
                     "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
                     "status": "http://psi.udir.no/kl06/status_publisert",
-                    "tittel": "Bransjelære"
+                    "tittel": "Moderne fysikk"
                 }
             ]
         },
@@ -135,7 +135,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Folkehelse og livsmestring som tverrfaglig tema i skolen skal gi elevene kompetanse som fremmer god psykisk og fysisk helse, og som gir muligheter til å ta ansvarlige livsvalg. I barne- og ungdomsårene er utvikling av et positivt selvbilde og en trygg identitet særlig avgjørende."
+                                "verdi": "Et samfunn som legger til rette for gode helsevalg hos den enkelte, har stor betydning for folkehelsen. Livsmestring dreier seg om å kunne forstå og å kunne påvirke faktorer som har betydning for mestring av eget liv. Temaet skal bidra til at elevene lærer å håndtere medgang og motgang, og personlige og praktiske utfordringer på en best mulig måte."
                             }
                         ],
                         "forskrift": true
@@ -174,7 +174,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Demokrati og medborgerskap som tverrfaglig tema i skolen skal gi elevene kunnskap om demokratiets forutsetninger, verdier og spilleregler, og gjøre dem i stand til å delta i demokratiske prosesser. Opplæringen skal gi elevene forståelse for sammenhengen mellom demokrati og sentrale menneskerettigheter som ytringsfrihet, stemmerett og organisasjonsfrihet. De skal få innsikt i at demokratiet har ulike former og uttrykk."
+                                "verdi": "Gjennom arbeid med temaet demokrati og medborgerskap skal elevene forstå sammenhengen mellom individets rettigheter og plikter. Individene har rett til å delta i politisk arbeid, samtidig som samfunnet er avhengig av at borgerne bruker rettighetene til politisk deltakelse og utforming av det sivile samfunnet. Skolen skal stimulere elevene til å bli aktive medborgere, og gi dem kompetanse til å delta i videreutviklingen av demokratiet i Norge."
                             }
                         ],
                         "forskrift": true
@@ -213,7 +213,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Bærekraftig utvikling som tverrfaglig tema i skolen skal legge til rette for at elevene kan forstå grunnleggende dilemmaer og utviklingstrekk i samfunnet, og hvordan de kan håndteres. Bærekraftig utvikling handler om å verne om livet på jorda og å ta vare på behovene til mennesker som lever i dag, uten å ødelegge framtidige generasjoners muligheter til å dekke sine behov. En bærekraftig utvikling bygger på forståelsen av sammenhengen mellom sosiale, økonomiske og miljømessige forhold. Menneskehetens levesett og ressursbruk har konsekvenser lokalt, regionalt og globalt."
+                                "verdi": "Gjennom arbeid med temaet skal elevene utvikle kompetanse som gjør dem i stand til å ta ansvarlige valg og handle etisk og miljøbevisst. Elevene skal få forståelse for at handlingene og valgene til den enkelte har betydning. Temaet rommer problemstillinger knyttet til miljø og klima, fattigdom og fordeling av ressurser, konflikter, helse, likestilling, demografi og utdanning. Elevene skal lære om sammenhengen mellom de ulike aspektene ved bærekraftig utvikling."
                             }
                         ],
                         "forskrift": true
@@ -265,7 +265,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Å kunne bruke digitale verktøy i tømrarfaget inneber å bruke digitale verktøy i samband med planlegging, produksjon, dokumentasjon, kvalitetssikring og kommunikasjon. Det inneber også å bruke slike verktøy til målingar og utrekningar."
+                                "verdi": "Å kunne bruke digitale verktøy i fysikk innebærer å utforske, måle, registrere, analysere, dokumentere og publisere digitalt. Det betyr å anvende animasjoner og bruke Internett til å hente inn fysikkfaglig informasjon. Å kunne bruke digitale verktøy i fysikk betyr å simulere fenomener og forsøk som det ellers er vanskelig å studere."
                             }
                         ],
                         "forskrift": true
@@ -304,7 +304,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Å kunne uttrykkje seg munnleg i tømrarfaget inneber å kommunisere med kundar og kollegaer og ulike samarbeidspartnarar. Det inneber også å kunne dokumentere arbeidsprosessane fram til det ferdige produktet. I tillegg vil det seie å diskutere og vurdere faglege løysingar og arbeidsprosessar."
+                                "verdi": "Å kunne uttrykke seg muntlig i fysikk innebærer å beskrive egne observasjoner og erfaringer fra naturen, eksperimenter, ekskursjoner og informasjon i medier. Å formulere spørsmål og hypoteser og å bruke fysikkfaglige begreper og uttrykksformer inngår i dette. Det betyr å argumentere for egne vurderinger, gi tilbakemeldinger og presentere resultater. Det vil si å beherske et presist og entydig språk, blant annet å skille mellom dagliglivets bruk av begreper og fysikkens bruk av de samme begrepene."
                             }
                         ],
                         "forskrift": true
@@ -343,7 +343,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Å kunne lese i tømrarfaget inneber å  finne fram i relevant faglitteratur, regelverk og standardar. Det inneber også å forstå innhaldet i og bruke spesifikasjonar, monteringsrettleiingar, teikningar, produktomtalar og arbeidsforklaringar."
+                                "verdi": "Å kunne lese i fysikk innebærer å trekke ut, tolke og reflektere over informasjon i fysikkfaglige tekster, brosjyrer, aviser, populærvitenskapelige magasiner og bøker og på Internett. Det betyr å forstå bruksanvisninger, tabeller, diagrammer, symboler og fagspesifikke tekster. Videre vil det si å forstå innholdet i tabeller, grafer, bilder, ordinær tekst og likninger."
                             }
                         ],
                         "forskrift": true
@@ -382,7 +382,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Å kunne rekne i tømrarfaget inneber å gjere overslag over tidsbruk og kostnader, rekne ut vekt, areal, volum og mengder. I tillegg gjeld det ulike former for masseutrekning. Det inneber også bruk av målestokk og utrekning av vinklar, høgder og fall."
+                                "verdi": "Å kunne regne i fysikk innebærer å bruke tall og beregninger til å registrere og utarbeide resultater fra egne målinger, og lage tabeller og diagrammer med fysikkfaglig innhold. Det betyr å bruke og tolke formler og modeller av virkeligheten, og bearbeide og tolke ulike typer data. Å kunne regne vil si å bruke metoder fra matematikkfaget. I tillegg innebærer det bruk av vektorer, parameterframstilling av kurver og differensial- og integralregning."
                             }
                         ],
                         "forskrift": true
@@ -421,7 +421,7 @@
                         "tekst": [
                             {
                                 "spraak": "default",
-                                "verdi": "Å kunne uttrykkje seg skriftleg i tømrarfaget inneber å kommunisere med kundar og kollegaer og ulike samarbeidspartnarar. Det inneber også å kunne dokumentere arbeidsprosessane fram til det ferdige produktet. I tillegg vil det seie å diskutere og vurdere faglege løysingar og arbeidsprosessar."
+                                "verdi": "Å kunne uttrykke seg skriftlig i fysikk innebærer å beskrive egne observasjoner og erfaringer fra naturen, eksperimenter, ekskursjoner og informasjon i medier. Å formulere spørsmål og hypoteser og å bruke fysikkfaglige begreper og uttrykksformer inngår i dette. Det betyr å argumentere for egne vurderinger, gi tilbakemeldinger og presentere resultater. Det vil si å beherske et presist og entydig språk, blant annet å skille mellom dagliglivets bruk av begreper og fysikkens bruk av de samme begrepene."
                             }
                         ],
                         "forskrift": true
@@ -465,13 +465,26 @@
                     "gyldig-fra": null,
                     "gyldig-til": null
                 },
-                "id": "uuid:79ec3fc0-2e08-11e9-b210-d663bd873d93",
-                "kode": "KV60",
-                "uri": "http://psi.udir.no/kl06/KV60",
-                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV60",
+                "id": "uuid:06adc5c8-232d-11e9-ab14-d663bd873d93",
+                "kode": "KV30",
+                "uri": "http://psi.udir.no/kl06/KV30",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV30",
                 "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
                 "status": "http://psi.udir.no/kl06/status_publisert",
-                "tittel": "Kompetansemål og vurdering etter Vg3"
+                "tittel": "Kompetansemål og vurdering Fysikk 1"
+            },
+            {
+                "gyldighet": {
+                    "gyldig-fra": null,
+                    "gyldig-til": null
+                },
+                "id": "uuid:15062e26-2332-11e9-ab14-d663bd873d93",
+                "kode": "KV31",
+                "uri": "http://psi.udir.no/kl06/KV31",
+                "url-data": "http://data.udir.no/kl06/v201906/kompetansemaalsett-lk20/KV31",
+                "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+                "status": "http://psi.udir.no/kl06/status_publisert",
+                "tittel": "Kompetansemål og vurdering Fysikk 2"
             }
         ]
     },
@@ -506,26 +519,19 @@
         "fastsettelsestekst": [
             {
                 "spraak": "default",
-                "verdi": "Fastsett som forskrift av Utdanningsdirektoratet 21. februar 2008 etter delegasjon i brev av 26. september 2005 frå Utdannings- og forskingsdepartementet med heimel i lov av 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 første ledd."
+                "verdi": "Fastsatt som forskrift av Utdanningsdirektoratet 3. april 2006 etter delegasjon i brev 26. september 2005 fra Utdannings- og forskningsdepartementet med hjemmel i lov av 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 3-4 første ledd."
             }
         ],
         "fastsatt-spraak": {
-            "gyldighet": {
-                "gyldig-fra": null,
-                "gyldig-til": null
-            },
-            "id": "http://psi.oasis-open.org/iso/639/#nno",
-            "kode": "nno",
-            "uri": "http://psi.udir.no/kl06/nno",
-            "url-data": "http://data.udir.no/kl06/v201906/spraak/nno",
-            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "status": "http://psi.udir.no/kl06/status_publisert",
-            "tittel": "Nynorsk"
+            "kode": "nob",
+            "uri": "http://psi.udir.no/kl06/nob",
+            "url-data": "http://data.udir.no/kl06/v201906/spraak/nob",
+            "tittel": "Bokmål"
         },
         "fastsatt-dato-overskrift": [
             {
                 "spraak": "default",
-                "verdi": "Fastsett"
+                "verdi": "Fastsatt"
             }
         ]
     },
@@ -535,13 +541,13 @@
                 "gyldig-fra": null,
                 "gyldig-til": null
             },
-            "id": "http://psi.udir.no/ontologi/felles_programfag",
-            "kode": "fagtype_felles_programfag",
-            "uri": "http://psi.udir.no/kl06/fagtype_felles_programfag",
-            "url-data": "http://data.udir.no/kl06/v201906/fagtyper/fagtype_felles_programfag",
+            "id": "http://psi.udir.no/ontologi/valgfritt_programfag",
+            "kode": "fagtype_valgfritt_programfag",
+            "uri": "http://psi.udir.no/kl06/fagtype_valgfritt_programfag",
+            "url-data": "http://data.udir.no/kl06/v201906/fagtyper/fagtype_valgfritt_programfag",
             "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
             "status": "http://psi.udir.no/kl06/status_publisert",
-            "tittel": "Felles programfag"
+            "tittel": "Valgfritt programfag"
         }
     ],
     "tilgjengelige-spraak": [
@@ -563,13 +569,13 @@
                 "gyldig-fra": null,
                 "gyldig-til": null
             },
-            "id": "http://psi.oasis-open.org/iso/639/#nno",
-            "kode": "nno",
-            "uri": "http://psi.udir.no/kl06/nno",
-            "url-data": "http://data.udir.no/kl06/v201906/spraak/nno",
+            "id": "http://psi.oasis-open.org/iso/639/#nob",
+            "kode": "nob",
+            "uri": "http://psi.udir.no/kl06/nob",
+            "url-data": "http://data.udir.no/kl06/v201906/spraak/nob",
             "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
             "status": "http://psi.udir.no/kl06/status_publisert",
-            "tittel": "Nynorsk"
+            "tittel": "Bokmål"
         }
     ],
     "opplaeringsnivaa": [
@@ -613,13 +619,13 @@
                 "gyldig-fra": null,
                 "gyldig-til": null
             },
-            "id": "uuid:26a87839-e5d4-4773-bb48-3c6e210ad788",
-            "kode": "TMF3-01",
-            "uri": "http://psi.udir.no/kl06/TMF3-01",
-            "url-data": "http://data.udir.no/kl06/v201906/laereplaner/TMF3-01",
+            "id": "uuid:bd010713-4427-4da6-be3b-d31b90c7197e",
+            "kode": "FYS1-01",
+            "uri": "http://psi.udir.no/kl06/FYS1-01",
+            "url-data": "http://data.udir.no/kl06/v201906/laereplaner/FYS1-01",
             "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
             "status": "http://psi.udir.no/kl06/status_utgaatt",
-            "tittel": "Læreplan i tømrarfaget Vg3 / opplæring i bedrift"
+            "tittel": "Læreplan i fysikk - programfag i utdanningsprogram for studiespesialisering"
         }
     ],
     "erstattes-av": [
@@ -628,35 +634,16 @@
                 "gyldig-fra": null,
                 "gyldig-til": null
             },
-            "id": "uuid:8887cc00-2e0a-11e9-b210-d663bd873d93",
-            "kode": "TMF3-03",
-            "uri": "http://psi.udir.no/kl06/TMF3-03",
-            "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MF3-03",
+            "id": "uuid:d911dee2-2df9-11e9-b210-d663bd873d93",
+            "kode": "FYS1-03",
+            "uri": "http://psi.udir.no/kl06/FYS1-03",
+            "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/FYS1-03",
             "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
             "status": "http://psi.udir.no/kl06/status_publisert",
-            "tittel": "Læreplan i tømrarfaget Vg3 / opplæring i bedrift"
+            "tittel": "Læreplan i fysikk - programfag i utdanningsprogram for studiespesialisering"
         }
     ],
     "siste-eksamen": "2025-08-01T00:00:00",
-    "merkelapper": [
-        {
-            "gyldighet": {
-                "gyldig-fra": null,
-                "gyldig-til": null
-            },
-            "id": "http://psi.udir.no/ontologi/merkelapp/laerling",
-            "kode": "laerling",
-            "uri": "http://psi.udir.no/kl06/laerling",
-            "url-data": "http://data.udir.no/kl06/v201906/merkelapper/laerling",
-            "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
-            "status": "http://psi.udir.no/kl06/status_publisert",
-            "tittel": "Lærlingplan"
-        }
-    ],
-    "tilleggsopplysninger": [
-        {
-            "spraak": "default",
-            "verdi": "Lagt til informasjon i vurderingskapitlet som følgje av endring i kap. 3 i forskrift til opplæringslova 8. november 2018."
-        }
-    ]
+    "merkelapper": [],
+    "tilleggsopplysninger": []
 }
