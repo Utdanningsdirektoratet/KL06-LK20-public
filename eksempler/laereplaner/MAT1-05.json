@@ -575,16 +575,9 @@
             }
         ],
         "fastsatt-spraak": {
-            "gyldighet": {
-                "gyldig-fra": null,
-                "gyldig-til": null
-            },
-            "id": "http://psi.oasis-open.org/iso/639/#nno",
             "kode": "nno",
             "uri": "http://psi.udir.no/kl06/nno",
             "url-data": "http://data.udir.no/kl06/v201906/spraak/nno",
-            "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
-            "status": "http://psi.udir.no/kl06/status_publisert",
             "tittel": "Nynorsk"
         },
         "fastsatt-dato-overskrift": [
