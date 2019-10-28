@@ -8,6 +8,10 @@
             {
                 "spraak": "default",
                 "verdi": "Kompetansemål og vurdering 10. trinn"
+            },
+            {
+                "spraak": "nno",
+                "verdi": "Kompetansemål og vurdering 10. trinn"
             }
         ],
         "forskrift": true
@@ -19,6 +23,10 @@
         {
             "spraak": "default",
             "verdi": "10. trinn"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "10. trinn"
         }
     ],
     "rekkefoelge": 9,
@@ -26,12 +34,20 @@
         {
             "spraak": "default",
             "verdi": "Forklaring på kompetansemålsett"
+        },
+        {
+            "spraak": "nno",
+            "verdi": "Forklaring på kompetansemålsett"
         }
     ],
     "kompetansemaal-overskrift": {
         "tekst": [
             {
                 "spraak": "default",
+                "verdi": "Kompetansemål etter 10. trinn"
+            },
+            {
+                "spraak": "nno",
                 "verdi": "Kompetansemål etter 10. trinn"
             }
         ],
@@ -41,6 +57,10 @@
         "tekst": [
             {
                 "spraak": "default",
+                "verdi": "Mål for opplæringa er at eleven skal kunne"
+            },
+            {
+                "spraak": "nno",
                 "verdi": "Mål for opplæringa er at eleven skal kunne"
             }
         ],
@@ -79,7 +99,11 @@
             "tekst": [
                 {
                     "spraak": "default",
-                    "verdi": "Underveisvurdering"
+                    "verdi": "Undervegsvurdering"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Undervegsvurdering"
                 }
             ],
             "forskrift": true
@@ -89,6 +113,10 @@
                 {
                     "spraak": "default",
                     "verdi": "Eleven viser kompetanse i matematikk gjennom å utforske og kommunisere matematiske omgrep og generalisere matematiske samanhengar. Eleven kan bruke den matematiske kompetansen sin i problemløysing og modellering og kan reflektere over sine eigne arbeidsprosessar. Eleven kan presentere løysingar og argumentere for at dei er gyldige."
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Eleven viser kompetanse i matematikk gjennom å utforske og kommunisere matematiske omgrep og generalisere matematiske samanhengar. Eleven kan bruke den matematiske kompetansen sin i problemløysing og modellering og kan reflektere over sine eigne arbeidsprosessar. Eleven kan presentere løysingar og argumentere for at dei er gyldige."
                 }
             ],
             "forskrift": true
@@ -96,6 +124,10 @@
         "forklaring": [
             {
                 "spraak": "default",
+                "verdi": "Forklaring på undervegsvurdering"
+            },
+            {
+                "spraak": "nno",
                 "verdi": "Forklaring på undervegsvurdering"
             }
         ]
@@ -106,6 +138,10 @@
                 {
                     "spraak": "default",
                     "verdi": "Standpunktvurdering"
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Standpunktvurdering"
                 }
             ],
             "forskrift": true
@@ -115,6 +151,10 @@
                 {
                     "spraak": "default",
                     "verdi": "Omtalen av standpunktvurderinga er ikkje klar til denne innspelsrunden."
+                },
+                {
+                    "spraak": "nno",
+                    "verdi": "Omtalen av standpunktvurderinga er ikkje klar til denne innspelsrunden."
                 }
             ],
             "forskrift": true
@@ -122,6 +162,10 @@
         "forklaring": [
             {
                 "spraak": "default",
+                "verdi": "Forklaring på standpunktvurdering"
+            },
+            {
+                "spraak": "nno",
                 "verdi": "Forklaring på standpunktvurdering"
             }
         ]
@@ -178,7 +222,7 @@
         },
         "id": "uuid:3c03c709-4934-4012-9353-c14bfa8ff651",
         "kode": "MAT1-05",
-        "uri": "http://psi.udir.no/kl06/MAT1-05",
+        "uri": "http://psi.udir.no/kl06/MAT01-05",
         "url-data": "http://data.udir.no/kl06/v201906/laereplaner-lk20/MAT1-05",
         "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
         "status": "http://psi.udir.no/kl06/status_publisert",
