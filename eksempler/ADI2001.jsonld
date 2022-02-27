@@ -1,0 +1,189 @@
+﻿{
+  "@context": {
+    "@vocab": "http://psi.udir.no/ontologi/kl06/",
+    "uriId": "@id",
+    "uri": {
+      "@type": "@id"
+    },
+    "url-data": {
+      "@type": "@id"
+    },
+    "grepType": "@type",
+    "grep-type": {
+      "@type": "@id"
+    },
+    "verdi": "@value",
+    "spraak": "@language",
+    "status": {
+      "@type": "@id"
+    }
+  },
+  "grepType": "http://psi.udir.no/ontologi/kl06/fagkode",
+  "uriId": "http://psi.udir.no/kl06/ADI2001",
+  "id": "uuid:22f38a2a-e0eb-4d3e-bb0d-c16a997e9c64",
+  "kode": "ADI2001",
+  "uri": "http://psi.udir.no/kl06/ADI2001",
+  "url-data": "https://qa-data.udir.no/kl06/v201906/fagkoder/ADI2001",
+  "tittel": [
+    {
+      "spraak": "nob",
+      "verdi": "Nyanlegg"
+    },
+    {
+      "spraak": "eng",
+      "verdi": "New Installations"
+    },
+    {
+      "spraak": "sme",
+      "verdi": "Ođđaráhkadusat"
+    },
+    {
+      "spraak": "nno",
+      "verdi": "Nyanlegg"
+    },
+    {
+      "spraak": "default",
+      "verdi": "Nyanlegg"
+    }
+  ],
+  "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+  "status": "https://qa-data.udir.no/kl06/v201906/status/status_publisert",
+  "sist-endret": "2021-09-24T19:57:58.3328039",
+  "merkelapper": [
+    {
+      "uriId": "http://psi.udir.no/kl06/tverrfaglig_eksamen"
+    }
+  ],
+  "opplaeringsfag": [
+    {
+      "uriId": "http://psi.udir.no/kl06/ADI2Z01"
+    }
+  ],
+  "benyttes-sammen-med": [],
+  "erstatter": [],
+  "erstattes-av": [],
+  "omfang-totalt": "253",
+  "omfang-vitnemaal": "253",
+  "omfang-til-naa": null,
+  "sensur": {
+    "uriId": "http://psi.udir.no/kl06/sensur_lokal"
+  },
+  "oppgave": {
+    "uriId": "http://psi.udir.no/kl06/oppgave_lokal"
+  },
+  "tilleggsopplysninger": [],
+  "bygger-paa-fag": [],
+  "gyldig-fra": "2007-08-01T00:00:00",
+  "gyldig-til": "2022-12-31T00:00:00",
+  "iso-639-2-kode": null,
+  "fagtype": {
+    "uriId": "http://psi.udir.no/kl06/fagtype_felles_programfag"
+  },
+  "opplaeringsnivaa": {
+    "uriId": "http://psi.udir.no/kl06/opplaeringsnivaa_videregaaende"
+  },
+  "kortform": [
+    {
+      "spraak": "nob",
+      "verdi": "Nyanlegg"
+    },
+    {
+      "spraak": "eng",
+      "verdi": "New Installations"
+    },
+    {
+      "spraak": "sme",
+      "verdi": "Ođđaráhkadusat"
+    },
+    {
+      "spraak": "nno",
+      "verdi": "Nyanlegg"
+    },
+    {
+      "spraak": "default",
+      "verdi": "Nyanlegg"
+    }
+  ],
+  "vurderingsordning-trekkordning-elev": {
+    "uriId": "http://psi.udir.no/kl06/trekkordning_3"
+  },
+  "vurderingsordning-type-eksamensordning-elev": {
+    "uriId": "http://psi.udir.no/kl06/eksamensordning_11"
+  },
+  "vurderingsordning-vurderingsuttrykk-elev": {
+    "uriId": "http://psi.udir.no/kl06/vurderingsuttrykk_tall"
+  },
+  "vurderingsordning-eksamensform-paa-vitnemaalet-elev": {
+    "uriId": "http://psi.udir.no/kl06/eksamensform_1"
+  },
+  "vurderingsordning-standpunktvurdering-elev": true,
+  "vurderingsordning-halvaarsvurdering-2-benyttes-ved-inntak-til-hoeyere-trinn-VIGO-elev": false,
+  "vurderingsordning-hoeyeste-nivaa-elev": false,
+  "vurderingsordning-trekkordning-privatist": {
+    "uriId": "http://psi.udir.no/kl06/trekkordning_3"
+  },
+  "vurderingsordning-type-eksamensordning-privatist": {
+    "uriId": "http://psi.udir.no/kl06/eksamensordning_22"
+  },
+  "vurderingsordning-vurderingsuttrykk-privatist": {
+    "uriId": "http://psi.udir.no/kl06/vurderingsuttrykk_tall"
+  },
+  "vurderingsordning-eksamensform-paa-vitnemaalet-privatist": {
+    "uriId": "http://psi.udir.no/kl06/eksamensform_2"
+  },
+  "vurderingsordning-standpunktvurdering-privatist": false,
+  "vurderingsordning-halvaarsvurdering-2-benyttes-ved-inntak-til-hoeyere-trinn-VIGO-privatist": false,
+  "vurderingsordning-hoeyeste-nivaa-privatist": false,
+  "naar-kan-man-ta-eksamen-foerste-semester": {
+    "uriId": "http://psi.udir.no/kl06/semester_vaar_2008"
+  },
+  "naar-kan-man-ta-eksamen-siste-semester": {
+    "uriId": "http://psi.udir.no/kl06/semester_hoest_2022"
+  },
+  "naar-gis-det-undervisning-foerste-semester": {
+    "uriId": "http://psi.udir.no/kl06/semester_hoest_2007"
+  },
+  "naar-gis-det-undervisning-siste-semester": {
+    "uriId": "http://psi.udir.no/kl06/semester_vaar_2021"
+  },
+  "gyldighet-merkelapper-tverrfaglig_eksamen": {
+    "gyldig-fra": null,
+    "gyldig-til": null
+  },
+  "gyldighet-opplaeringsfag-ADI2Z01": {
+    "gyldig-fra": null,
+    "gyldig-til": "2021-07-31T00:00:00"
+  },
+  "gyldighet-vurderingsordning-trekkordning-elev-trekkordning_3": {
+    "gyldig-fra": null,
+    "gyldig-til": null
+  },
+  "gyldighet-vurderingsordning-type-eksamensordning-elev-eksamensordning_11": {
+    "gyldig-fra": null,
+    "gyldig-til": null
+  },
+  "gyldighet-vurderingsordning-vurderingsuttrykk-elev-vurderingsuttrykk_tall": {
+    "gyldig-fra": null,
+    "gyldig-til": null
+  },
+  "gyldighet-vurderingsordning-eksamensform-paa-vitnemaalet-elev-eksamensform_1": {
+    "gyldig-fra": null,
+    "gyldig-til": null
+  },
+  "gyldighet-vurderingsordning-trekkordning-privatist-trekkordning_3": {
+    "gyldig-fra": null,
+    "gyldig-til": null
+  },
+  "gyldighet-vurderingsordning-type-eksamensordning-privatist-eksamensordning_22": {
+    "gyldig-fra": null,
+    "gyldig-til": null
+  },
+  "gyldighet-vurderingsordning-vurderingsuttrykk-privatist-vurderingsuttrykk_tall": {
+    "gyldig-fra": null,
+    "gyldig-til": null
+  },
+  "gyldighet-vurderingsordning-eksamensform-paa-vitnemaalet-privatist-eksamensform_2": {
+    "gyldig-fra": null,
+    "gyldig-til": null
+  }
+}
