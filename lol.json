@@ -1,0 +1,131 @@
+[
+{
+"dokumenttype": "https://data.udir.no/kl06/v201906dokumenttype"
+},
+{
+"eksamensformer": "https://data.udir.no/kl06/v201906eksamensformer"
+},
+{
+"eksamensordninger": "https://data.udir.no/kl06/v201906eksamensordninger"
+},
+{
+"fagkategorier": "https://data.udir.no/kl06/v201906fagkategorier"
+},
+{
+"fagkoder": "https://data.udir.no/kl06/v201906fagkoder"
+},
+{
+"fagomraader": "https://data.udir.no/kl06/v201906fagomraader"
+},
+{
+"fagtyper": "https://data.udir.no/kl06/v201906fagtyper"
+},
+{
+"grunnleggende-ferdigheter-lk20": "https://data.udir.no/kl06/v201906grunnleggende-ferdigheter-lk20"
+},
+{
+"hovedomraader": "https://data.udir.no/kl06/v201906hovedomraader"
+},
+{
+"karakterer": "https://data.udir.no/kl06/v201906karakterer"
+},
+{
+"kjerneelementer-lk20": "https://data.udir.no/kl06/v201906kjerneelementer-lk20"
+},
+{
+"kompetansemaal": "https://data.udir.no/kl06/v201906kompetansemaal"
+},
+{
+"kompetansemaal-lk20": "https://data.udir.no/kl06/v201906kompetansemaal-lk20"
+},
+{
+"kompetansemaalsett": "https://data.udir.no/kl06/v201906kompetansemaalsett"
+},
+{
+"kompetansemaalsett-lk20": "https://data.udir.no/kl06/v201906kompetansemaalsett-lk20"
+},
+{
+"laereplaner": "https://data.udir.no/kl06/v201906laereplaner"
+},
+{
+"laereplaner-lk20": "https://data.udir.no/kl06/v201906laereplaner-lk20"
+},
+{
+"loepstype": "https://data.udir.no/kl06/v201906loepstype"
+},
+{
+"merkelapper": "https://data.udir.no/kl06/v201906merkelapper"
+},
+{
+"merknader": "https://data.udir.no/kl06/v201906merknader"
+},
+{
+"merknadstype": "https://data.udir.no/kl06/v201906merknadstype"
+},
+{
+"oppgave": "https://data.udir.no/kl06/v201906oppgave"
+},
+{
+"opplaeringsfag": "https://data.udir.no/kl06/v201906opplaeringsfag"
+},
+{
+"opplaeringsnivaa": "https://data.udir.no/kl06/v201906opplaeringsnivaa"
+},
+{
+"opplaeringssted": "https://data.udir.no/kl06/v201906opplaeringssted"
+},
+{
+"ordforklaringer-lk20": "https://data.udir.no/kl06/v201906ordforklaringer-lk20"
+},
+{
+"programfag": "https://data.udir.no/kl06/v201906programfag"
+},
+{
+"programomraader": "https://data.udir.no/kl06/v201906programomraader"
+},
+{
+"programomraadetype": "https://data.udir.no/kl06/v201906programomraadetype"
+},
+{
+"semester": "https://data.udir.no/kl06/v201906semester"
+},
+{
+"sensur": "https://data.udir.no/kl06/v201906sensur"
+},
+{
+"sluttkompetanse": "https://data.udir.no/kl06/v201906sluttkompetanse"
+},
+{
+"spraak": "https://data.udir.no/kl06/v201906spraak"
+},
+{
+"spraaknivaa": "https://data.udir.no/kl06/v201906spraaknivaa"
+},
+{
+"status": "https://data.udir.no/kl06/v201906status"
+},
+{
+"tidligere-navn": "https://data.udir.no/kl06/v201906tidligere-navn"
+},
+{
+"trekkordninger": "https://data.udir.no/kl06/v201906trekkordninger"
+},
+{
+"tverrfaglige-temaer-lk20": "https://data.udir.no/kl06/v201906tverrfaglige-temaer-lk20"
+},
+{
+"utdanningsprogram": "https://data.udir.no/kl06/v201906utdanningsprogram"
+},
+{
+"utdanningsprogramtype": "https://data.udir.no/kl06/v201906utdanningsprogramtype"
+},
+{
+"verb-lk20": "https://data.udir.no/kl06/v201906verb-lk20"
+},
+{
+"vurderingsuttrykk": "https://data.udir.no/kl06/v201906vurderingsuttrykk"
+},
+{
+"aarstrinn": "https://data.udir.no/kl06/v201906aarstrinn"
+}
+]
