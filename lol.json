@@ -1,0 +1,174 @@
+[
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/dokumenttype",
+      "url-data": "https://data.udir.no/kl06/v201906/dokumenttype"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensform",
+      "url-data": "https://data.udir.no/kl06/v201906/eksamensformer"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensordning",
+      "url-data": "https://data.udir.no/kl06/v201906/eksamensordninger"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/fagkategori",
+      "url-data": "https://data.udir.no/kl06/v201906/fagkategorier"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+      "url-data": "https://data.udir.no/kl06/v201906/fagkoder"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/fagomraade",
+      "url-data": "https://data.udir.no/kl06/v201906/fagomraader"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+      "url-data": "https://data.udir.no/kl06/v201906/fagtyper"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+      "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+      "url-data": "https://data.udir.no/kl06/v201906/hovedomraader"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/karakter",
+      "url-data": "https://data.udir.no/kl06/v201906/karakterer"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+      "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal",
+      "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+      "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+      "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+      "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+      "url-data": "https://data.udir.no/kl06/v201906/laereplaner"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+      "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/loepstype",
+      "url-data": "https://data.udir.no/kl06/v201906/loepstype"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+      "url-data": "https://data.udir.no/kl06/v201906/merkelapper"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/merknad",
+      "url-data": "https://data.udir.no/kl06/v201906/merknader"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/merknadstype",
+      "url-data": "https://data.udir.no/kl06/v201906/merknadstype"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/oppgave",
+      "url-data": "https://data.udir.no/kl06/v201906/oppgave"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+      "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+      "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringssted",
+      "url-data": "https://data.udir.no/kl06/v201906/opplaeringssted"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/ordforklaring_lk20",
+      "url-data": "https://data.udir.no/kl06/v201906/ordforklaringer-lk20"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/programfag",
+      "url-data": "https://data.udir.no/kl06/v201906/programfag"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+      "url-data": "https://data.udir.no/kl06/v201906/programomraader"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/programomraadetype",
+      "url-data": "https://data.udir.no/kl06/v201906/programomraadetype"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/semester",
+      "url-data": "https://data.udir.no/kl06/v201906/semester"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/sensur",
+      "url-data": "https://data.udir.no/kl06/v201906/sensur"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/sluttkompetanse",
+      "url-data": "https://data.udir.no/kl06/v201906/sluttkompetanse"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+      "url-data": "https://data.udir.no/kl06/v201906/spraak"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/spraaknivaa",
+      "url-data": "https://data.udir.no/kl06/v201906/spraaknivaa"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/status",
+      "url-data": "https://data.udir.no/kl06/v201906/status"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/tidligere_navn",
+      "url-data": "https://data.udir.no/kl06/v201906/tidligere-navn"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/trekkordning",
+      "url-data": "https://data.udir.no/kl06/v201906/trekkordninger"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+      "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogram",
+      "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogram"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogramtype",
+      "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogramtype"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+      "url-data": "https://data.udir.no/kl06/v201906/verb-lk20"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/vurderingsuttrykk",
+      "url-data": "https://data.udir.no/kl06/v201906/vurderingsuttrykk"
+    },
+    {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+      "url-data": "https://data.udir.no/kl06/v201906/aarstrinn"
+    }
+  ]
