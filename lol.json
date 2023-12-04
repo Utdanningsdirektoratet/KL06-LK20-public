@@ -69,7 +69,7 @@
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/laereplanstruktur",
-      "url-data": "https://data.udir.no/kl06/v201906/laereplanestruktur"
+      "url-data": "https://data.udir.no/kl06/v201906/laereplanstruktur"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/loepstype",
