@@ -68,6 +68,10 @@
       "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20"
     },
     {
+      "grep-type": "http://psi.udir.no/ontologi/kl06/laereplanstruktur",
+      "url-data": "https://data.udir.no/kl06/v201906/laereplanestruktur"
+    },
+    {
       "grep-type": "http://psi.udir.no/ontologi/kl06/loepstype",
       "url-data": "https://data.udir.no/kl06/v201906/loepstype"
     },
