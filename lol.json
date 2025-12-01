@@ -1,178 +1,618 @@
 [
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/dokumenttype",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Dokumenttype"
+          },
+          {
+                "language": "eng",
+                "value": "Document type"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/dokumenttype"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensform",
+      "label": [
+          {
+                "language": "nob",
+                "value": "eksamensform"
+          },
+          {
+                "language": "eng",
+                "value": "Examination-form to certificate"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/eksamensformer"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/eksamensordning",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Eksamensordning"
+          },
+          {
+                "language": "eng",
+                "value": "Type of examination arrangement"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/eksamensordninger"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/fagkategori",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Fagketegori"
+          },
+          {
+                "language": "eng",
+                "value": "Subject category"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/fagkategorier"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/fagkode",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Fagkode"
+          },
+          {
+                "language": "eng",
+                "value": "Subject code"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/fagkoder"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/fagomraade",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Fagområde"
+          },
+          {
+                "language": "eng",
+                "value": "Subject area"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/fagomraader"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/fagtype",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Fagtype"
+          },
+          {
+                "language": "eng",
+                "value": "Subject type"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/fagtyper"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/grunnleggende_ferdighet_lk20",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Grunnleggende ferdighet"
+          },
+          {
+                "language": "eng",
+                "value": "Basic skill"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/grunnleggende-ferdigheter-lk20"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/hovedomraade",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Hovedområde"
+          },
+          {
+                "language": "eng",
+                "value": "Main area"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/hovedomraader"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/karakter",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Karakter"
+          },
+          {
+                "language": "eng",
+                "value": "Grade"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/karakterer"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/kjerneelement_lk20",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Kjerneelement"
+          },
+          {
+                "language": "eng",
+                "value": "Core element"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/kjerneelementer-lk20"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Kompetansemål (LK06)"
+          },
+          {
+                "language": "eng",
+                "value": "Competence aim (LK06)"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaal_lk20",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Kompetansemål (LK20)"
+          },
+          {
+                "language": "eng",
+                "value": "Competence aim (LK20)"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal-lk20"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Kompetansemålsett (LK06)"
+          },
+          {
+                "language": "eng",
+                "value": "Competence aim set (LK06)"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/kompetansemaalsett_lk20",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Kompetansemålsett (LK20)"
+          },
+          {
+                "language": "eng",
+                "value": "Competence aim set (LK20)"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/kompetansemaalsett-lk20"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Læreplan (LK06)"
+          },
+          {
+                "language": "eng",
+                "value": "Curriculum (LK06)"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/laereplaner"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/laereplan_lk20",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Læreplan (LK20)"
+          },
+          {
+                "language": "eng",
+                "value": "Curriculum (LK20)"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/laereplaner-lk20"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/laereplanstruktur",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Læreplanstruktur"
+          },
+          {
+                "language": "eng",
+                "value": "Curriculum Structure"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/laereplanstruktur"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/loepstype",
+      "label": [
+          {
+                "language": "nob",
+                "value": "løpstype"
+          },
+          {
+                "language": "eng",
+                "value": "educational pathway type"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/loepstype"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/merkelapp",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Merkelapp"
+          },
+          {
+                "language": "eng",
+                "value": "Tag"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/merkelapper"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/merknad",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Merknad"
+          },
+          {
+                "language": "eng",
+                "value": "Note"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/merknader"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/merknadstype",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Merknadstype"
+          },
+          {
+                "language": "eng",
+                "value": "Note type"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/merknadstype"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/oppgave",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Oppgave"
+          },
+          {
+                "language": "eng",
+                "value": "Examination-arrangement"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/oppgave"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsfag",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Opplæringsfag"
+          },
+          {
+                "language": "eng",
+                "value": "Teaching subject"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/opplaeringsfag"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringsnivaa",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Opplærignsnivå"
+          },
+          {
+                "language": "eng",
+                "value": "Teaching level"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/opplaeringsnivaa"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/opplaeringssted",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Opplaeringssted"
+          },
+          {
+                "language": "eng",
+                "value": "Place of training"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/opplaeringssted"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/ordforklaring_lk20",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Ordforklaring"
+          },
+          {
+                "language": "eng",
+                "value": "Glossary entity"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/ordforklaringer-lk20"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/programfag",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Programfag"
+          },
+          {
+                "language": "eng",
+                "value": "Programme subject"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/programfag"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/programomraade",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Programområde"
+          },
+          {
+                "language": "eng",
+                "value": "Programme area"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/programomraader"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/programomraadetype",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Programområdetype"
+          },
+          {
+                "language": "eng",
+                "value": "Programme area type"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/programomraadetype"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/semester",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Semester"
+          },
+          {
+                "language": "eng",
+                "value": "Semester"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/semester"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/sensur",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Sensur"
+          },
+          {
+                "language": "eng",
+                "value": "Censorship-arrangement"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/sensur"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/sluttkompetanse",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Sluttkompetanse"
+          },
+          {
+                "language": "eng",
+                "value": "Final competence"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/sluttkompetanse"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/spraak",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Språk"
+          },
+          {
+                "language": "eng",
+                "value": "Language"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/spraak"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/spraaknivaa",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Språknivå"
+          },
+          {
+                "language": "eng",
+                "value": "Language level"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/spraaknivaa"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/status",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Status"
+          },
+          {
+                "language": "eng",
+                "value": "Status"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/status"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/tidligere_navn",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Tidligere navn"
+          },
+          {
+                "language": "eng",
+                "value": "Previous name"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/tidligere-navn"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/trekkordning",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Trekkordning"
+          },
+          {
+                "language": "eng",
+                "value": "Draw system"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/trekkordninger"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/tverrfaglig_tema_lk20",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Tverrfaglig tema"
+          },
+          {
+                "language": "eng",
+                "value": "Interdisciplinary topic"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/tverrfaglige-temaer-lk20"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogram",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Utdanningsprogram"
+          },
+          {
+                "language": "eng",
+                "value": "Eeducation programme"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogram"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/utdanningsprogramtype",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Utdanningsprogramtype"
+          },
+          {
+                "language": "eng",
+                "value": "Education programme type"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/utdanningsprogramtype"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/verb_lk20",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Verb"
+          },
+          {
+                "language": "eng",
+                "value": "Verb"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/verb-lk20"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/vurderingsuttrykk",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Vurderingsuttrykk"
+          },
+          {
+                "language": "eng",
+                "value": "Expression of assessment"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/vurderingsuttrykk"
     },
     {
       "grep-type": "http://psi.udir.no/ontologi/kl06/aarstrinn",
+      "label": [
+          {
+                "language": "nob",
+                "value": "Årstrinn"
+          },
+          {
+                "language": "eng",
+                "value": "Year level"
+          }
+        ],
       "url-data": "https://data.udir.no/kl06/v201906/aarstrinn"
     }
   ]
